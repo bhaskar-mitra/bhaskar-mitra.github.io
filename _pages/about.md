@@ -17,12 +17,10 @@ I received my Ph.D. in Computer Science from University College London under the
 Featured work
 ======
 
-<div class="archive" width="100%">
-  <img src="/images/500x300.png" width="100%"/>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" width="100%">
-    <img src="/images/500x300.png" width="100%"/>
-    <table border="0" width="100%">
-      <tr width="100%">
+<div class="archive">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <table border="0">
+      <tr>
         <td width="30%"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
         <td>
           <h2 class="archive__item-title" itemprop="headline">
