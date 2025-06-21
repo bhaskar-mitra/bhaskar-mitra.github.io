@@ -34,19 +34,6 @@ Featured work
         </td>
       </tr>
       <tr style="border:none">
-        <td style="border:none"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
-        <td style="border:none">
-          <h2 class="archive__item-title" itemprop="headline">
-            <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
-              Emancipatory Information Retrieval (Invited Talk)
-            </a>
-          </h2>
-          <p class="archive__item-excerpt" itemprop="description">
-            Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk is a provocation for the role of computer-mediated information access in our emancipatory struggles. We define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. We present an early framework of practices, projects, and design provocations for emancipatory IR to challenge the field of IR research to embrace humanistic values and commit to universal emancipation and social justice.
-          </p>
-        </td>
-      </tr>
-      <tr style="border:none">
         <td style="border:none"><img src="/images/9781680835328.jpg" /></td>
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
@@ -56,6 +43,19 @@ Featured work
           </h2>
           <p class="archive__item-excerpt" itemprop="description">
             Neural models have been employed in many Information Retrieval scenarios, including ad-hoc retrieval, recommender systems, multi-media search, and even conversational systems that generate answers in response to natural language questions. This book provides a complete picture of neural information retrieval techniques that culminate in supervised neural learning to rank models including deep neural network architectures that are trained end-to-end for ranking tasks. In reaching this point, we cover all the important topics, including the learning to rank framework and an overview of deep neural networks. We provide an accessible, yet comprehensive, overview of the state-of-the-art of Neural Information Retrieval.
+          </p>
+        </td>
+      </tr>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
+        <td style="border:none">
+          <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
+              Emancipatory Information Retrieval (Invited Talk)
+            </a>
+          </h2>
+          <p class="archive__item-excerpt" itemprop="description">
+            Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk is a provocation for the role of computer-mediated information access in our emancipatory struggles. We define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. We present an early framework of practices, projects, and design provocations for emancipatory IR to challenge the field of IR research to embrace humanistic values and commit to universal emancipation and social justice.
           </p>
         </td>
       </tr>
