@@ -18,9 +18,9 @@ Featured work
 ======
 
 <div class="archive" width="100%">
-    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" width="100%">
         <table border="0" width="100%">
-          <tr>
+          <tr width="100%">
             <td width="30%"><img src="/images/978-3-031-73147-1.webp" /></td>
             <td>
               <h2 class="archive__item-title" itemprop="headline">
