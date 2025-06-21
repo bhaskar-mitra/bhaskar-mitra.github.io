@@ -33,9 +33,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/978-3-031-73147-1.webp" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/978-3-031-73147-1.webp" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://link.springer.com/chapter/10.1007/978-3-031-73147-1_7" rel="permalink">
               Book Chapter: Sociotechnical Implications of Generative Artificial Intelligence for Information Access
@@ -46,9 +46,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/9781680835328.jpg" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/9781680835328.jpg" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://www.nowpublishers.com/article/Details/INR-061" rel="permalink">
               Book: An Introduction to Neural Information Retrieval
@@ -59,9 +59,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://trec-tot.github.io" rel="permalink">
               Benchmark: TREC Tip-of-the-Tongue Track
@@ -72,9 +72,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://microsoft.github.io/msmarco/TREC-Deep-Learning" rel="permalink">
               Benchmark: TREC Deep Learning Track
@@ -85,9 +85,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/MarcoLogo.small_.png" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/MarcoLogo.small_.png" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://microsoft.github.io/msmarco" rel="permalink">
               Benchmark: MS MARCO
@@ -98,9 +98,9 @@ Featured work
           </p>
         </td>
       </tr>
-      <tr>
-        <td><img src="/images/dissertation-bmitra.png" /></td>
-        <td>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/dissertation-bmitra.png" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="" rel="permalink">
               PhD Thesis: Neural Methods for Effective, Efficient, and Exposure-Aware Information Retrieval
