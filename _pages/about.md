@@ -17,3 +17,39 @@ I received my Ph.D. in Computer Science from University College London under the
 Featured work
 ======
 
+<div class="archive">
+    <div class="list__item">
+        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+            <table border="0">
+              <tr>
+                <td><img src="/images/500x300.png" height="300" /></td>
+                <td>
+                  <h2 class="archive__item-title" itemprop="headline">
+                    <a href="https://bhaskar-mitra.github.io/portfolio/portfolio-1/" rel="permalink">Portfolio item number 1</a>
+                  </h2>
+                  <p class="archive__item-excerpt" itemprop="description">
+                    Short description of portfolio item number 1
+                  </p>
+                </td>
+              </tr>
+            </table>
+        </article>
+    </div>
+    <div class="list__item">
+        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+            <table border="0">
+              <tr>
+                <td><img src="/images/500x300.png" height="300" /></td>
+                <td>
+                  <h2 class="archive__item-title" itemprop="headline">
+                    <a href="https://bhaskar-mitra.github.io/portfolio/portfolio-2/" rel="permalink">Portfolio item number 2</a>
+                  </h2>
+                  <p class="archive__item-excerpt" itemprop="description">
+                    Short description of portfolio item number 2
+                  </p>
+                </td>
+              </tr>
+            </table>
+        </article>
+    </div>
+</div>
