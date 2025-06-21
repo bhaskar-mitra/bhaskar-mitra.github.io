@@ -20,9 +20,9 @@ Featured work
 <div class="archive">
     <div class="list__item">
         <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-            <table border="0">
+            <table border="0" width="100%">
               <tr>
-                <td width="300"><img src="/images/978-3-031-73147-1.webp" height="300" /></td>
+                <td width="30%"><img src="/images/978-3-031-73147-1.webp" /></td>
                 <td>
                   <h2 class="archive__item-title" itemprop="headline">
                     <a href="https://link.springer.com/chapter/10.1007/978-3-031-73147-1_7" rel="permalink">
@@ -48,7 +48,7 @@ Featured work
                 </td>
               </tr>
               <tr>
-                <td><img src="/images/9781680835328.jpg" height="300" /></td>
+                <td><img src="/images/9781680835328.jpg" /></td>
                 <td>
                   <h2 class="archive__item-title" itemprop="headline">
                     <a href="https://www.nowpublishers.com/article/Details/INR-061" rel="permalink">
@@ -61,7 +61,7 @@ Featured work
                 </td>
               </tr>
               <tr>
-                <td><img src="/images/MarcoLogo.small_.png" height="300" /></td>
+                <td><img src="/images/MarcoLogo.small_.png" /></td>
                 <td>
                   <h2 class="archive__item-title" itemprop="headline">
                     <a href="https://microsoft.github.io/msmarco" rel="permalink">
@@ -100,7 +100,7 @@ Featured work
                 </td>
               </tr>
               <tr>
-                <td><img src="/images/dissertation-bmitra.png" height="300" /></td>
+                <td><img src="/images/dissertation-bmitra.png" /></td>
                 <td>
                   <h2 class="archive__item-title" itemprop="headline">
                     <a href="" rel="permalink">
