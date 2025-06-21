@@ -17,102 +17,100 @@ I received my Ph.D. in Computer Science from University College London under the
 Featured work
 ======
 
-<div class="archive">
-    <div class="list__item" width="100%">
-        <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-            <table border="0" width="100%">
-              <tr>
-                <td width="30%"><img src="/images/978-3-031-73147-1.webp" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://link.springer.com/chapter/10.1007/978-3-031-73147-1_7" rel="permalink">
-                      Book Chapter: Sociotechnical Implications of Generative Artificial Intelligence for Information Access
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    Robust access to trustworthy information is a critical need for society with implications for knowledge production, public health education, and promoting informed citizenry in democratic societies. Generative AI technologies may enable new ways to access information and improve effectiveness of existing information retrieval systems, but we are only starting to understand and grapple with their long-term social implications. In this chapter, we present an overview of some of the systemic consequences and risks of employing generative AI in the context of information access. We also provide recommendations for evaluation and mitigation and discuss challenges for future research.
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/emancipatory-ir-2-655x368.png" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
-                      Emancipatory Information Retrieval (Invited Talk)
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk will be a provocation for the role of computer-mediated information access in our emancipatory struggles. Information retrieval (IR) is a field in computing that concerns with the design of information access systems, such as search engines and recommender systems, and has traditionally been informed by other fields such as information science, human-computer interaction, and machine learning. I define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. In this talk, I will present an early framework of practices, projects, and design provocations for emancipatory IR, and will situate some of my own recent work within this framework. My goal is to propose a new framing that challenges the field of IR research to embrace humanistic values and commit to universal emancipation and social justice. In this process, I believe we must both imagine post-oppressive worlds, and reimagine the role of IR in that world and in the journey that leads us there.
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/9781680835328.jpg" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://www.nowpublishers.com/article/Details/INR-061" rel="permalink">
-                      Book: An Introduction to Neural Information Retrieval
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    Neural models have been employed in many Information Retrieval scenarios, including ad-hoc retrieval, recommender systems, multi-media search, and even conversational systems that generate answers in response to natural language questions. An Introduction to Neural Information Retrieval provides a tutorial introduction to neural methods for ranking documents in response to a query, an important IR task. The monograph provides a complete picture of neural information retrieval techniques that culminate in supervised neural learning to rank models including deep neural network architectures that are trained end-to-end for ranking tasks. In reaching this point, the authors cover all the important topics, including the learning to rank framework and an overview of deep neural networks. This monograph provides an accessible, yet comprehensive, overview of the state-of-the-art of Neural Information Retrieval.
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/MarcoLogo.small_.png" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://microsoft.github.io/msmarco" rel="permalink">
-                      Benchmark: MS MARCO
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    MS MARCO is a collection of datasets focused on deep learning in search. The first dataset was a question answering dataset featuring 100,000 real Bing questions and a human generated answer. Since then we released a 1,000,000 question dataset, a natural langauge generation dataset, a passage ranking dataset, keyphrase extraction dataset, crawling dataset, and a conversational search.
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://microsoft.github.io/msmarco/TREC-Deep-Learning" rel="permalink">
-                      Benchmark: TREC Deep Learning Track
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    The TREC Deep Learning Track studies information retrieval in a large training data regime. This is the case where the number of training queries with at least one positive label is at least in the tens of thousands, if not hundreds of thousands or more. This corresponds to real-world scenarios such as training based on click logs and training based on labels from shallow pools (such as the pooling in the TREC Million Query Track or the evaluation of search engines based on early precision).
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="https://trec-tot.github.io" rel="permalink">
-                      Benchmark: TREC Tip-of-the-Tongue Track
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    Tip-of-the-tongue (ToT) known-item retrieval is defined as "an item identification task in which the searcher has previously experienced an item but cannot recall a reliable identifier" (i.e., "It’s on the tip of my tongue…"). The TREC ToT track aims to develop IR systems that can successfully resolve ToT information needs. Progress in this area will likely benefit other IR systems that must deal with memory assistance, such as personal information management (PIM) systems (e.g., email re-finding).
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td><img src="/images/dissertation-bmitra.png" /></td>
-                <td>
-                  <h2 class="archive__item-title" itemprop="headline">
-                    <a href="" rel="permalink">
-                      PhD Thesis: Neural Methods for Effective, Efficient, and Exposure-Aware Information Retrieval
-                    </a>
-                  </h2>
-                  <p class="archive__item-excerpt" itemprop="description">
-                    Neural networks with deep architectures have demonstrated significant performance improvements in computer vision, speech recognition, and natural language processing. The challenges in information retrieval (IR), however, are different from these other application areas. A common form of IR involves ranking of documents---or short passages---in response to keyword-based queries. Effective IR systems must deal with query-document vocabulary mismatch problem, by modeling relationships between different query and document terms and how they indicate relevance. Models should also consider lexical matches when the query contains rare terms---such as a person's name or a product model number---not seen during training, and to avoid retrieving semantically related but irrelevant results. In many real-life IR tasks, the retrieval involves extremely large collections---such as the document index of a commercial Web search engine---containing billions of documents. Efficient IR methods should take advantage of specialized IR data structures, such as inverted index, to efficiently retrieve from large collections. Given an information need, the IR system also mediates how much exposure an information artifact receives by deciding whether it should be displayed, and where it should be positioned, among other results. Exposure-aware IR systems may optimize for additional objectives, besides relevance, such as parity of exposure for retrieved items and content publishers. In this thesis, we present novel neural architectures and methods motivated by the specific needs and challenges of IR tasks.
-                  </p>
-                </td>
-              </tr>
-            </table>
-        </article>
-    </div>
+<div class="archive" width="100%">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <table border="0" width="100%">
+          <tr>
+            <td width="30%"><img src="/images/978-3-031-73147-1.webp" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://link.springer.com/chapter/10.1007/978-3-031-73147-1_7" rel="permalink">
+                  Book Chapter: Sociotechnical Implications of Generative Artificial Intelligence for Information Access
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                Robust access to trustworthy information is a critical need for society with implications for knowledge production, public health education, and promoting informed citizenry in democratic societies. Generative AI technologies may enable new ways to access information and improve effectiveness of existing information retrieval systems, but we are only starting to understand and grapple with their long-term social implications. In this chapter, we present an overview of some of the systemic consequences and risks of employing generative AI in the context of information access. We also provide recommendations for evaluation and mitigation and discuss challenges for future research.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/emancipatory-ir-2-655x368.png" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
+                  Emancipatory Information Retrieval (Invited Talk)
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk will be a provocation for the role of computer-mediated information access in our emancipatory struggles. Information retrieval (IR) is a field in computing that concerns with the design of information access systems, such as search engines and recommender systems, and has traditionally been informed by other fields such as information science, human-computer interaction, and machine learning. I define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. In this talk, I will present an early framework of practices, projects, and design provocations for emancipatory IR, and will situate some of my own recent work within this framework. My goal is to propose a new framing that challenges the field of IR research to embrace humanistic values and commit to universal emancipation and social justice. In this process, I believe we must both imagine post-oppressive worlds, and reimagine the role of IR in that world and in the journey that leads us there.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/9781680835328.jpg" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://www.nowpublishers.com/article/Details/INR-061" rel="permalink">
+                  Book: An Introduction to Neural Information Retrieval
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                Neural models have been employed in many Information Retrieval scenarios, including ad-hoc retrieval, recommender systems, multi-media search, and even conversational systems that generate answers in response to natural language questions. An Introduction to Neural Information Retrieval provides a tutorial introduction to neural methods for ranking documents in response to a query, an important IR task. The monograph provides a complete picture of neural information retrieval techniques that culminate in supervised neural learning to rank models including deep neural network architectures that are trained end-to-end for ranking tasks. In reaching this point, the authors cover all the important topics, including the learning to rank framework and an overview of deep neural networks. This monograph provides an accessible, yet comprehensive, overview of the state-of-the-art of Neural Information Retrieval.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/MarcoLogo.small_.png" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://microsoft.github.io/msmarco" rel="permalink">
+                  Benchmark: MS MARCO
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                MS MARCO is a collection of datasets focused on deep learning in search. The first dataset was a question answering dataset featuring 100,000 real Bing questions and a human generated answer. Since then we released a 1,000,000 question dataset, a natural langauge generation dataset, a passage ranking dataset, keyphrase extraction dataset, crawling dataset, and a conversational search.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://microsoft.github.io/msmarco/TREC-Deep-Learning" rel="permalink">
+                  Benchmark: TREC Deep Learning Track
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                The TREC Deep Learning Track studies information retrieval in a large training data regime. This is the case where the number of training queries with at least one positive label is at least in the tens of thousands, if not hundreds of thousands or more. This corresponds to real-world scenarios such as training based on click logs and training based on labels from shallow pools (such as the pooling in the TREC Million Query Track or the evaluation of search engines based on early precision).
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/Text_REtrieval_Conference_TREC_logo-655x368.png" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="https://trec-tot.github.io" rel="permalink">
+                  Benchmark: TREC Tip-of-the-Tongue Track
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                Tip-of-the-tongue (ToT) known-item retrieval is defined as "an item identification task in which the searcher has previously experienced an item but cannot recall a reliable identifier" (i.e., "It’s on the tip of my tongue…"). The TREC ToT track aims to develop IR systems that can successfully resolve ToT information needs. Progress in this area will likely benefit other IR systems that must deal with memory assistance, such as personal information management (PIM) systems (e.g., email re-finding).
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/dissertation-bmitra.png" /></td>
+            <td>
+              <h2 class="archive__item-title" itemprop="headline">
+                <a href="" rel="permalink">
+                  PhD Thesis: Neural Methods for Effective, Efficient, and Exposure-Aware Information Retrieval
+                </a>
+              </h2>
+              <p class="archive__item-excerpt" itemprop="description">
+                Neural networks with deep architectures have demonstrated significant performance improvements in computer vision, speech recognition, and natural language processing. The challenges in information retrieval (IR), however, are different from these other application areas. A common form of IR involves ranking of documents---or short passages---in response to keyword-based queries. Effective IR systems must deal with query-document vocabulary mismatch problem, by modeling relationships between different query and document terms and how they indicate relevance. Models should also consider lexical matches when the query contains rare terms---such as a person's name or a product model number---not seen during training, and to avoid retrieving semantically related but irrelevant results. In many real-life IR tasks, the retrieval involves extremely large collections---such as the document index of a commercial Web search engine---containing billions of documents. Efficient IR methods should take advantage of specialized IR data structures, such as inverted index, to efficiently retrieve from large collections. Given an information need, the IR system also mediates how much exposure an information artifact receives by deciding whether it should be displayed, and where it should be positioned, among other results. Exposure-aware IR systems may optimize for additional objectives, besides relevance, such as parity of exposure for retrieved items and content publishers. In this thesis, we present novel neural architectures and methods motivated by the specific needs and challenges of IR tasks.
+              </p>
+            </td>
+          </tr>
+        </table>
+    </article>
 </div>
