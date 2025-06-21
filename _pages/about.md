@@ -19,7 +19,7 @@ Featured work
 
 <div>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <table border="0">
+    <table style="border:none">
       <tr>
         <td width="30%"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
         <td>
