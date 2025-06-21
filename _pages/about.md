@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science from University College London under the
 Featured work
 ======
 <img src="/images/500x300.png" width="100%"/>
-<div class="archive">
+<div>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <table border="0">
       <tr>
