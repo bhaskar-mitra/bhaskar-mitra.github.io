@@ -18,7 +18,7 @@ Featured work
 ======
 
 <div class="archive">
-    <div class="list__item">
+    <div class="list__item" width="100%">
         <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
             <table border="0" width="100%">
               <tr>
