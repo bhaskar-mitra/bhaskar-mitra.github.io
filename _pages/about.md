@@ -102,7 +102,7 @@ Featured work
         <td style="border:none"><img src="/images/dissertation-bmitra.png" /></td>
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
-            <a href="" rel="permalink">
+            <a href="https://discovery.ucl.ac.uk/id/eprint/10125532/1/dissertation-bmitra.pdf" rel="permalink">
               PhD Thesis: Neural Methods for Effective, Efficient, and Exposure-Aware Information Retrieval
             </a>
           </h2>
