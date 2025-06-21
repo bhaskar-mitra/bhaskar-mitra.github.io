@@ -19,10 +19,10 @@ Featured work
 
 <div>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <table border="0">
-      <tr border="0">
-        <td width="30%" border="0"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
-        <td border="0">
+    <table style="border:none">
+      <tr style="border:none">
+        <td width="30%" style="border:none"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
+        <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
               Emancipatory Information Retrieval (Invited Talk)
