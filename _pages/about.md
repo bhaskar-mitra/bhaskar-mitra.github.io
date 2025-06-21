@@ -52,7 +52,7 @@ Featured work
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
-              Emancipatory Information Retrieval (Invited Talk)
+              Invited Talk: Emancipatory Information Retrieval
             </a>
           </h2>
           <p class="archive__item-excerpt" itemprop="description">
