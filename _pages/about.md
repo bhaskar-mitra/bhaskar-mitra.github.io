@@ -21,20 +21,7 @@ Featured work
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <table style="border:none">
       <tr style="border:none">
-        <td width="30%" style="border:none"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
-        <td style="border:none">
-          <h2 class="archive__item-title" itemprop="headline">
-            <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
-              Emancipatory Information Retrieval (Invited Talk)
-            </a>
-          </h2>
-          <p class="archive__item-excerpt" itemprop="description">
-            Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk is a provocation for the role of computer-mediated information access in our emancipatory struggles. We define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. We present an early framework of practices, projects, and design provocations for emancipatory IR to challenge the field of IR research to embrace humanistic values and commit to universal emancipation and social justice.
-          </p>
-        </td>
-      </tr>
-      <tr style="border:none">
-        <td style="border:none"><img src="/images/978-3-031-73147-1.webp" /></td>
+        <td width="30%" style="border:none"><img src="/images/978-3-031-73147-1.webp" /></td>
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://link.springer.com/chapter/10.1007/978-3-031-73147-1_7" rel="permalink">
@@ -43,6 +30,19 @@ Featured work
           </h2>
           <p class="archive__item-excerpt" itemprop="description">
             Robust access to trustworthy information is a critical need for society with implications for knowledge production, public health education, and promoting informed citizenry in democratic societies. Generative AI technologies may enable new ways to access information and improve effectiveness of existing information retrieval systems, but we are only starting to understand and grapple with their long-term social implications. In this chapter, we present an overview of some of the systemic consequences and risks of employing generative AI in the context of information access. We also provide recommendations for evaluation and mitigation and discuss challenges for future research.
+          </p>
+        </td>
+      </tr>
+      <tr style="border:none">
+        <td style="border:none"><img src="/images/emancipatory-ir-2-655x368.png" /></td>
+        <td style="border:none">
+          <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg" rel="permalink">
+              Emancipatory Information Retrieval (Invited Talk)
+            </a>
+          </h2>
+          <p class="archive__item-excerpt" itemprop="description">
+            Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This talk is a provocation for the role of computer-mediated information access in our emancipatory struggles. We define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. We present an early framework of practices, projects, and design provocations for emancipatory IR to challenge the field of IR research to embrace humanistic values and commit to universal emancipation and social justice.
           </p>
         </td>
       </tr>
