@@ -104,7 +104,7 @@ Featured work
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
             <a href="https://neu-ir.weebly.com" rel="permalink">
-              Workshop: Workshop on Neural Information Retrieval (Neu-IR)
+              Workshop: Neural Information Retrieval (Neu-IR)
             </a>
           </h2>
           <p class="archive__item-excerpt" itemprop="description">
