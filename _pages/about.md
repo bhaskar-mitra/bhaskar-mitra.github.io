@@ -100,6 +100,20 @@ Featured work
         </td>
       </tr>
       <tr style="border:none">
+        <td style="border:none"><img src="/images/F387GePB_400x400.jpg" /></td>
+        <td style="border:none">
+          <h2 class="archive__item-title" itemprop="headline">
+            <a href="https://neu-ir.weebly.com" rel="permalink">
+              Workshop: Neu-IR: Workshop on Neural Information Retrieval
+            </a>
+          </h2>
+          <p class="archive__item-excerpt" itemprop="description">
+              the Neural IR Workshops  
+            The Neu-IR (pronounced “New IR”) workshops brought together an early community of information retrieval researchers interested in deep learning methods. It served as a forum for academic and industrial researchers working at the intersection of information retrieval and machine learning to present new work and early results, compare notes on neural network toolkits, share best practices, and discuss the main challenges facing this line of research.
+          </p>
+        </td>
+      </tr>
+      <tr style="border:none">
         <td style="border:none"><img src="/images/dissertation-bmitra.png" /></td>
         <td style="border:none">
           <h2 class="archive__item-title" itemprop="headline">
