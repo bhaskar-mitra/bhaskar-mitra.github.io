@@ -108,7 +108,6 @@ Featured work
             </a>
           </h2>
           <p class="archive__item-excerpt" itemprop="description">
-              the Neural IR Workshops  
             The Neu-IR (pronounced “New IR”) workshops brought together an early community of information retrieval researchers interested in deep learning methods. It served as a forum for academic and industrial researchers working at the intersection of information retrieval and machine learning to present new work and early results, compare notes on neural network toolkits, share best practices, and discuss the main challenges facing this line of research.
           </p>
         </td>
