@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Academic Service"
+    url: /service/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -25,6 +25,3 @@ main:
     
   - title: "CV"
     url: /files/Bhaskar-Mitra-CV.pdf
-    
-  - title: "Guide"
-    url: /markdown/
