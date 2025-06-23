@@ -15,3 +15,7 @@ Conference chairing
 ======
 * **IR for Good Chair**, ECIR, 2026
 * **Program Chair**, [SIGIR-AP](https://www.sigir-ap.org/sigir-ap-2025/organizers/), 2025
+
+Workshops, tutorials, and shared tasks
+======
+* **Shared task:** [Tip-of-the-Tongue track](https://trec-tot.github.io/guidelines), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2023-present).
