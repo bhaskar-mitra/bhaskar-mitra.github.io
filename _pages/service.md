@@ -12,6 +12,7 @@ Organizational leadership
 * **Secretary**, [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers/) (2025-2028)
 * **Associate Editor**, [ACM Transactions on Information Systems](https://dl.acm.org/journal/tois/editorial-board) (2024-2027)
 * **Community Relations Coordinator**, [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers/) (2022-2025)
+* **Guest editor**, [Special Issue of Information Retrieval Journal (IRJ) on Neural Information Retrieval](https://link.springer.com/journal/10791/21/2/page/1), June 2018
 
 <br/><br/>
 
@@ -40,3 +41,8 @@ Workshop, tutorial, and shared task organization
 * **Workshop:** [The Search Futures Workshop](https://searchfutures.github.io/), [ECIR](https://www.ecir2024.org/), March 2024
 * **Shared task:** [Deep Learning track](https://microsoft.github.io/msmarco/TREC-Deep-Learning), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2019-2023)
 * **Tutorial:** Learning to Rank for Information Retrieval with Neural Networks ([slides](https://www.slideshare.net/BhaskarMitra3/learning-to-rank-with-neural-networks-226255754) + [video](https://www.youtube.com/watch?v=kiPpt5Ax1EY) + [hands-on lab materials](https://github.com/spacemanidol/AFIRMDeepLearning2020)),[ ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM)](http://sigir.org/afirm2020/), January 2020
+* **Tutorial:** [Deep Learning for Search](http://fire.irsi.res.in/fire/2019/Tutorials) ([slides](https://www.slideshare.net/BhaskarMitra3/deep-learning-for-search-204326329)), [Forum for Information Retrieval Evaluation (FIRE)](http://fire.irsi.res.in/fire/2019/home), December 2019
+* **Workshop:** [HIPstIR 2019: The hip “stick, sand, and paper” retreat on the future of information retrieval](https://bhaskar-mitra.github.io/HIPstIR/), ([report](https://sigir.org/wp-content/uploads/2019/december/p062.pdf)), September 2019
+* **Tutorial:** Neural Learning to Rank ([slides](https://www.slideshare.net/BhaskarMitra3/neural-learning-to-rank)), [IVADO recommender systems summer school](https://ivado.ca/en/trainings/workshops/workshop-recommender-systems/), August 2019
+* **Tutorial:** Deep Learning for Search ([slides](https://www.slideshare.net/BhaskarMitra3/deep-learning-for-search-128258666) + [hands-on lab materials](https://github.com/spacemanidol/AFIRM2019DeepLearning)), [ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM)](http://sigir.org/afirm2019/), January 2019
+* **Shared task:** [Microsoft MAchine Reading COmprehension (MS MARCO)](http://www.msmarco.org/) passage and document ranking leaderboards, November 2018.
