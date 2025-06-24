@@ -15,10 +15,7 @@ main:
     url: /talks/    
 
   - title: "Professional Service"
-    url: /service/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /service/
         
   - title: "Blog Posts"
     url: /year-archive/
