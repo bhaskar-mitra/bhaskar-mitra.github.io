@@ -28,6 +28,7 @@ Conference chairing
 * **Diversity and Inclusion Scholarship Chair**, [CIKM](https://www.cikm2021.org/committee), 2021
 * **Diversity, Equity, and Inclusion chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
 * **Virtual Organization chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
+* **Session chair**, Deep learning in practice, Industry track, WWW, 2017
 
 <br/><br/>
 
@@ -46,3 +47,9 @@ Workshop, tutorial, and shared task organization
 * **Tutorial:** Neural Learning to Rank ([slides](https://www.slideshare.net/BhaskarMitra3/neural-learning-to-rank)), [IVADO recommender systems summer school](https://ivado.ca/en/trainings/workshops/workshop-recommender-systems/), August 2019
 * **Tutorial:** Deep Learning for Search ([slides](https://www.slideshare.net/BhaskarMitra3/deep-learning-for-search-128258666) + [hands-on lab materials](https://github.com/spacemanidol/AFIRM2019DeepLearning)), [ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM)](http://sigir.org/afirm2019/), January 2019
 * **Shared task:** [Microsoft MAchine Reading COmprehension (MS MARCO)](http://www.msmarco.org/) passage and document ranking leaderboards, November 2018.
+* **Tutorial:** Neural Networks for Information Retrieval, [ECIR](http://www.ecir2018.org/), March 2018
+* **Tutorial:** Neural Networks for Information Retrieval, [WSDM](http://www.wsdm-conference.org/2018/), February 2018
+* **Tutorial:** NN4IR: The SIGIR 2017 tutorial on Neural Networks for Information Retrieval, [SIGIR](https://sigir.org/sigir2017/), August 2017
+* **Workshop:** [Neu-IR’17: SIGIR 2017 Workshop on Neural Information Retrieval](http://neu-ir.weebly.com/) ([report](https://sigir.org/wp-content/uploads/2018/01/p152.pdf)), [SIGIR](https://sigir.org/sigir2017/), August 2017
+* **Tutorial:** [The WSDM 2017 Tutorial on Neural Text Embeddings for Information Retrieval](https://www.microsoft.com/en-us/research/event/wsdm-2017-tutorial-neural-text-embeddings-information-retrieval/) ([slides](http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017)), [WSDM](http://www.wsdm-conference.org/2017/), February 2017
+* **Workshop:** [Neu-IR 2016: The SIGIR 2016 Workshop on Neural Information Retrieval](https://www.microsoft.com/en-us/research/event/neuir2016/) ([report](https://sigir.org/wp-content/uploads/2017/01/p096.pdf)), [SIGIR](https://sigir.org/sigir2016/), July 2016
