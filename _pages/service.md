@@ -7,7 +7,7 @@ author_profile: true
 
 <br/>
 
-Organizational leadership
+Community leadership
 ======
 * **Secretary**, [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers/) (2025-2028)
 * **Associate Editor**, [ACM Transactions on Information Systems](https://dl.acm.org/journal/tois/editorial-board) (2024-2027)
