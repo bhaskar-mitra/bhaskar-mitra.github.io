@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-<br/><br/>
+<br/>
 
 Organizational leadership
 ======
@@ -14,7 +14,7 @@ Organizational leadership
 * **Community Relations Coordinator**, [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers/) (2022-2025)
 * **Guest editor**, [Special Issue of Information Retrieval Journal (IRJ) on Neural Information Retrieval](https://link.springer.com/journal/10791/21/2/page/1), June 2018
 
-<br/><br/>
+<br/>
 
 Conference chairing
 ======
@@ -30,7 +30,7 @@ Conference chairing
 * **Virtual Organization chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
 * **Session chair**, Deep learning in practice, Industry track, WWW, 2017
 
-<br/><br/>
+<br/>
 
 Workshop, tutorial, and shared task organization
 ======
