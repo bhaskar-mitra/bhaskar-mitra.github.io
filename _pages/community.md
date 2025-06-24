@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Community engagement and professional service"
-permalink: /service/
+permalink: /community/
 author_profile: true
 ---
 
