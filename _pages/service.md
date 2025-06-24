@@ -23,6 +23,10 @@ Conference chairing
 * **Resource & Reproducibility Chair**, [SIGIR](https://sigir-2024.github.io/organizers.html), 2024
 * **Industry Chair**, [FIRE](http://fire.irsi.res.in/fire/2023/organization), 2023
 * **Tutorials Chair**, [ECIR](http://ecir2023.org/organisers.html), 2023
+* **PhD Symposium Chair**, [CIKM](https://www.cikm2022.org/organization), 2022
+* **Diversity and Inclusion Scholarship Chair**, [CIKM](https://www.cikm2021.org/committee), 2021
+* **Diversity, Equity, and Inclusion chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
+* **Virtual Organization chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
 
 <br/><br/>
 
@@ -35,3 +39,4 @@ Workshop, tutorial, and shared task organization
 * **Workshop:** [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2024/), [SIGIR](https://sigir.org/sigir2024/), July 2024
 * **Workshop:** [The Search Futures Workshop](https://searchfutures.github.io/), [ECIR](https://www.ecir2024.org/), March 2024
 * **Shared task:** [Deep Learning track](https://microsoft.github.io/msmarco/TREC-Deep-Learning), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2019-2023)
+* **Tutorial:** Learning to Rank for Information Retrieval with Neural Networks ([slides](https://www.slideshare.net/BhaskarMitra3/learning-to-rank-with-neural-networks-226255754) + [video](https://www.youtube.com/watch?v=kiPpt5Ax1EY) + [hands-on lab materials](https://github.com/spacemanidol/AFIRMDeepLearning2020)),[ ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM)](http://sigir.org/afirm2020/), January 2020
