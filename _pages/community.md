@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional service and community engagement"
+title: "Community engagement and professional service"
 permalink: /service/
 author_profile: true
 ---
