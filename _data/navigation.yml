@@ -22,6 +22,9 @@ main:
         
   - title: "Travel"
     url: /travel/
+        
+  - title: "What am I reading?"
+    url: /reading/
     
   - title: "CV"
     url: /files/Bhaskar-Mitra-CV.pdf
