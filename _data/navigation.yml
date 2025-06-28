@@ -17,9 +17,6 @@ main:
   - title: "Community Engagement"
     url: /community/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-        
   - title: "Travel"
     url: /travel/
         
@@ -28,3 +25,6 @@ main:
     
   - title: "CV"
     url: /files/Bhaskar-Mitra-CV.pdf
+        
+  - title: "Blog"
+    url: /year-archive/
