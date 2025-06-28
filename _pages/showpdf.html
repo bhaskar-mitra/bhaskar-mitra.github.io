@@ -8,20 +8,24 @@ author_profile: true
 {% include base_path %}
 
 <script>
-function GetURLParameter(sParam)
-{
-    var sPageURL = window.location.search.substring(1);
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++) 
-    {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) 
+    function GetURLParameter(sParam) {
+        var sPageURL = window.location.search.substring(1);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++) 
         {
-            return sParameterName[1];
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == sParam) 
+            {
+                return sParameterName[1];
+            }
         }
     }
-}​
-document.getElementById("iframe").src = "https://bhaskar-mitra.github.io/files/" + GetURLParameter("file") + ".pdf";
+    
+    function LoadIFrame() {
+        document.getElementById("iframe").src = "https://bhaskar-mitra.github.io/files/" + GetURLParameter("file") + ".pdf";
+    }
+    
+    window.onload = LoadIFrame;​
 </script>
 
 <iframe id="iframe" height=100% width=100% frameborder="0" scrolling="yes" src=""></iframe>
