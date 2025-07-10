@@ -17,9 +17,11 @@ I received my Ph.D. in Computer Science from University College London under the
 
 News and updates
 ======
-📄 **[June 26, 2025]** The [preprint](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint) of the report on the Fourth Strategic Workshop on Information Retrieval in Lorne (**SWIRL 2025**) is now available. I am excited to have contributed to the "**Centering Societal, Democratic, and Emancipatory Values and Ethics in IR**" section of the report. Check it out!
+📄 The [preprint](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint) of the report on the Fourth Strategic Workshop on Information Retrieval in Lorne (**SWIRL 2025**) is now available. I am excited to have contributed to the "**Centering Societal, Democratic, and Emancipatory Values and Ethics in IR**" section of the report. Check it out!  
+**(June 26, 2025)**
 
-🗳️ **[June 19, 2025]** I have been **elected to serve as the Secretary** on the [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers). My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽
+🗳️ I have been **elected to serve as the Secretary** on the [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers). My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽  
+**(June 19, 2025)**
 <br/><br/>
 
 Featured work
