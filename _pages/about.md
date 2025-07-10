@@ -15,6 +15,14 @@ I have received several awards for my research, including two [ACM SIGIR Early C
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
 <br/><br/>
 
+News and updates
+======
+📄 **[June 26, 2025]** The [preprint](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint) of the report on the Fourth Strategic Workshop on Information Retrieval in Lorne (**SWIRL 2025**) is now available. I am excited to have contributed to the "**Centering Societal, Democratic, and Emancipatory Values and Ethics in IR**" section of the report. Check it out!
+
+🗳️ **[June 19, 2025]** I have been **elected to serve as the Secretary** on the [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers). My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽
+
+
+
 Featured work
 ======
 
