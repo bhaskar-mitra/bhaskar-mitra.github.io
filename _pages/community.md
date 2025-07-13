@@ -28,7 +28,9 @@ Conference chairing
 * **Diversity and Inclusion Scholarship Chair**, [CIKM](https://www.cikm2021.org/committee), 2021
 * **Diversity, Equity, and Inclusion chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
 * **Virtual Organization chair**, [SIGIR](http://sigir.org/sigir2021/organization/), 2021
-* **Session chair**, Deep learning in practice, Industry track, WWW, 2017
+* **Session chair:**
+  * IR Models, [SIGIR](http://sigir.org/sigir2021/schedule/), 2021
+  * Deep learning in practice, [Industry track, WWW](https://archives.iw3c2.org/www2017/program/industry-track.html), 2017
 
 <br/>
 
