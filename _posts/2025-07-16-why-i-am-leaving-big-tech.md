@@ -43,7 +43,7 @@ The hype itself is not a new phenomenon.
 Even as I was starting out in the field, I did not care much for the sudden rebranding of neural networks into "deep learning".
 In fact, in many of my early works I continued to use the phrase "neural IR" (cheekily, shortening it to "neu-ir" to sound like "new IR") over "deep learning for IR" and other such monikers.
 But the hype around "AI" has taken a much more menacing turn.
-It has turned into a [religious cult-ish phenomenon](https://www.youtube.com/watch?v=6ovuMoW2EGk), that is uncompromising in its opposition to any rational critique or discourse.
+It has turned into an [religious cult-ish phenomenon and a project of empire building](https://www.youtube.com/watch?v=6ovuMoW2EGk), that is uncompromising in its opposition to any rational critique or discourse.
 Tech companies are mandating that every team insert large language models (LLMs) in every possible product feature, and even in their own daily workflows.
 Whether or not that has a positive or negative impact is completely besides the point.
 _Why?_
