@@ -58,7 +58,7 @@ You cannot separate the technology from the exploitative appropriation of data l
 
 As an IR researcher, I am particularly concerned by the uncritical adoption of these technologies in information access, which has been a focus of [my own research](https://bhaskar-mitra.github.io/showpdf/?file=978-3-031-73147-1_7).
 I am concerned about how institutions with access to treasure troves of people’s behavioral data combined with the capabilities of generative AI to produce persuasive language and imagery will produce tools for mass manipulation of public opinion.
-These tools may look no more nefarious than conversational information access systems of the day, or more explicitly in the form of generative ads that may become a future reality.
+These tools may look no more nefarious than conversational information access systems of the day, or may take more explicit form of generative ads in the future.
 Imagine every time you searched online or accessed information via your digital assistant, the information was presented to you exactly in the form mostly likely alter your consumer preferences or political opinions.
 This poses serious risks to the functioning of democratic societies, and even if we were to assume best intentions from specific corporations (you really shouldn’t!), the existence of such capabilities incentivizes authoritarian capture of these information access platforms.
 
