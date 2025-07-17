@@ -34,4 +34,12 @@ The ultimate outcome of this is the securitization of “Responsible AI” which
 I want to take this opportunity to explore spaces where I can do research grounded explicitly in humanistic anti-fascist anti-capitalist values and find community with like-minded people to do that work with. I want to spend more time [reading](https://bhaskar-mitra.github.io/reading/) and learning. I want to spend more time in movement spaces. I want to [reimagine](https://bhaskar-mitra.github.io/showpdf/?file=19654_Mitra) very different futures for how we collectively experience information. I want to work on [emancipatory information access](https://www.youtube.com/watch?v=wK-nHCg_ZHg) and ground my research in revolutionary praxis. I want to build technology that humanizes us, that connects us, that liberates us, that gives us joy.
 
 <br/><br/>
+<blockquote style="max-width:50px;align:center">
+  “Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.”
+  <div align="right">
+    – Arundhati Roy
+  </div>
+</blockquote>
+
+<br/><br/>
 Abolish big tech. Free Palestine.
