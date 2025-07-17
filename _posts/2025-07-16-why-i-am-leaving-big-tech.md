@@ -86,7 +86,7 @@ But in my personal context, this sincerely feels like a blessing in disguise.
 It took me a while to acknowledge this but every passing day since I got the news of the layoff, I have genuinely felt more excited about the future.
 
 Over the years, I have had the immense privilege of working with so many incredibly kind and thoughtful people who mentored me, collaborated with me, and critically shaped me as a researcher and as a person.
-I am filled with utmost gratitude to all of you! 🙏🏽
+I am filled with utmost gratitude to all of you, and I hope our paths will continue to cross! 🙏🏽
 
 And as I look to the future, I am both excited and nervous.
 I want to spend more time [reading](https://bhaskar-mitra.github.io/reading/) and engaging with critical scholarship.
