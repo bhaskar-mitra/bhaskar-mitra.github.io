@@ -54,7 +54,7 @@ That _is_ the intent and why AI is largely a fascist neocolonial project.
 
 This is not to claim that LLMs are not useful and as a researcher I am genuinely excited by the incredible progress in language modeling techniques in recent years.
 But you cannot separate the technological artefacts from the fact that the process of building these technologies mirror racial capitalism and coloniality, employ global labor exploitation and extractive practices, and reinforce the global north and south divide.
-You cannot separate the technology from the exploitative appropriation of data labor necessary for its creation, including both the uncompensated appropriation of works by writers, authors, programmers, and peer production communities, and under-compensated crowd work for data labeling.
+You cannot separate the technology from the exploitative appropriation of data labor necessary for its creation—including both the uncompensated appropriation of works by writers, authors, programmers, and peer production communities, and under-compensated crowd work for data labeling.
 
 As an IR researcher, I am particularly concerned by the uncritical adoption of these technologies in information access, which has been a focus of [my own research](https://bhaskar-mitra.github.io/showpdf/?file=978-3-031-73147-1_7).
 I am concerned about how institutions with access to treasure troves of people’s behavioral data combined with the capabilities of generative AI to produce persuasive language and imagery will produce tools for mass manipulation of public opinion.
