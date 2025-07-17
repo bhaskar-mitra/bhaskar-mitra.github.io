@@ -8,7 +8,10 @@ tags:
   - Gaza
 ---
 
-After spending almost two decades in big tech, I was notified last month that I am being laid off. There have been [massive waves of layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/) across the industry recently, and I am just one of the many tens of thousands of tech workers who have been impacted. However, the news marked a moment of much bigger change for me personally as it prompted me to finally gather up enough courage to make a decision that I have been putting off for years. I am leaving big tech.
+After spending almost two decades in big tech, I was notified last month that I am being laid off.
+There have been [massive waves of layoffs](https://techcrunch.com/2025/07/15/tech-layoffs-2025-list/) across the industry recently, and I am just one of the many tens of thousands of tech workers who have been impacted.
+However, the news marked a moment of much bigger personal change for me as it prompted me to finally gather up enough courage to make a decision that I have been putting off for years.
+I am leaving big tech.
 
 I will no longer be pursuing any job opportunities in big tech or typical silicon-valley-type startups. This is not a decision that I am making lightly. In fact, the intention to leave big tech has been constantly on my mind for the last several years. I debated a lot about how openly I want to talk about my decision and finally convinced myself that it is important that I do. Conversations with friends, colleagues, and collaborators over the years have led me to believe that I am not alone in wrestling with this decision, and if that’s you then I want you to know that I see you, I know what you are going through, and if you need someone to talk to then please feel free to reach out.
 
