@@ -40,16 +40,16 @@ I say these, not to brag, but as evidence for when I say I have felt genuine exc
 But I am deeply disconcerted by the state of AI discourse today and the impact it has already had on industry, academia, government, and civil society.
 
 The hype itself is not a new phenomenon.
-Even as I was starting out in the field, I did not care much for the sudden rebranding of neural networks into “deep learning”.
-In fact, in many of my early works I continued to use the phrase “neural IR” (cheekily, shortening it to “neu-ir” to sound like “new IR”) over “deep learning for IR” and other such monikers.
-But the hype around “AI” has taken a much more menacing turn.
+Even as I was starting out in the field, I did not care much for the sudden rebranding of neural networks into "deep learning".
+In fact, in many of my early works I continued to use the phrase "neural IR" (cheekily, shortening it to "neu-ir" to sound like "new IR") over "deep learning for IR" and other such monikers.
+But the hype around "AI" has taken a much more menacing turn.
 It has turned into a [religious cult-ish phenomenon](https://www.youtube.com/watch?v=6ovuMoW2EGk), that is uncompromising in its opposition to any rational critique or discourse.
 Tech companies are mandating that every team insert large language models (LLMs) in every possible product feature, and even in their own daily workflows.
 Whether or not that has a positive or negative impact is completely besides the point.
 _Why?_
-Because the evidence-free promises of AI utopia that tech “leaders” are so boldly prophesizing makes stocks go brrrrrrrrr….
-No, AI will not be a “new digital species” (how much ever you try to anthropomorphize next-token prediction algorithms), nor will it be a wand that magically solves climate change or war or any of our social problems.
-But the grand fictitious narratives about AI, both the hype and the fearmongering, will continue to bolster claims of their “foundational” advancements resulting in potentially the biggest accumulation of power and wealth in the hands of a few in our lifetimes.
+Because the evidence-free promises of AI utopia that tech "leaders" are so boldly prophesizing makes stocks go brrrrrrrrr….
+No, AI will not be a "new digital species" (how much ever you try to anthropomorphize next-token prediction algorithms), nor will it be a wand that magically solves climate change or war or any of our social problems.
+But the grand fictitious narratives about AI, both the hype and the fearmongering, will continue to bolster claims of their "foundational" advancements resulting in potentially the biggest accumulation of power and wealth in the hands of a few in our lifetimes.
 That _is_ the intent and why AI is largely a fascist neocolonial project.
 
 This is not to claim that LLMs are not useful and as a researcher I am genuinely excited by the incredible progress in language modeling techniques in recent years.
@@ -67,23 +67,42 @@ I have incredible respect for those in the industry who are doing critical work 
 However, I am also tremendously concerned by the shrinking power of those critical voices.
 Those who do that work, do that under incredible stress and [risks to their own careers](https://www.washingtonpost.com/technology/2023/03/30/tech-companies-cut-ai-ethics/).
 The boundaries of what you are allowed to critique is shrinking rapidly.
-You are allowed (for now) to get on a pulpit and talk about fairness and representational harms (don’t get me wrong, those are very important!) _as long as_ it paints the institutions as “responsible corporations trying to do the right thing for society for which they should receive accolades” but never to critique the institution and definitely never if it conflicts with profit.
+You are allowed (for now) to get on a pulpit and talk about fairness and representational harms (don’t get me wrong, those are very important!) _as long as_ it paints the institutions as "responsible corporations trying to do the right thing for society for which they should receive accolades" but never to critique the institution and definitely never if it conflicts with profit.
 The bad actors in your threat models must always be _out there_, never the institutions (i.e., the platform owners).
 Never critique the concentration of wealth and power in the hands of these platforms.
 And, definitely definitely never talk about the [military-AI complex](https://www.techpolicy.press/booming-military-spending-on-ai-is-a-windfall-for-tech-and-a-blow-to-democracy/).
 
-The ultimate outcome of this is the securitization of “Responsible AI” which manifests today as the “AI safety” framing that selectively strips away any concerns of social justice from the agenda.
+The ultimate outcome of this is the securitization of "Responsible AI" which manifests today as the "AI safety" framing that selectively strips away any concerns of social justice from the agenda.
 If Responsible AI / IR is framed to not challenge war, colonial extractive practices, racial capitalism, gender and sexual injustices, and other forms of oppression, then what are we even trying to do as a community?
 
 <br/>
 
-**What’s next?** &nbsp;I don’t want to sound blasé but getting laid off may have been the best thing to happen to me this year. I don’t want to minimize how difficult it is to be on the receiving end of that news, and I am quite aware of my own privileges for having a permanent residence status in Canada and sufficient financial stability for the short term. I don’t wish this on anyone, and my heart goes out to everyone who have been impacted. But in a strange way, this sincerely feels like a blessing in disguise. It took me a while to acknowledge this but every passing day since I got the news of the layoff, I have felt more excited about the future.
+**What’s next?** &nbsp;
+I don’t want to sound blasé but getting laid off may have been the best thing to happen to me this year.
+I don’t want to minimize how difficult it is to be on the receiving end of that news, and I am quite aware of my own privileges for having a permanent residence status in Canada and sufficient financial stability for the short term.
+I don’t wish this on anyone, and my heart goes out to everyone who have been impacted.
+But in my personal context, this sincerely feels like a blessing in disguise.
+It took me a while to acknowledge this but every passing day since I got the news of the layoff, I have genuinely felt more excited about the future.
 
-I want to take this opportunity to explore spaces where I can do research grounded explicitly in humanistic anti-fascist anti-capitalist values and find community with like-minded people to do that work with. I want to spend more time [reading](https://bhaskar-mitra.github.io/reading/) and learning. I want to spend more time in movement spaces. I want to [reimagine](https://bhaskar-mitra.github.io/showpdf/?file=19654_Mitra) very different futures for how we collectively experience information. I want to work on [emancipatory information access](https://www.youtube.com/watch?v=wK-nHCg_ZHg) and ground my research in revolutionary praxis. I want to build technology that humanizes us, that connects us, that liberates us, that gives us joy.
+Over the years, I have had the immense privilege of working with so many incredibly kind and thoughtful people who mentored me, collaborated with me, and critically shaped me as a researcher and as a person.
+I am filled with utmost gratitude to all of you! 🙏🏽
+
+And as I look to the future, I am both excited and nervous.
+I want to spend more time [reading](https://bhaskar-mitra.github.io/reading/) and engaging with critical scholarship.
+I want to spend more time in movement spaces.
+I want to find people who are thinking about alternatives to "big tech" and fighting back against the global sliding into techno-fascism.
+I want to continue working on information access and [reimagine](https://bhaskar-mitra.github.io/showpdf/?file=19654_Mitra) very different futures for how we as individuals and collectively as society experience information.
+I want to explore spaces where I can do research grounded explicitly in humanistic anti-fascist anti-capitalist decolonial values.
+I want to continue my work on [emancipatory information access](https://www.youtube.com/watch?v=wK-nHCg_ZHg) and realize my research as part of my emancipatory praxis.
+And above all, I want to build technology that humanizes us, connects us, liberates us, gives us joy.
+
+So, if you want to chat about any of the above or have any advice / recommendations for me, please reach out! I would love to hear from you.
+
+I leave you with one of my favorite quotes...
 
 <center>
   <blockquote style="max-width:500px">
-    “Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.”
+    "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing."
     <div align="right">
       – Arundhati Roy
     </div>
