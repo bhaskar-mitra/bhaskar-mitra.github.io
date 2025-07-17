@@ -76,7 +76,6 @@ The ultimate outcome of this is the securitization of "Responsible AI" which man
 If Responsible AI / IR is framed to not challenge war, colonial extractive practices, racial capitalism, gender and sexual injustices, and other forms of oppression, then what are we even trying to do as a community?
 
 <br/>
-
 **What’s next?** &nbsp;
 I don’t want to sound blasé but getting laid off may have been the best thing to happen to me this year.
 I don’t want to minimize how difficult it is to be on the receiving end of that news, and I am quite aware of my own privileges for having a permanent residence status in Canada and sufficient financial stability for the short term.
@@ -99,6 +98,7 @@ And above all, I want to build technology that humanizes us, connects us, libera
 
 So, if you want to chat about any of the above or have any advice / recommendations for me, please reach out! I would love to hear from you.
 
+<br/>
 I leave you with one of my favorite quotes...
 
 <center>
@@ -111,5 +111,4 @@ I leave you with one of my favorite quotes...
 </center>
 
 <br/>
-
 Abolish big tech. Free Palestine.
