@@ -80,7 +80,8 @@ If Responsible AI / IR is framed to not challenge war, colonial extractive pract
 **What’s next?** &nbsp;
 I don’t want to sound blasé but getting laid off may have been the best thing to happen to me this year.
 I don’t want to minimize how difficult it is to be on the receiving end of that news, and I am quite aware of my own privileges for having a permanent residence status in Canada and sufficient financial stability for the short term.
-I don’t wish this on anyone, and my heart goes out to everyone who have been impacted (if you have been impacted by layoff recent and want to talk, please reach out!).
+I don’t wish this on anyone, and my heart goes out to everyone who have been impacted.
+If you have been impacted by recent layoffs and want to talk, please reach out!
 But in my personal context, this sincerely feels like a blessing in disguise.
 It took me a while to acknowledge this but every passing day since I got the news of the layoff, I have genuinely felt more excited about the future.
 
