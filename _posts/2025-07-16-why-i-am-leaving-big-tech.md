@@ -48,7 +48,7 @@ Tech companies are mandating that every team insert large language models (LLMs)
 Whether or not that has a positive or negative impact is completely besides the point.
 _Why?_
 Because the evidence-free promises of AI utopia that tech "leaders" are so boldly prophesizing makes stocks go brrrrrrrrr….
-No, AI will not be a "new digital species" (how much ever you try to anthropomorphize next-token prediction algorithms), nor will it be a wand that magically solves climate change or war or any of our social problems.
+No, AI will not be a "new digital species" (how much ever you try to anthropomorphize next-token prediction algorithms), nor will it be a wand that magically solves climate change or war or any of our other social problems.
 But the grand fictitious narratives about AI, both the hype and the fearmongering, will continue to bolster claims of their "foundational" advancements resulting in potentially the biggest accumulation of power and wealth in the hands of a few in our lifetimes.
 That _is_ the intent and why AI is largely a fascist neocolonial project.
 
