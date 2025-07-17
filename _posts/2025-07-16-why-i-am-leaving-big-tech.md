@@ -13,7 +13,11 @@ There have been [massive waves of layoffs](https://techcrunch.com/2025/07/15/tec
 However, the news marked a moment of much bigger personal change for me as it prompted me to finally gather up enough courage to make a decision that I have been putting off for years.
 I am leaving big tech.
 
-I will no longer be pursuing any job opportunities in big tech or typical silicon-valley-type startups. This is not a decision that I am making lightly. In fact, the intention to leave big tech has been constantly on my mind for the last several years. I debated a lot about how openly I want to talk about my decision and finally convinced myself that it is important that I do. Conversations with friends, colleagues, and collaborators over the years have led me to believe that I am not alone in wrestling with this decision, and if that’s you then I want you to know that I see you, I know what you are going through, and if you need someone to talk to then please feel free to reach out.
+I will no longer be pursuing any job opportunities in big tech or typical silicon-valley-type startups.
+This is not a decision that I am making lightly.
+In fact, the intention to leave big tech has been constantly on my mind for the last several years.
+I debated a lot about how openly I want to talk about my decision and finally convinced myself that it is important that I do.
+Conversations with friends, colleagues, and collaborators over the years have led me to believe that I am not alone in wrestling with this decision, and if that’s you then I want you to know that I see you and if you need someone to talk to then please feel free to reach out.
 
 Why _am_ I leaving big tech? There are several reasons. While I list them individually below, I believe they are the consequences of a structural and much more serious underlying problem: the unprecedented concentration of power in the hands of those in big tech who want to deliberately enact (or, at the very least, are incapable of imagining anything besides) a techno-fascist future. I believe that is the root cause for the momentous cultural and material changes that we are collectively witnessing sweeping across the industry.
 
