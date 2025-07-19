@@ -17,6 +17,9 @@ I received my Ph.D. in Computer Science from University College London under the
 
 News and updates
 ======
+✍🏽 **Blog post:** [Why I am leaving big tech…](https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/)
+**(July 16, 2025)**
+
 🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate!  
 **(Upcoming: November, 2025)**
 
