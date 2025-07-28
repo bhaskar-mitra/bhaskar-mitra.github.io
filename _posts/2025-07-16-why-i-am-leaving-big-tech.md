@@ -3,8 +3,9 @@ title: 'Why I am leaving big tech…'
 date: 2025-07-16
 permalink: /posts/2025/07/16/why-i-am-leaving-big-tech/
 tags:
-  - big tech
-  - tech for good
+  - Big Tech
+  - AI
+  - Tech for good
   - Gaza
 ---
 
