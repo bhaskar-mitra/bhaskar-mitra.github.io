@@ -17,6 +17,9 @@ I received my Ph.D. in Computer Science from University College London under the
 
 News and updates
 ======
+✍🏽 **Blog post:** [AI as politic of class exploitation](https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/)  
+**(July 31, 2025)**
+
 ✍🏽 **Blog post:** [Why I am leaving big tech…](https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/)  
 **(July 16, 2025)**
 
