@@ -26,7 +26,7 @@ News and updates
 🪑 I am serving as the **Responsible Web Track Co-Chair for WebConf 2026**. See you in Dubai!  
 **(Upcoming: April 13-17, 2026)**
 
-🪑 I am serving as the **IR-for-Good Track Co-Chair for ECIR 2026**. Call for papers will be announced in August. See you in Delft!  
+🪑 I am serving as the **IR-for-Good Co-Chair for ECIR 2026**. Call for papers will be announced in August. See you in Delft!  
 **(Upcoming: March 29 - April 2, 2026)**
 
 🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
