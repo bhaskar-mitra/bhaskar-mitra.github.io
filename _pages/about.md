@@ -23,10 +23,16 @@ News and updates
 ✍🏽 **Blog post:** [Why I am leaving big tech…](https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/)  
 **(July 16, 2025)**
 
-🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate!  
+🪑 I am serving as the **Responsible Web Track Co-Chair for WebConf 2026**. See you in Dubai!  
+**(Upcoming: April 13-17, 2026)**
+
+🪑 I am serving as the **IR-for-Good Track Co-Chair for ECIR 2026**. Call for papers will be announced in August. See you in Delft!  
+**(Upcoming: March 29 - April 2, 2026)**
+
+🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
 **(Upcoming: November, 2025)**
 
-🪑 I am serving as the **Program Committee (PC) co-chair for SIGIR-AP 2025**. Please see the [call for papers](https://www.sigir-ap.org/sigir-ap-2025/call-for-papers) and see you in Xi'an! Note: This year, we will continue our tradition to be a **hybrid conference** to enable broader participation from our diverse community across the globe.  
+🪑 I am serving as the **Program Committee (PC) Co-Chair for SIGIR-AP 2025**. Please see the [call for papers](https://www.sigir-ap.org/sigir-ap-2025/call-for-papers) and see you in Xi'an! Note: This year, we will continue our tradition to be a **hybrid conference** to enable broader participation from our diverse community across the globe.  
 **(Upcoming: December 7-10, 2025)**
 
 📄 The [preprint](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint) of the report on the [Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)](https://sites.google.com/view/swirl2025/) is now available. I am excited to have contributed to the "**Centering Societal, Democratic, and Emancipatory Values and Ethics in IR**" section of the report. Check it out!  
