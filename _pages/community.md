@@ -18,6 +18,7 @@ Community leadership
 
 Conference chairing
 ======
+* **Responsible Web Track Chair**, WebConf, 2026
 * **IR for Good Chair**, [ECIR](https://ecir2026.eu/97-organization), 2026
 * **Program Chair**, [SIGIR-AP](https://www.sigir-ap.org/sigir-ap-2025/organizers/), 2025
 * **Best Paper Chair**, [SIGIR-AP](https://www.sigir-ap.org/sigir-ap-2024/organizers/), 2024
