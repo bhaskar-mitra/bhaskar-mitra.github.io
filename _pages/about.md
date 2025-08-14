@@ -29,6 +29,9 @@ News and updates
 🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
 **(Upcoming: November, 2025)**
 
+🎙️ I was **interviewed by Ariella Steinhorn** for [Hard Reset](https://hardresetmedia.substack.com/): "[Machine learning expert: “AI hype” is the true product, to provide cover for social agendas](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)"  
+**(August 6, 2025)**
+
 ✍🏽 **Blog post:** [AI as politic of class exploitation](https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/)  
 **(July 31, 2025)**
 
