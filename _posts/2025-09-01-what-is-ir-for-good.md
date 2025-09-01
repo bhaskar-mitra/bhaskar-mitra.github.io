@@ -109,10 +109,10 @@ Here are a few example cases to illustrate the kind of critical reflections we w
 
 <center>
   <blockquote style="max-width:700px">
-    <div>
+    <div align="left">
       <b>Claim:</b> Our work that proposes a method for making expensive machine learning models for IR more efficient contributes towards sustainability and reducing impact on the environment.
     </div>
-    <div>
+    <div align="left">
       <b>Considerations for this claim:</b> What preconditions are necessary for the efficiency improvements to translate to reduced impact on the environment?
         E.g., according to the Jevons paradox in economics, when technological advancements make a resource more efficient to use (thereby reducing the amount needed for a single application) it often results in overall increase in demand, causing total resource consumption to rise instead of falling.
         Is it more likely then that more efficient models may in fact lead to a false sense of mitigation and result in much wider adoption contributing to increased harm to the environment?
@@ -122,10 +122,10 @@ Here are a few example cases to illustrate the kind of critical reflections we w
 
 <center>
   <blockquote style="max-width:700px">
-    <div>
+    <div align="left">
       <b>Claim:</b> Our work that develops new assistive tools for document authoring increases worker productivity and contributes towards reduced labor for workers.
     </div>
-    <div>
+    <div align="left">
       <b>Considerations for this claim:</b> What preconditions are necessary for the improvement in productivity to benefit the workers?
         In other words, who gets to benefit from the surplus provided by technology here?
         Does it benefit workers or does it lead to further reduction in their compensation and changes in job expectations that lead to lower status?
@@ -136,10 +136,10 @@ Here are a few example cases to illustrate the kind of critical reflections we w
 
 <center>
   <blockquote style="max-width:700px">
-    <div>
+    <div align="left">
       <b>Claim:</b> Our work that improves alignment of LLMs towards specific social values contributes towards user safety by preventing exposure to harmful content.
     </div>
-    <div>
+    <div align="left">
       <b>Considerations for this claim:</b> Who gets to decide what is harmful or select the values the system should be aligned with?
         Could these approaches in fact further centralize power and control over what is deemed "acceptable" vs. "harmful" speech?
         Could this stifle the voices of marginalized people and social activists?
@@ -151,10 +151,10 @@ Here are a few example cases to illustrate the kind of critical reflections we w
 
 <center>
   <blockquote style="max-width:700px">
-    <div>
+    <div align="left">
       <b>Claim:</b> Our work that proposes new methods for generating explanations for model outputs contributes towards increasing user trust in the system.
     </div>
-    <div>
+    <div align="left">
       <b>Considerations for this claim:</b> Is that trust beneficial or harmful for the user?
         Is that trust warranted or could it in fact draw users into a false sense of safety and distract them from noticing how the system surveils them and subtly manipulates their behavior?
         How can this explainability intervention actually help reveal and challenge existing power structures?
@@ -164,10 +164,10 @@ Here are a few example cases to illustrate the kind of critical reflections we w
 
 <center>
   <blockquote style="max-width:700px">
-    <div>
+    <div align="left">
       <b>Claim:</b> Our work that proposes a new ranking approach for gender fairness contributes towards gender justice.
     </div>
-    <div>
+    <div align="left">
       <b>Considerations for this claim:</b> How does the adopted definition of "gender fairness" in this work translate to mitigating real-world "gender discrimination"?
         Does this work assume that gender is binary, erasing other identities?
         Does this work assume that gender is known for all users / subjects and incentivize further intensification of surveillance and collection of private demographic data from members of historically marginalized communities?
