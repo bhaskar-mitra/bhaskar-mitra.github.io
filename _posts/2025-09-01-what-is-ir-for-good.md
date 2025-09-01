@@ -198,7 +198,7 @@ At ECIR’26, the IR-for-Good track will serve as a platform to showcase the bes
 Starting this year, **IR-for-Good will be a core track at the conference** and will run alongside the main conference, not on workshop day.
 We invite you to not just participate in this special track, but to be an active part of building a broader movement in the IR community to bend the arc of IR research towards societal good.
 
-Here’s how you can help:
+Here’s how you can get involved:
 * [Submit your work](https://ecir2026.eu/calls/call-for-ir-for-good-papers) to the track (Abstracts due: Oct 21, papers due: Oct 28).
 * Sign up as a reviewer for the track.
 We are especially looking for reviewers who can bring in interdisciplinary perspectives, such as at the intersections of IR with human-computer interaction (HCI), information sciences, media studies, design, science and technology studies (STS), social and political sciences, philosophy, law, environmental sciences, public health, and educational sciences.
