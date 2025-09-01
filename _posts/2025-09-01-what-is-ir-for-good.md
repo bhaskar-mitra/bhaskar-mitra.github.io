@@ -1,5 +1,5 @@
 ---
-title: 'What is IR-for-Good?'
+title: 'What _is_ IR-for-Good?'
 date: 2025-09-01
 permalink: /posts/2025/09/01/what-is-ir-for-good/
 tags:
