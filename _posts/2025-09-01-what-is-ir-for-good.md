@@ -27,7 +27,7 @@ In this post, we would like to share with the broader IR community our motivatio
 
 What is societal good?
 ======
-Access to trustworthy information is a critical societal need, including  supporting informed citizenry in democratic societies, as a catalyst for societal transformations, and as a social determinant of health and economic progress.
+Access to trustworthy information is a critical societal need, including  supporting informed citizenry in democratic societies, as a catalyst for social transformations, and as a social determinant of health and economic progress.
 It is imperative that IR research concerns itself with not just the information needs of individual users but also its responsibilities towards collective societal good.
 We must not assume that all technological progress in IR contributes positively to society nor accept the techno-deterministic view that there is a single pre-determined path forward for progress in IR research.
 Instead, we must explicitly study and critique the systemic impact of information access technologies on society in light of the sociopolitical context in which they are developed and deployed, and leverage our improved understanding to guide future IR research towards realizing positive societal outcomes.
