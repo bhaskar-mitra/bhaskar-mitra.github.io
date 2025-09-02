@@ -200,7 +200,7 @@ We invite you to not just participate in this special track, but to be an active
 
 Here’s how you can get involved:
 * [Submit your work](https://ecir2026.eu/calls/call-for-ir-for-good-papers) to the track (Abstracts due: Oct 21, papers due: Oct 28).
-* Sign up as a reviewer for the track.
+* [Sign up as a reviewer](https://forms.gle/5UWcG9X7Hq92wokU7) for the track.
 We are especially looking for reviewers who can bring in interdisciplinary perspectives, such as at the intersections of IR with human-computer interaction (HCI), information sciences, media studies, design, science and technology studies (STS), social and political sciences, philosophy, law, environmental sciences, public health, and educational sciences.
 * Send us your feedback / ideas for the IR-for-Good track and tell us what you would like to see at the conference track this year.
 * If you are involved in other societally-motivated IR sub-communities or tracks at other IR venues, then let’s share notes and work together!
