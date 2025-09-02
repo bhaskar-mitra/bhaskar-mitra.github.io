@@ -62,7 +62,7 @@ We made an intentional choice to center these topics on societally-beneficial **
 We of course welcome submissions focusing on different approaches in this special track.
 Our motivation for centering outcomes over approaches is to encourage exploration of a broader space of diverse sociotechnical methods as well as to hold ourselves accountable to the ultimate goal of affecting positive societal impact.
 
-We consider this definition of Good to be neither fixed nor complete.
+We consider this definition of societal good to be neither fixed nor complete.
 It is finally up to the IR community to iterate, extend, and further explicate this definition over time.
 But for now, we hope this definition provides reasonable clarity on what societal outcomes we are aspiring for.
 
