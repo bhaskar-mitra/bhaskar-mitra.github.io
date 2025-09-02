@@ -60,7 +60,7 @@ Starting from this definition, we enumerated potential relevant topics of intere
 
 We made an intentional choice to center these topics on societally-beneficial **outcomes** (_e.g._, equity, emancipation, justice, and sustainability) rather than on the **approaches** that may help us progress towards those outcomes (_e.g._, procedural fairness, interpretability, and transparency).
 We of course welcome submissions focusing on different approaches in this special track.
-Our motivation for centering outcomes over approaches is to allow for exploration of a broader space of diverse sociotechnical methods as well as to hold ourselves accountable to the ultimate goal of affecting positive societal impact.
+Our motivation for centering outcomes over approaches is to encourage exploration of a broader space of diverse sociotechnical methods as well as to hold ourselves accountable to the ultimate goal of affecting positive societal impact.
 
 We consider this definition of Good to be neither fixed nor complete.
 It is finally up to the IR community to iterate, extend, and further explicate this definition over time.
