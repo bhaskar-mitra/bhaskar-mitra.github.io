@@ -205,5 +205,7 @@ We are especially looking for reviewers who can bring in interdisciplinary persp
 * Send us your feedback / ideas for the IR-for-Good track and tell us what you would like to see at the conference track this year.
 * If you are involved in other societally-motivated IR sub-communities or tracks at other IR venues, then let’s share notes and work together!
 
-
 And please join us in Delft next year to continue the conversation!
+
+<br/><br/>
+**_Would you like to comment on or discuss this post?_** You can do so on these social media threads on [Bluesky](https://bsky.app/profile/bmitra.bsky.social/post/3lxugbrenv223), [Mastodon](https://mastodon.social/@bmitra/115135391331084967), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7368664254205362176/), and [Twitter](https://x.com/UnderdogGeek/status/1962899087973298458).
