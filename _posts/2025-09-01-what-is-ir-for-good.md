@@ -82,7 +82,7 @@ We must discourage non-performative research gaze and hold ourselves collectivel
 And we must be particularly careful to ensure that our research pushes for structural change and does not unintentionally contribute to ethics-washing harmful technologies.
 
 When we, the IR-for-Good track chairs, started discussing how we ensure the community is indeed making progress on desired societal outcomes it became quickly apparent to us that we need to develop new community practices that help us build shared understanding of how technologies impact society and help us be more effective in affecting positive societal change.
-Intuitively, if we want to encourage more critical scientific discourse within the IR community on how specific research directions may contribute towards desired societal outcomes, the first step should be to make these **theories of change** explicit in our scholarship.
+Intuitively, if we want to encourage more critical scholarly discourse within the IR community on how specific research directions may contribute towards desired societal outcomes, the first step should be to make these **theories of change** explicit in our scholarship.
 With that motivation, we are requiring every ECIR’26 IR-for-Good track submissions that propose new IR tools, methods, resources, and interventions to explicitly include a separate section elaborating how the work contributes towards desired societal outcomes.
 Position papers and critiques are exempted from this requirement as these arguments should anyways be a core contribution of those submissions.
 
