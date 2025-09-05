@@ -29,6 +29,9 @@ News and updates
 🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
 **(Upcoming: November, 2025)**
 
+🎙️ I participated in an **AI Debate on "Generative AI - Opportunity or Risk?"** organized by [Women in AI Ethics+ (WAIE+)](https://www.waieplus.com/). Check out the [recording](https://www.youtube.com/watch?v=X2M9BcNzN2M)!  
+**(August 26, 2025)**
+
 🎙️ I was **interviewed by Ariella Steinhorn** for [Hard Reset](https://hardresetmedia.substack.com/): "[Machine learning expert: “AI hype” is the true product, to provide cover for social agendas](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)"  
 **(August 6, 2025)**
 
