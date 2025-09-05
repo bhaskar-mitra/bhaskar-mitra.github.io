@@ -30,15 +30,15 @@ News and updates
 <br/><br/>
 👥 I will be attending the <b>Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a></b>. <b>(September 21-26, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> <b>(September 1, 2025)</b>
+✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a></b> <b>(September 1, 2025)</b>
 <br/><br/>
 🎙️ I participated in the <b>AI Debate on "Generative AI - Opportunity or Risk?"</b> organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. Check out the <a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">recording</a>! <b>(August 26, 2025)</b>
 <br/><br/>
 🎙️ I was <b>interviewed by Ariella Steinhorn</b> for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" <b>(August 6, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a> <b>(July 31, 2025)</b>
+✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a></b>. <b>(July 31, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a> <b>(July 16, 2025)</b>
+✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a></b>. <b>(July 16, 2025)</b>
 <br/><br/>
 📄 The <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">preprint</a> of the report on the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> is now available. I am excited to have contributed to the <b>"Centering Societal, Democratic, and Emancipatory Values and Ethics in IR"</b> section of the report. Check it out! <b>(June 26, 2025)</b>
 <br/><br/>
