@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science from University College London under the
 
 News and updates
 ======
-<div style="font-size:1em">
+<div style="font-size:0.85em">
 🔍 I am <b>co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a></b>. More details coming soon. See you in Tokyo! <b>(Upcoming: December 8-10, 2026)</b>
 <br/><br/>
 🪑 I am serving as the <b>Responsible Web Track Co-Chair for WebConf 2026</b>. See you in Dubai! <b>(Upcoming: April 13-17, 2026)</b>
