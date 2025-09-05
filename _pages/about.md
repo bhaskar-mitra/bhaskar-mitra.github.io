@@ -128,7 +128,7 @@ Featured work
     </table>
   </article>
 </div>
-<br/><br/>
+<br/>
 
 News and updates
 ======
