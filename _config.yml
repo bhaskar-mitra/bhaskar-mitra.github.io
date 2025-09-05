@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bhaskar Mitra's Homepage"
+title                    : "Bhaskar Mitra's Website"
 title_separator          : "-"
 name                     : &name "Bhaskar Mitra"
 description              : &description "I am an information retrieval researcher working on machine learning, evaluation, and societal implications of information access technologies"
