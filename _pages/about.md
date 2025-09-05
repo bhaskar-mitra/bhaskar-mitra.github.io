@@ -18,61 +18,33 @@ I received my Ph.D. in Computer Science from University College London under the
 News and updates
 ======
 <div style="font-size:0.75em">
-🔍 I am <b>co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a></b>. More details coming soon. See you in Tokyo!
-<br/>
-<b>(Upcoming: December 8-10, 2026)</b>
+🔍 I am <b>co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a></b>. More details coming soon. See you in Tokyo! <b>(Upcoming: December 8-10, 2026)</b>
 <br/><br/>
-🪑 I am serving as the <b>Responsible Web Track Co-Chair for WebConf 2026</b>. See you in Dubai!
-<br/>
-<b>(Upcoming: April 13-17, 2026)</b>
+🪑 I am serving as the <b>Responsible Web Track Co-Chair for WebConf 2026</b>. See you in Dubai! <b>(Upcoming: April 13-17, 2026)</b>
 <br/><br/>
-🪑 I am serving as the <b>IR-for-Good Co-Chair for ECIR 2026</b>. Call for papers will be announced in August. See you in Delft!
-<br/>
-<b>(Upcoming: March 29 - April 2, 2026)</b>
+🪑 I am serving as the <b>IR-for-Good Co-Chair for ECIR 2026</b>. Call for papers will be announced in August. See you in Delft! <b>(Upcoming: March 29 - April 2, 2026)</b>
 <br/><br/>
-🪑 I am serving as the <b>Program Committee (PC) Co-Chair for SIGIR-AP 2025</b>. Please see the <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">call for papers</a> and see you in Xi'an! Note: This year, we will continue our tradition to be a <b>hybrid conference</b> to enable broader participation from our diverse community across the globe.
-<br/>
-<b>(Upcoming: December 7-10, 2025)</b>
+🪑 I am serving as the <b>Program Committee (PC) Co-Chair for SIGIR-AP 2025</b>. Please see the <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">call for papers</a> and see you in Xi'an! Note: This year, we will continue our tradition to be a <b>hybrid conference</b> to enable broader participation from our diverse community across the globe. <b>(Upcoming: December 7-10, 2025)</b>
 <br/><br/>
-🔍 I am <b>co-organizing the <a href="https://trec.nist.gov/">TREC</a> Tip-of-the-Tongue (ToT) Track</b>. Please see the <a href="https://trec-tot.github.io/guidelines">guidelines</a> to participate! Deadline for submitting runs: ~August 27th~ September 10th (deadline extended).
-<br/>
-<b>(Upcoming: November, 2025)</b>
+🔍 I am <b>co-organizing the <a href="https://trec.nist.gov/">TREC</a> Tip-of-the-Tongue (ToT) Track</b>. Please see the <a href="https://trec-tot.github.io/guidelines">guidelines</a> to participate! Deadline for submitting runs: ~August 27th~ September 10th. <b>(Upcoming: November, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a>
-<br/>
-<b>(September 1, 2025)</b>
+✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> <b>(September 1, 2025)</b>
 <br/><br/>
-🎙️ I participated in the <b>AI Debate on "Generative AI - Opportunity or Risk?"</b> organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. Check out the <a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">recording</a>!
-<br/>
-<b>(August 26, 2025)</b>
+🎙️ I participated in the <b>AI Debate on "Generative AI - Opportunity or Risk?"</b> organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. Check out the <a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">recording</a>! <b>(August 26, 2025)</b>
 <br/><br/>
-🎙️ I was <b>interviewed by Ariella Steinhorn</b> for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>"
-<br/>
-<b>(August 6, 2025)</b>
+🎙️ I was <b>interviewed by Ariella Steinhorn</b> for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" <b>(August 6, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a>
-<br/>
-<b>(July 31, 2025)</b>
+✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a> <b>(July 31, 2025)</b>
 <br/><br/>
-✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a>
-<br/>
-<b>(July 16, 2025)</b>
+✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a> <b>(July 16, 2025)</b>
 <br/><br/>
-📄 The <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">preprint</a> of the report on the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> is now available. I am excited to have contributed to the <b>"Centering Societal, Democratic, and Emancipatory Values and Ethics in IR"</b> section of the report. Check it out!
-<br/>
-<b>(June 26, 2025)</b>
+📄 The <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">preprint</a> of the report on the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> is now available. I am excited to have contributed to the <b>"Centering Societal, Democratic, and Emancipatory Values and Ethics in IR"</b> section of the report. Check it out! <b>(June 26, 2025)</b>
 <br/><br/>
-🗳️ I have been <b>elected to serve as the Secretary</b> on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽
-<br/>
-<b>(June 19, 2025)</b>
+🗳️ I have been <b>elected to serve as the Secretary</b> on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 <b>(June 19, 2025)</b>
 <br/><br/>
-📄 My single-author paper titled <b>"Search and Society: Reimagining Information Access for Radical Futures"</b> has been <a href="https://irrj.org/article/view/19654">published</a> in the Information Retrieval Research Journal (IRRJ).
-<br/>
-<b>(March 25, 2025)</b>
+📄 My single-author paper titled <b>"Search and Society: Reimagining Information Access for Radical Futures"</b> has been <a href="https://irrj.org/article/view/19654">published</a> in the Information Retrieval Research Journal (IRRJ). <b>(March 25, 2025)</b>
 <br/><br/>
-🎙️ I gave an <b>invited talk on "Emancipatory Information Retrieval"</b> at the <a href="https://www.ucc.ie/en/apsych/research/people-and-tech/">People and Technology Lab (PATLab), University College Cork</a>. Talk <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg">recording</a> and <a href="https://www.slideshare.net/slideshow/emancipatory-information-retrieval-ucc/276984043">slides</a> are now available!
-<br/>
-<b>(March 20, 2025)</b>
+🎙️ I gave an <b>invited talk on "Emancipatory Information Retrieval"</b> at the <a href="https://www.ucc.ie/en/apsych/research/people-and-tech/">People and Technology Lab (PATLab), University College Cork</a>. Talk <a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg">recording</a> and <a href="https://www.slideshare.net/slideshow/emancipatory-information-retrieval-ucc/276984043">slides</a> are now available! <b>(March 20, 2025)</b>
 </div>
 <br/><br/>
 
