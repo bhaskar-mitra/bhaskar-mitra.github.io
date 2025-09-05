@@ -32,7 +32,7 @@ News and updates
 <br/>
 ✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> (September 1, 2025)
 <br/>
-🎙️ I participated in the AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">Generative AI - Opportunity or Risk?</a>" organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a> (August 26, 2025)
+🎙️ I participated in the AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">To Use Generative AI or Not To Use It?</a>" organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a> (August 26, 2025)
 <br/>
 🎙️ I was interviewed by Ariella Steinhorn for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" (August 6, 2025)
 <br/>
