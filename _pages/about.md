@@ -32,6 +32,9 @@ News and updates
 🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
 **(Upcoming: November, 2025)**
 
+✍🏽 **Blog post:** [What is IR-for-Good?](https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/)  
+**(September 1, 2025)**
+
 🎙️ I participated in the **AI Debate on "Generative AI - Opportunity or Risk?"** organized by [Women in AI Ethics+ (WAIE+)](https://www.waieplus.com/). Check out the [recording](https://www.youtube.com/watch?v=X2M9BcNzN2M)!  
 **(August 26, 2025)**
 
