@@ -188,7 +188,7 @@ Our motivation is to subsequently contribute the identified best practices back 
 The transformations that IR-for-Good track wants to realize in the broader IR community will not happen overnight.
 At ECIR’26 we are trying to re-clarify for ourselves and the IR community what we want to achieve with this special track and build on the original IR-for-Good vision.
 We need future IR-for-Good track chairs to continue evolving these emerging practices and experiment with new ones.
-We need to collaborate with and enable cross-pollination of ideas and practices with other societally-motivated IR sub-communities, such as [TheWebConf Responsible Web track](https://www2025.thewebconf.org/research-tracks), [RecSys FAccTRec workshop](https://facctrec.github.io/facctrec2025/), and [KDD Responsible AI Day](https://sites.google.com/view/responsible-ai-day/).
+We need to collaborate with and enable cross-pollination of ideas and practices with other societally-motivated IR sub-communities, such as [TheWebConf Web4Good Special Track](https://www2025.thewebconf.org/web4good), [TheWebConf Responsible Web track](https://www2025.thewebconf.org/research-tracks), [RecSys FAccTRec workshop](https://facctrec.github.io/facctrec2025/), and [KDD Responsible AI Day](https://sites.google.com/view/responsible-ai-day/).
 And we need to raise our sociopolitical consciousness within the IR community and push towards more epistemic rigor working in partnership with other disciplinary scholars and experts.
 
 
