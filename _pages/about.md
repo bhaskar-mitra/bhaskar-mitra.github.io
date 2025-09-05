@@ -17,49 +17,49 @@ I received my Ph.D. in Computer Science from University College London under the
 
 News and updates
 ======
-<p class="archive__item-excerpt" itemprop="description">
+<div style="font-size:0.75em">
 🔍 I am **co-organizing the Tip-of-the-Tongue (ToT) Task at [NTCIR-19](https://research.nii.ac.jp/ntcir/ntcir-19/)**. More details coming soon. See you in Tokyo!  
 **(Upcoming: December 8-10, 2026)**
-
+<br/>
 🪑 I am serving as the **Responsible Web Track Co-Chair for WebConf 2026**. See you in Dubai!  
 **(Upcoming: April 13-17, 2026)**
-
+<br/>
 🪑 I am serving as the **IR-for-Good Co-Chair for ECIR 2026**. Call for papers will be announced in August. See you in Delft!  
 **(Upcoming: March 29 - April 2, 2026)**
-
+<br/>
 🪑 I am serving as the **Program Committee (PC) Co-Chair for SIGIR-AP 2025**. Please see the [call for papers](https://www.sigir-ap.org/sigir-ap-2025/call-for-papers) and see you in Xi'an! Note: This year, we will continue our tradition to be a **hybrid conference** to enable broader participation from our diverse community across the globe.  
 **(Upcoming: December 7-10, 2025)**
-
+<br/>
 🔍 I am **co-organizing the [TREC](https://trec.nist.gov/) Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: ~August 27th~ September 10th (deadline extended).  
 **(Upcoming: November, 2025)**
-
+<br/>
 ✍🏽 **Blog post:** [What is IR-for-Good?](https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/)  
 **(September 1, 2025)**
-
+<br/>
 🎙️ I participated in the **AI Debate on "Generative AI - Opportunity or Risk?"** organized by [Women in AI Ethics+ (WAIE+)](https://www.waieplus.com/). Check out the [recording](https://www.youtube.com/watch?v=X2M9BcNzN2M)!  
 **(August 26, 2025)**
-
+<br/>
 🎙️ I was **interviewed by Ariella Steinhorn** for [Hard Reset](https://hardresetmedia.substack.com/): "[Machine learning expert: “AI hype” is the true product, to provide cover for social agendas](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)"  
 **(August 6, 2025)**
-
+<br/>
 ✍🏽 **Blog post:** [AI as politic of class exploitation](https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/)  
 **(July 31, 2025)**
-
+<br/>
 ✍🏽 **Blog post:** [Why I am leaving big tech…](https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/)  
 **(July 16, 2025)**
-
+<br/>
 📄 The [preprint](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint) of the report on the [Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)](https://sites.google.com/view/swirl2025/) is now available. I am excited to have contributed to the "**Centering Societal, Democratic, and Emancipatory Values and Ethics in IR**" section of the report. Check it out!  
 **(June 26, 2025)**
-
+<br/>
 🗳️ I have been **elected to serve as the Secretary** on the [ACM SIGIR Executive Committee](https://sigir.org/general-information/officers-and-volunteers). My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽  
 **(June 19, 2025)**
-
+<br/>
 📄 My single-author paper titled **"Search and Society: Reimagining Information Access for Radical Futures"** has been [published](https://irrj.org/article/view/19654) in the Information Retrieval Research Journal (IRRJ).  
 **(March 25, 2025)**
-
+<br/>
 🎙️ I gave an **invited talk on "Emancipatory Information Retrieval"** at the [People and Technology Lab (PATLab), University College Cork](https://www.ucc.ie/en/apsych/research/people-and-tech/). Talk [recording](https://www.youtube.com/watch?v=wK-nHCg_ZHg) and [slides](https://www.slideshare.net/slideshow/emancipatory-information-retrieval-ucc/276984043) are now available!  
 **(March 20, 2025)**
-</p>
+</div>
 <br/><br/>
 
 Featured work
