@@ -18,33 +18,33 @@ I received my Ph.D. in Computer Science from University College London under the
 News and updates
 ======
 <div style="font-size:0.85em">
-🔍 I am <b>co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a></b>. <b>(Upcoming: December 8-10, 2026)</b>
+🔍 I am co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a>. <b>(Upcoming: December 8-10, 2026)</b>
 <br/>
-🪑 I am serving as the <b><a href="https://www2026.thewebconf.org/calls/research-tracks.html">Responsible Web Track</a> Co-Chair for WebConf 2026</b>. <b>(Upcoming: April 13-17, 2026)</b>
+🪑 I am serving as the <a href="https://www2026.thewebconf.org/calls/research-tracks.html">Responsible Web Track</a> Co-Chair for WebConf 2026. <b>(Upcoming: April 13-17, 2026)</b>
 <br/>
-🪑 I am serving as the <b><a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026</b>. <b>(Upcoming: March 29 - April 2, 2026)</b>
+🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026. <b>(Upcoming: March 29 - April 2, 2026)</b>
 <br/>
-🪑 I am serving as the <b>Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a></b>. <b>(Upcoming: December 7-10, 2025)</b>
+🪑 I am serving as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a>. <b>(Upcoming: December 7-10, 2025)</b>
 <br/>
-🔍 I am <b>co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track</b>. <b>(Upcoming: November, 2025)</b>
+🔍 I am co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track. <b>(Upcoming: November, 2025)</b>
 <br/>
-👥 I will be attending the <b>Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a></b>. <b>(September 21-26, 2025)</b>
+👥 I will be attending the Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a>. <b>(September 21-26, 2025)</b>
 <br/>
-✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a></b> <b>(September 1, 2025)</b>
+✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> <b>(September 1, 2025)</b>
 <br/>
-🎙️ I participated in the <b>AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">Generative AI - Opportunity or Risk?</a>"</b> organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. <b>(August 26, 2025)</b>
+🎙️ I participated in the AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">Generative AI - Opportunity or Risk?</a>" organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. <b>(August 26, 2025)</b>
 <br/>
-🎙️ I was <b>interviewed by Ariella Steinhorn</b> for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" <b>(August 6, 2025)</b>
+🎙️ I was interviewed by Ariella Steinhorn for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" <b>(August 6, 2025)</b>
 <br/>
-✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a></b>. <b>(July 31, 2025)</b>
+✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a>. <b>(July 31, 2025)</b>
 <br/>
-✍🏽 Blog post: <b><a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a></b>. <b>(July 16, 2025)</b>
+✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a>. <b>(July 16, 2025)</b>
 <br/>
-📄 I am excited to have contributed to the <b>"Centering Societal, Democratic, and Emancipatory Values and Ethics in IR"</b> section of the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">report</a>. <b>(June 26, 2025)</b>
+📄 I am excited to have contributed to the "Centering Societal, Democratic, and Emancipatory Values and Ethics in IR" section of the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">report</a>. <b>(June 26, 2025)</b>
 <br/>
-🗳️ I have been <b>elected to serve as the Secretary</b> on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 <b>(June 19, 2025)</b>
+🗳️ I have been elected to serve as the Secretary on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 <b>(June 19, 2025)</b>
 <br/>
-🎙️ I gave an <b>invited talk on "<a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg">Emancipatory Information Retrieval</a>"</b> at the <a href="https://www.ucc.ie/en/apsych/research/people-and-tech/">People and Technology Lab (PATLab), University College Cork</a>. <b>(March 20, 2025)</b>
+🎙️ I gave an invited talk on "<a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg">Emancipatory Information Retrieval</a>" at the <a href="https://www.ucc.ie/en/apsych/research/people-and-tech/">People and Technology Lab (PATLab), University College Cork</a>. <b>(March 20, 2025)</b>
 </div>
 <br/><br/>
 
