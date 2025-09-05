@@ -13,10 +13,11 @@ I am currently serving as the [ACM SIGIR Secretary](https://sigir.org/general-in
 I previously served as the ACM SIGIR Community Relations Coordinator (2022-2025).
 I have received several awards for my research, including two [ACM SIGIR Early Career Researcher Awards](https://sigir.org/awards/sigir-ecr-awards/) (2024) for excellence in research and in community engagement.
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
-<br/>
+<br/><br/>
 
 News and updates
 ======
+<p class="archive__item-excerpt" itemprop="description">
 🔍 I am **co-organizing the Tip-of-the-Tongue (ToT) Task at [NTCIR-19](https://research.nii.ac.jp/ntcir/ntcir-19/)**. More details coming soon. See you in Tokyo!  
 **(Upcoming: December 8-10, 2026)**
 
@@ -58,6 +59,7 @@ News and updates
 
 🎙️ I gave an **invited talk on "Emancipatory Information Retrieval"** at the [People and Technology Lab (PATLab), University College Cork](https://www.ucc.ie/en/apsych/research/people-and-tech/). Talk [recording](https://www.youtube.com/watch?v=wK-nHCg_ZHg) and [slides](https://www.slideshare.net/slideshow/emancipatory-information-retrieval-ucc/276984043) are now available!  
 **(March 20, 2025)**
+</p>
 <br/><br/>
 
 Featured work
