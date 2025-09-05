@@ -37,7 +37,8 @@ Conference chairing
 
 Workshop, tutorial, and shared task organization
 ======
-* **Shared task:** [Tip-of-the-Tongue track](https://trec-tot.github.io/), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2023-present)
+* **Shared task:** Tip-of-the-Tongue task, [NII Test Collection for IR Systems (NTCIR)](https://research.nii.ac.jp/ntcir/index-en.html), (2026)
+* **Shared task:** [Tip-of-the-Tongue track](https://trec-tot.github.io/), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2023-2025)
 * **Workshop:** [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2025/), [SIGIR](https://sigir2025.dei.unipd.it/), July 2025
 * **Workshop:** [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/WSDM2025/), [WSDM](https://www.wsdm-conference.org/2025/), March 2025
 * **Workshop:** [ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval](https://reneuir.org/), [SIGIR](https://sigir.org/sigir2024/), July 2024
