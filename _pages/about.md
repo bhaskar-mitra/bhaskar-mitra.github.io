@@ -30,7 +30,7 @@ News and updates
 <br/>
 👥 I will be attending the Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a> (September 21-26, 2025)
 <br/>
-✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> <b>(September 1, 2025)
+✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> (September 1, 2025)
 <br/>
 🎙️ I participated in the AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">Generative AI - Opportunity or Risk?</a>" organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a> (August 26, 2025)
 <br/>
