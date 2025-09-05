@@ -29,7 +29,7 @@ News and updates
 🪑 I am serving as the **Program Committee (PC) Co-Chair for SIGIR-AP 2025**. Please see the [call for papers](https://www.sigir-ap.org/sigir-ap-2025/call-for-papers) and see you in Xi'an! Note: This year, we will continue our tradition to be a **hybrid conference** to enable broader participation from our diverse community across the globe.  
 **(Upcoming: December 7-10, 2025)**
 
-🔍 I am **co-organizing the TREC Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
+🔍 I am **co-organizing the [TREC](https://trec.nist.gov/) Tip-of-the-Tongue (ToT) Track**. Please see the [guidelines](https://trec-tot.github.io/guidelines) to participate! Deadline for submitting runs: August 27th.  
 **(Upcoming: November, 2025)**
 
 ✍🏽 **Blog post:** [What is IR-for-Good?](https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/)  
