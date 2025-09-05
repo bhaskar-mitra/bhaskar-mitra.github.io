@@ -61,5 +61,6 @@ Workshop, tutorial, and shared task organization
 
 Invited participation
 ======
+* [Dagstuhl Seminar on Retrieval-Augmented Generation – The Future of Search?](https://www.dagstuhl.de/25391), September 2025
 * [The 4th Strategic Workshop on Information Retrieval in Lorne (SWIRL)](https://sites.google.com/view/swirl2025/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint)), February 2025
 * [Future of Information Retrieval Research in the Age of Generative AI](https://cra.org/ccc/events/future-of-information-retrieval-research-in-the-age-of-generative-ai-ccc-visioning-workshop/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=CCC-Report_-Future-of-Information-Retrieval-Research-in-the-Age-of-Generative-AI_FINAL)), by [Computing Community Consortium](https://cra.org/ccc/), July 2024
