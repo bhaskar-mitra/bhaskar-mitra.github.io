@@ -28,7 +28,8 @@ News and updates
 <br/><br/>
 🔍 I am <b>co-organizing the <a href="https://trec.nist.gov/">TREC</a> Tip-of-the-Tongue (ToT) Track</b>. Please see the <a href="https://trec-tot.github.io/guidelines">guidelines</a> to participate! Deadline for submitting runs: <s>August 27th</s> September 10th. <b>(Upcoming: November, 2025)</b>
 <br/><br/>
-👥 I will be attending the <b>Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a></b>. See you in Schloss Dagstuhl! <b>(September 21-26, 2025)</b>
+👥 I will be attending the <b>Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a></b>. <b>(September 21-26, 2025)</b>
+<br/><br/>
 ✍🏽 <b>Blog post:</b> <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> <b>(September 1, 2025)</b>
 <br/><br/>
 🎙️ I participated in the <b>AI Debate on "Generative AI - Opportunity or Risk?"</b> organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a>. Check out the <a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">recording</a>! <b>(August 26, 2025)</b>
