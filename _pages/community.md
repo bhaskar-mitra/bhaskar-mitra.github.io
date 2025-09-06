@@ -35,6 +35,14 @@ Conference chairing
 
 <br/>
 
+Invited participation
+======
+* [Dagstuhl Seminar on Retrieval-Augmented Generation – The Future of Search?](https://www.dagstuhl.de/25391), September 2025
+* [The 4th Strategic Workshop on Information Retrieval in Lorne (SWIRL)](https://sites.google.com/view/swirl2025/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint)), February 2025
+* [Future of Information Retrieval Research in the Age of Generative AI](https://cra.org/ccc/events/future-of-information-retrieval-research-in-the-age-of-generative-ai-ccc-visioning-workshop/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=CCC-Report_-Future-of-Information-Retrieval-Research-in-the-Age-of-Generative-AI_FINAL)), by [Computing Community Consortium](https://cra.org/ccc/), July 2024
+
+<br/>
+
 Workshop, tutorial, and shared task organization
 ======
 * **Shared task:** Tip-of-the-Tongue task, [NII Test Collection for IR Systems (NTCIR)](https://research.nii.ac.jp/ntcir/index-en.html), (2026)
@@ -57,11 +65,3 @@ Workshop, tutorial, and shared task organization
 * **Workshop:** [Neu-IR’17: SIGIR 2017 Workshop on Neural Information Retrieval](http://neu-ir.weebly.com/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=3190580.3190603)), [SIGIR](https://sigir.org/sigir2017/), August 2017
 * **Tutorial:** [The WSDM 2017 Tutorial on Neural Text Embeddings for Information Retrieval](https://www.microsoft.com/en-us/research/event/wsdm-2017-tutorial-neural-text-embeddings-information-retrieval/) ([slides](http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017)), [WSDM](http://www.wsdm-conference.org/2017/), February 2017
 * **Workshop:** [Neu-IR 2016: The SIGIR 2016 Workshop on Neural Information Retrieval](https://www.microsoft.com/en-us/research/event/neuir2016/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=3053408.3053425)), [SIGIR](https://sigir.org/sigir2016/), July 2016
-
-<br/>
-
-Invited participation
-======
-* [Dagstuhl Seminar on Retrieval-Augmented Generation – The Future of Search?](https://www.dagstuhl.de/25391), September 2025
-* [The 4th Strategic Workshop on Information Retrieval in Lorne (SWIRL)](https://sites.google.com/view/swirl2025/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint)), February 2025
-* [Future of Information Retrieval Research in the Age of Generative AI](https://cra.org/ccc/events/future-of-information-retrieval-research-in-the-age-of-generative-ai-ccc-visioning-workshop/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=CCC-Report_-Future-of-Information-Retrieval-Research-in-the-Age-of-Generative-AI_FINAL)), by [Computing Community Consortium](https://cra.org/ccc/), July 2024
