@@ -24,9 +24,11 @@ News and updates
 <br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
 <br/>
+🎙️ I will be giving one of the keynote addresses on "Emancipatory Information Retrieval: A Call for Societally-Motivated IR Research" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (Upcoming: December, 2025)
+<br/>
 🪑 I am serving as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (Upcoming: December 7-10, 2025)
 <br/>
-🔍 I am co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (Upcoming: November, 2025)
+🔍 I am co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (November, 2025)
 <br/>
 👥 I attended the Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a> (September 21-26, 2025)
 <br/>
