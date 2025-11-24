@@ -30,7 +30,7 @@ News and updates
 <br/>
 🔍 I am co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (Upcoming: December, 2025)
 <br/>
-🎙️ I will be on the <a href="https://evelya.co/en/mc-gill-university/encode-canada/ai-ethics-the-tech-industry-1414">AI Ethics and the Tech Industry panel</a> organized by <a href="https://www.mcgillcsus.com/">McGill Computer Science Undergraduate Society (CSUS)</a> and <a href="https://encodecanada.ca/">Encode Canada</a> (Upcoming: November 20, 2025)
+🎙️ I was on the <a href="https://evelya.co/en/mc-gill-university/encode-canada/ai-ethics-the-tech-industry-1414">AI Ethics and the Tech Industry panel</a> organized by <a href="https://www.mcgillcsus.com/">McGill Computer Science Undergraduate Society (CSUS)</a> and <a href="https://encodecanada.ca/">Encode Canada</a> (November 20, 2025)
 <br/>
 👥 I attended the Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a> (September 21-26, 2025)
 <br/>
