@@ -20,8 +20,6 @@ News and updates
 <div style="font-size:0.85em">
 🔍 I am co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (Upcoming: December 8-10, 2026)
 <br/>
-🪑 I am serving as the <a href="https://www2026.thewebconf.org/calls/research-tracks.html">Responsible Web Track</a> Co-Chair for WebConf 2026 (Upcoming: April 13-17, 2026)
-<br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
 <br/>
 🎙️ I will be presenting a keynote address on "Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (Upcoming: December 18, 2025)
@@ -30,26 +28,12 @@ News and updates
 <br/>
 🪑 I served as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (December 7-10, 2025)
 <br/>
-🎙️ I was on the <a href="https://evelya.co/en/mc-gill-university/encode-canada/ai-ethics-the-tech-industry-1414">AI Ethics and the Tech Industry panel</a> organized by <a href="https://www.mcgillcsus.com/">McGill Computer Science Undergraduate Society (CSUS)</a> and <a href="https://encodecanada.ca/">Encode Canada</a> (November 20, 2025)
-<br/>
-👥 I attended the Dagstuhl Seminar on <a href="https://www.dagstuhl.de/25391">"Retrieval-Augmented Generation – The Future of Search?"</a> (September 21-26, 2025)
-<br/>
-✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/09/01/what-is-ir-for-good/">What is IR-for-Good?</a> (September 1, 2025)
-<br/>
-🎙️ I participated in the AI Debate on "<a href="https://www.youtube.com/watch?v=X2M9BcNzN2M">To Use Generative AI or Not To Use It?</a>" organized by <a href="https://www.waieplus.com/">Women in AI Ethics+ (WAIE+)</a> (August 26, 2025)
-<br/>
 🎙️ I was interviewed by Ariella Steinhorn for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" (August 6, 2025)
-<br/>
-✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/31/ai-as-politic-of-class-exploitation/">AI as politic of class exploitation</a> (July 31, 2025)
 <br/>
 ✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a> (July 16, 2025)
 <br/>
-📄 I am excited to have contributed to the "Centering Societal, Democratic, and Emancipatory Values and Ethics in IR" section of the <a href="https://sites.google.com/view/swirl2025/">Fourth Strategic Workshop on Information Retrieval in Lorne (SWIRL 2025)</a> <a href="https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint">report</a> (June 26, 2025)
-<br/>
 🗳️ I have been elected to serve as the Secretary on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 (June 19, 2025)
 <br/>
-🎙️ I gave an invited talk on "<a href="https://www.youtube.com/watch?v=wK-nHCg_ZHg">Emancipatory Information Retrieval</a>" at the <a href="https://www.ucc.ie/en/apsych/research/people-and-tech/">People and Technology Lab (PATLab), University College Cork</a> (March 20, 2025)
-</div>
 <br/><br/>
 
 Featured work
