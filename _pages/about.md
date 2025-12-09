@@ -26,9 +26,9 @@ News and updates
 <br/>
 🎙️ I will be presenting a keynote address on "Emancipatory Information Retrieval: A Call for Societally-Motivated IR Research" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (Upcoming: December 18, 2025)
 <br/>
-🪑 I am serving as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (Upcoming: December 7-10, 2025)
+🔍 I co-organized the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (December 11-12, 2025)
 <br/>
-🔍 I am co-organizing the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (Upcoming: December, 2025)
+🪑 I served as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (December 7-10, 2025)
 <br/>
 🎙️ I was on the <a href="https://evelya.co/en/mc-gill-university/encode-canada/ai-ethics-the-tech-industry-1414">AI Ethics and the Tech Industry panel</a> organized by <a href="https://www.mcgillcsus.com/">McGill Computer Science Undergraduate Society (CSUS)</a> and <a href="https://encodecanada.ca/">Encode Canada</a> (November 20, 2025)
 <br/>
