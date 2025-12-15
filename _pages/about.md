@@ -33,7 +33,7 @@ News and updates
 ✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a> (July 16, 2025)
 <br/>
 🗳️ I have been elected to serve as the Secretary on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 (June 19, 2025)
-<br/>
+</div>
 <br/><br/>
 
 Featured work
