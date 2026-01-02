@@ -22,6 +22,8 @@ News and updates
 <br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
 <br/>
+📄 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
+<br/>
 🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-fire2026.pptx">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
 <br/>
 🔍 I co-organized the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (December 11-12, 2025)
