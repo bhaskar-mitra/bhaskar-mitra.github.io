@@ -22,7 +22,7 @@ News and updates
 <br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
 <br/>
-✍🏽 My "breakup letter" to Big Tech ("<a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">Why I'm Leaving Big Tech</a>") has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
+✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
 <br/>
 📄 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
