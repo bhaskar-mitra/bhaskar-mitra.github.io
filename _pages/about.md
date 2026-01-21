@@ -22,6 +22,8 @@ News and updates
 <br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
 <br/>
+✍🏽 My "breakup letter" to Big Tech from last summer has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a>: <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">Why I'm Leaving Big Tech</a> (January 20, 2026)
+<br/>
 📄 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
 🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-fire2026.pptx">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
@@ -31,8 +33,6 @@ News and updates
 🪑 I served as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (December 7-10, 2025)
 <br/>
 🎙️ I was interviewed by Ariella Steinhorn for <a href="https://hardresetmedia.substack.com/">Hard Reset</a>: "<a href="https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is">Machine learning expert: “AI hype” is the true product, to provide cover for social agendas</a>" (August 6, 2025)
-<br/>
-✍🏽 Blog post: <a href="https://bhaskar-mitra.github.io/posts/2025/07/16/why-i-am-leaving-big-tech/">Why I am leaving big tech…</a> (July 16, 2025)
 <br/>
 🗳️ I have been elected to serve as the Secretary on the <a href="https://sigir.org/general-information/officers-and-volunteers">ACM SIGIR Executive Committee</a>. My heartfelt thanks to everyone for your incredible support and trust! 🙏🏽 (June 19, 2025)
 </div>
