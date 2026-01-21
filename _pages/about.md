@@ -24,7 +24,7 @@ News and updates
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
 <br/>
-✍🏽 New preprint: <a href="https://arxiv.org/abs/2601.09600">Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms ✊🏽✊🏾✊🏼</a> (January 14, 2026)
+✍🏽 New preprint: <a href="https://arxiv.org/abs/2601.09600">Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms</a> ✊🏽✊🏾✊🏼 (January 14, 2026)
 <br/>
 📄 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
