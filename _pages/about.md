@@ -24,6 +24,8 @@ News and updates
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
 <br/>
+✍🏽 New preprint: <a href="https://arxiv.org/abs/2601.09600">Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms ✊🏽✊🏾✊🏼</a> (January 14, 2026)
+<br/>
 📄 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
 🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-fire2026.pptx">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
