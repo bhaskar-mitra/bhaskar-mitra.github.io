@@ -116,4 +116,5 @@ Abolish big tech. Free Palestine.
 
 <br/><br/>
 **_Would you like to comment on or discuss this post?_** You can do so on these social media threads on [Bluesky](https://bsky.app/profile/bmitra.bsky.social/post/3lu6674d5z22x), [Mastodon](https://mastodon.social/@bmitra/114869106092488513), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351622772273344512/), and [Twitter](https://x.com/UnderdogGeek/status/1945857031954411743).
+
 **P.S..** An updated version of this letter has been [published](https://disjunctionsmag.com/articles/why-leaving-big-tech/) in the inaugural issue of the [Disjunctions magazine](https://disjunctionsmag.com/). 
