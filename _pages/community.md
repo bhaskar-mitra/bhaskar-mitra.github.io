@@ -45,7 +45,7 @@ Invited participation
 
 Shared task organization
 ======
-* Tip-of-the-Tongue task, [NII Test Collection for IR Systems (NTCIR)](https://research.nii.ac.jp/ntcir/index-en.html), (2026)
+* [Tip-of-the-Tongue task](https://ntcir-tot.github.io/), [NII Test Collection for IR Systems (NTCIR)](https://research.nii.ac.jp/ntcir/index-en.html), (2026)
 * [Tip-of-the-Tongue track](https://trec-tot.github.io/), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2023-2025)
 * [Deep Learning track](https://microsoft.github.io/msmarco/TREC-Deep-Learning), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2019-2023)
 * [Microsoft MAchine Reading COmprehension (MS MARCO)](http://www.msmarco.org/) passage and document ranking leaderboards, November 2018.
