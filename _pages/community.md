@@ -54,6 +54,8 @@ Shared task organization
 
 Workshop organization
 ======
+* Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms, [SIGIR](https://sigir2026.org/), July 2026
+* VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval, [SIGIR](https://sigir2026.org/), July 2026
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2025/), [SIGIR](https://sigir2025.dei.unipd.it/), July 2025
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/WSDM2025/), [WSDM](https://www.wsdm-conference.org/2025/), March 2025
 * [ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval](https://reneuir.org/), [SIGIR](https://sigir.org/sigir2024/), July 2024
