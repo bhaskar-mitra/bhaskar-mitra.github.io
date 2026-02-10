@@ -15,6 +15,11 @@ I have received several awards for my research, including two [ACM SIGIR Early C
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
 <br/><br/>
 
+My research themes:
+<a href="theme-1" class="btn">Theme 1</a>
+
+<br/><br/>
+
 News and updates
 ======
 <div style="font-size:0.85em">
