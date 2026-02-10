@@ -16,7 +16,7 @@ I received my Ph.D. in Computer Science from University College London under the
 <br/>
 
 My research themes:
-<a href="theme-1" class="btn" style="background-color:blue; :hover {background-color: mix(#000, blue, 20%)}">Theme 1</a>
+<a href="theme-1" class="btn" style="background-color:blue; a{:hover {background-color: mix(#000, blue, 20%)}}">Theme 1</a>
 <a href="theme-2" class="btn">Theme 2</a>
 <a href="theme-3" class="btn">Theme 3</a>
 
