@@ -9,7 +9,7 @@ Emancipatory Information Access is the study and development of information acce
 The term "emancipatory" here signifies the moral concerns—central to this field of study—of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish.
 Examples of structural oppression in this context include colonialism, racism, patriarchy, casteism, transphobia, religious persecution, and ableism.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
