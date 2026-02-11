@@ -16,7 +16,7 @@ I received my Ph.D. in Computer Science from University College London under the
 <br/>
 
 **My research themes:**
-<a href="theme-1" class="btn" style="background-color:blue" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Theme 1</a>
+<a href="theme-emancipatory" class="btn" style="background-color:blue" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Emancipatory Information Access</a>
 <a href="theme-2" class="btn" style="background-color:green" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Theme 2</a>
 <a href="theme-3" class="btn" style="background-color:red" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Theme 3</a>
 <a href="theme-4" class="btn" style="background-color:magenta" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Theme 4</a>
