@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 7"
-permalink: /theme-7/
+title: "Research Theme: Query Auto-Completion"
+permalink: /theme-qac/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
