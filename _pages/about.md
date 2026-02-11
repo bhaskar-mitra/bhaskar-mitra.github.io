@@ -15,7 +15,7 @@ I have received several awards for my research, including two [ACM SIGIR Early C
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
 <br/>
 
-My research themes:
+**My research themes:**
 <a href="theme-1" class="btn" style="background-color:blue" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Theme 1</a>
 <a href="theme-2" class="btn" style="background-color:green" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Theme 2</a>
 <a href="theme-3" class="btn" style="background-color:red" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Theme 3</a>
