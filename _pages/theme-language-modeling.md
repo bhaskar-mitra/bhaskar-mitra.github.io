@@ -10,6 +10,7 @@ This research theme focuses on the development and application of (large and sma
 <br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
+<div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>A Simple Introduction to Word Embeddings</h2>
     <a href="http://www.northeastern.edu/seattle/" style="text-decoration:none;color:inherit">North Eastern University</a><br/>
@@ -17,7 +18,7 @@ This research theme focuses on the development and application of (large and sma
     <a href="http://www.slideshare.net/BhaskarMitra3/a-simple-introduction-to-word-embeddings">SlideShare</a> |
     <a href="../files/introductiontowordembeddings-160405062343.pptx">PPT</a><br/>
   </article>
-</div
+</div>
 
 <br/><br/>
 <h1>Invited participation</h1>
