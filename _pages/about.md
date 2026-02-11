@@ -21,8 +21,8 @@ I received my Ph.D. in Computer Science from University College London under the
 <a href="theme-language-modeling" class="btn" style="background-color:red; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Language Modeling</a>
 <a href="theme-fairness" class="btn" style="background-color:magenta; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Exposure Fairness and Transparency in Ranking</a>
 <a href="theme-neural-ir" class="btn" style="background-color:orange; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Neural Information Retrieval</a>
-<a href="theme-6" class="btn" style="background-color:violet; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 6</a>
-<a href="theme-7" class="btn" style="background-color:teal; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, teal 80%)'" onmouseout="this.style.backgroundColor='teal'">Theme 7</a>
+<a href="theme-evaluation" class="btn" style="background-color:violet; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Evaluation and Benchmarking</a>
+<a href="theme-qac" class="btn" style="background-color:teal; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, teal 80%)'" onmouseout="this.style.backgroundColor='teal'">Query Auto-Completion</a>
 
 
 News and updates
