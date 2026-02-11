@@ -1,7 +1,0 @@
----
-title: "Research Theme: 1"
-permalink: /theme-1/
-author_profile: true
----
-
-<div class="wordwrap">Add theme description.</div>
