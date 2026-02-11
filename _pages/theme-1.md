@@ -328,27 +328,24 @@ author_profile: true
   </article>
 </div>
 
-<br/>
-
-Invited participation
-======
+<br/><br/>
+<h1>Invited participation</h1>
+<hr />
 * [Dagstuhl Seminar on Retrieval-Augmented Generation – The Future of Search?](https://www.dagstuhl.de/25391), September 2025
 * [The 4th Strategic Workshop on Information Retrieval in Lorne (SWIRL)](https://sites.google.com/view/swirl2025/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint)), February 2025
 * [Future of Information Retrieval Research in the Age of Generative AI](https://cra.org/ccc/events/future-of-information-retrieval-research-in-the-age-of-generative-ai-ccc-visioning-workshop/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=CCC-Report_-Future-of-Information-Retrieval-Research-in-the-Age-of-Generative-AI_FINAL)), by [Computing Community Consortium](https://cra.org/ccc/), July 2024
 
-<br/>
-
-Shared task organization
-======
+<br/><br/>
+<h1>Shared task organization</h1>
+<hr />
 * [Tip-of-the-Tongue task](https://ntcir-tot.github.io/), [NII Test Collection for IR Systems (NTCIR)](https://research.nii.ac.jp/ntcir/index-en.html), (2026)
 * [Tip-of-the-Tongue track](https://trec-tot.github.io/), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2023-2025)
 * [Deep Learning track](https://microsoft.github.io/msmarco/TREC-Deep-Learning), [Text REtrieval Conference (TREC)](https://trec.nist.gov/), (2019-2023)
 * [Microsoft MAchine Reading COmprehension (MS MARCO)](http://www.msmarco.org/) passage and document ranking leaderboards, November 2018.
 
-<br/>
-
-Workshop organization
-======
+<br/><br/>
+<h1>Workshop organization</h1>
+<hr />
 * Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms, [SIGIR](https://sigir2026.org/), July 2026
 * VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval, [SIGIR](https://sigir2026.org/), July 2026
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2025/), [SIGIR](https://sigir2025.dei.unipd.it/), July 2025
@@ -360,10 +357,9 @@ Workshop organization
 * [Neu-IR’17: SIGIR 2017 Workshop on Neural Information Retrieval](http://neu-ir.weebly.com/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=3190580.3190603)), [SIGIR](https://sigir.org/sigir2017/), August 2017
 * [Neu-IR 2016: The SIGIR 2016 Workshop on Neural Information Retrieval](https://www.microsoft.com/en-us/research/event/neuir2016/) ([report](https://bhaskar-mitra.github.io/showpdf/?file=3053408.3053425)), [SIGIR](https://sigir.org/sigir2016/), July 2016
 
-<br/>
-
-Tutorial organization
-======
+<br/><br/>
+<h1>Tutorial organization</h1>
+<hr />
 * Learning to Rank for Information Retrieval with Neural Networks ([slides](https://www.slideshare.net/BhaskarMitra3/learning-to-rank-with-neural-networks-226255754) + [video](https://www.youtube.com/watch?v=kiPpt5Ax1EY) + [hands-on lab materials](https://github.com/spacemanidol/AFIRMDeepLearning2020)),[ ACM SIGIR/SIGKDD Africa Summer School on Machine Learning for Data Mining and Search (AFIRM)](http://sigir.org/afirm2020/), January 2020
 * [Deep Learning for Search](http://fire.irsi.res.in/fire/2019/Tutorials) ([slides](https://www.slideshare.net/BhaskarMitra3/deep-learning-for-search-204326329)), [Forum for Information Retrieval Evaluation (FIRE)](http://fire.irsi.res.in/fire/2019/home), December 2019
 * Neural Learning to Rank ([slides](https://www.slideshare.net/BhaskarMitra3/neural-learning-to-rank)), [IVADO recommender systems summer school](https://ivado.ca/en/trainings/workshops/workshop-recommender-systems/), August 2019
