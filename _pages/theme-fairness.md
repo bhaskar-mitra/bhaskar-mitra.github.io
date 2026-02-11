@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Theme: Exposure Fairness and Transparency in Ranking"
+title: "Research Theme: Exposure Fairness and Transparency in Information Access"
 permalink: /theme-fairness/
 author_profile: true
 ---
