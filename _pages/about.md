@@ -17,8 +17,8 @@ I received my Ph.D. in Computer Science from University College London under the
 
 **My research themes:**
 <a href="theme-emancipatory-ia" class="btn" style="background-color:blue; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Emancipatory Information Access</a>
-<a href="theme-2" class="btn" style="background-color:green; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Theme 2</a>
-<a href="theme-3" class="btn" style="background-color:red; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Theme 3</a>
+<a href="theme-responsible-ai" class="btn" style="background-color:green; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Responsible AI</a>
+<a href="theme-language-modeling" class="btn" style="background-color:red; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Language Modeling</a>
 <a href="theme-4" class="btn" style="background-color:magenta; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Theme 4</a>
 <a href="theme-5" class="btn" style="background-color:orange; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Theme 5</a>
 <a href="theme-6" class="btn" style="background-color:violet; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 6</a>
