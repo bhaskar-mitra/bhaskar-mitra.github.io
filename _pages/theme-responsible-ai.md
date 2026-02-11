@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 2"
-permalink: /theme-2/
+title: "Research Theme: Responsible AI"
+permalink: /theme-responsible-ai/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
