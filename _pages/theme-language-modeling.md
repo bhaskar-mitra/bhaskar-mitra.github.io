@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 3"
-permalink: /theme-3/
+title: "Research Theme: Language Modeling"
+permalink: /theme-language-modeling/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
