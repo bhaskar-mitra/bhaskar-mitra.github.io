@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Theme: 1"
-permalink: /theme-1/
+title: "Research Theme: Emancipatory Information Access"
+permalink: /theme-emancipatory/
 author_profile: true
 ---
 
