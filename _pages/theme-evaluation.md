@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 6"
-permalink: /theme-6/
+title: "Research Theme: Evaluation and Benchmarking"
+permalink: /theme-evaluation/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
