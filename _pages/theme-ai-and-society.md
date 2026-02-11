@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Theme: Responsible AI"
-permalink: /theme-responsible-ai/
+title: "Research Theme: AI & Society"
+permalink: /theme-ai-and-society/
 author_profile: true
 ---
 
