@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 4"
-permalink: /theme-4/
+title: "Research Theme: Exposure Fairness and Transparency in Ranking"
+permalink: /theme-fairness/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
