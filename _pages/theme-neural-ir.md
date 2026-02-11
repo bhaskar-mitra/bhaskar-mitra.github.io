@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research Theme: 5"
-permalink: /theme-5/
+title: "Research Theme: Neural Information Retrieval"
+permalink: /theme-neural-ir/
 author_profile: true
 ---
 
-<div class="wordwrap">Add theme description.</div>
+Add theme description.
 
-<br/><br/>
+<br/>
 <h1>Keynotes, invited talks, and lectures</h1>
 <hr />
 <div class="list__item">
