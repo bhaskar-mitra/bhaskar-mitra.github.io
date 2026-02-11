@@ -22,7 +22,7 @@ I received my Ph.D. in Computer Science from University College London under the
 <a href="theme-4" class="btn" style="background-color:magenta; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Theme 4</a>
 <a href="theme-5" class="btn" style="background-color:orange; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Theme 5</a>
 <a href="theme-6" class="btn" style="background-color:violet; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 6</a>
-<a href="theme-7" class="btn" style="background-color:teal" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, teal 80%)'" onmouseout="this.style.backgroundColor='teal'">Theme 7</a>
+<a href="theme-7" class="btn" style="background-color:teal; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, teal 80%)'" onmouseout="this.style.backgroundColor='teal'">Theme 7</a>
 
 
 News and updates
