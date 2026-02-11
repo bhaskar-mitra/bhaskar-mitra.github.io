@@ -19,10 +19,9 @@ My research themes:
 <a href="theme-1" class="btn" style="background-color:blue" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Theme 1</a>
 <a href="theme-2" class="btn" style="background-color:green" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Theme 2</a>
 <a href="theme-3" class="btn" style="background-color:red" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Theme 3</a>
-<a href="theme-4" class="btn" style="background-color:orange" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Theme 4</a>
-<a href="theme-5" class="btn" style="background-color:indigo" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, indigo 80%)'" onmouseout="this.style.backgroundColor='indigo'">Theme 5</a>
-<a href="theme-6" class="btn" style="background-color:yellow" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, yellow 80%)'" onmouseout="this.style.backgroundColor='yellow'">Theme 6</a>
-<a href="theme-7" class="btn" style="background-color:violet" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 7</a>
+<a href="theme-4" class="btn" style="background-color:magenta" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Theme 4</a>
+<a href="theme-5" class="btn" style="background-color:orange" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Theme 5</a>
+<a href="theme-6" class="btn" style="background-color:violet" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 6</a>
 
 
 News and updates
