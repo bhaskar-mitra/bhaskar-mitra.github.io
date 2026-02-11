@@ -22,6 +22,7 @@ My research themes:
 <a href="theme-4" class="btn" style="background-color:magenta" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Theme 4</a>
 <a href="theme-5" class="btn" style="background-color:orange" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Theme 5</a>
 <a href="theme-6" class="btn" style="background-color:violet" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Theme 6</a>
+<a href="theme-7" class="btn" style="background-color:amber" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, amber 80%)'" onmouseout="this.style.backgroundColor='amber'">Theme 7</a>
 
 
 News and updates
