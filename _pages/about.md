@@ -17,7 +17,7 @@ I received my Ph.D. in Computer Science from University College London under the
 
 **My research themes:**
 <a href="theme-emancipatory-ia" class="btn" style="background-color:blue; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Emancipatory Information Access</a>
-<a href="theme-responsible-ai" class="btn" style="background-color:green; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">Responsible AI</a>
+<a href="theme-ai-and-society" class="btn" style="background-color:green; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, green 80%)'" onmouseout="this.style.backgroundColor='green'">AI & Society</a>
 <a href="theme-language-modeling" class="btn" style="background-color:red; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, red 80%)'" onmouseout="this.style.backgroundColor='red'">Language Modeling</a>
 <a href="theme-fairness" class="btn" style="background-color:magenta; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, magenta 80%)'" onmouseout="this.style.backgroundColor='magenta'">Exposure Fairness and Transparency in Ranking</a>
 <a href="theme-neural-ir" class="btn" style="background-color:orange; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Neural Information Retrieval</a>
