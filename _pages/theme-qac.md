@@ -12,6 +12,7 @@ This research theme focuses on studying how users interact with query auto-compl
 <br/>
 <h1>Publications</h1>
 <hr />
+<div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Query Auto-Completion for Rare Prefixes</h2>
     Bhaskar Mitra and Nick Craswell<br/>
