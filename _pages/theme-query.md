@@ -1,18 +1,26 @@
 ---
 layout: archive
-title: "Research Theme: Query Auto-Completion"
-permalink: /theme-qac/
+title: "Research Theme: Query Formulation"
+permalink: /theme-query/
 author_profile: true
 ---
 
-Query auto-completion is a popular feature of web search engines that aims to assist users to formulate queries faster and avoid spelling mistakes by presenting them with possible completions as they start entering a query.
-This research theme focuses on studying how users interact with query auto-completion systems and developing new methods for effective and efficient query auto-completion. 
+This research theme focuses on studying how information seekers formulate their information needs as queries and interact with assistive technologies for query formulation, e.g., query auto-completion systems that assist users to formulate queries faster and avoid spelling mistakes by presenting them with possible completions as they start entering a query.
+This research theme also encompasses research and development of new methods for assisting searchers with their query formulation.
 
 
 <br/>
 <h1>Publications</h1>
 <hr />
 <div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Patterns of gender-specializing query reformulation</h2>
+    Amifa Raj, Bhaskar Mitra, Nick Craswell, and Michael Ekstrand<br/>
+    In proc. ACM SIGIR, 2023<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3539618.3592034">Publication</a> |
+    <a href="../showpdf/?file=3539618.3592034">PDF</a> |
+    <a href="https://arxiv.org/abs/2304.13129">ArXiv</a>
+  </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Query Auto-Completion for Rare Prefixes</h2>
     Bhaskar Mitra and Nick Craswell<br/>
