@@ -216,7 +216,8 @@ This research theme focuses on designing novel neural methods for IR and develop
     <h2>From Noise to Order: Learning to Rank via Denoising Diffusion </h2>
     Sajad Ebrahimi, Bhaskar Mitra, Negar Arabzadeh, Ye Yuan, Haolun Wu, Fattane Zarrinkalam, and Ebrahim Bagheri<br/>
     Preprint, 2026<br/>
-    <a href="../showpdf/?file=DiffusionRank">PDF</a>
+    <a href="../showpdf/?file=DiffusionRank">PDF</a> |
+    <a href="https://arxiv.org/abs/2602.11453">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>ReNeuIR at SIGIR 2024: The Third Workshop on Reaching Efficiency in Neural Information Retrieval</h2>
