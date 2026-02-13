@@ -13,7 +13,7 @@ I am currently serving as the [ACM SIGIR Secretary](https://sigir.org/general-in
 I previously served as the ACM SIGIR Community Relations Coordinator (2022-2025).
 I have received several awards for my research, including two [ACM SIGIR Early Career Researcher Awards](https://sigir.org/awards/sigir-ecr-awards/) (2024) for excellence in research and in community engagement.
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
-<br/>
+<br/><br/>
 
 **My research themes:**
 <a href="theme-emancipatory-ia" class="btn" style="background-color:blue; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, blue 80%)'" onmouseout="this.style.backgroundColor='blue'">Emancipatory Information Access</a>
@@ -24,7 +24,7 @@ I received my Ph.D. in Computer Science from University College London under the
 <a href="theme-neural-ir" class="btn" style="background-color:violet; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, violet 80%)'" onmouseout="this.style.backgroundColor='violet'">Neural Information Retrieval</a>
 <a href="theme-evaluation" class="btn" style="background-color:orange; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, orange 80%)'" onmouseout="this.style.backgroundColor='orange'">Evaluation and Benchmarking</a>
 <a href="theme-qac" class="btn" style="background-color:teal; text-decoration:none" onmouseover="this.style.backgroundColor='color-mix(in srgb, #000 20%, teal 80%)'" onmouseout="this.style.backgroundColor='teal'">Query Auto-Completion</a>
-
+<br/><br/>
 
 News and updates
 ======
