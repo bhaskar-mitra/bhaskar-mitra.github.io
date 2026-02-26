@@ -13,6 +13,13 @@ This research theme focuses on designing novel neural methods for IR and develop
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Neural Learning to Rank</h2>
+    <a href="https://www.ucl.ac.uk/computer-science/" style="text-decoration:none;color:inherit">University College London</a><br/>
+    Virtual, February 2026<br/>
+    <a href="https://www.slideshare.net/slideshow/neural-learning-to-rank-lecture-slides/286239000">SlideShare</a> |
+    <a href="../files/ltr-ucl-2026.pptx">PPT</a><br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>What’s next for deep learning for Search?</h2>
     <a href="https://www.etsy.com/" style="text-decoration:none;color:inherit">Etsy</a><br/>
     Virtual, November 2022<br/>
