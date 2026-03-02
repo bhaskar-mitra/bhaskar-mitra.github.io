@@ -68,7 +68,7 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Human-Centred AI Pipelines: Designing a Platform for Engaging Communities Meaningfully in AI Data Practices to Improve Disability Representation in Image Generation Models</h2>
+    <h2>Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</h2>
     Anja Thieme, Rita Faia Marques, Martin Grayson, Sidhika Balachandar, Cameron Tyler Cassidy, Madiha Zahrah Choksi, Camilla Longden, Reeda Shimaz Huda, Nicholas Ileve Kalovwe, Christina Mallon, Courtney Mansperger, Daniela Massiceti, Bhaskar Mitra, Ruth Mueni Nzioka, Ioana Tanase, Yuzhe You, and Cecily Morrison<br/>
     In proc. ACM CHI, 2026<br/>
     <a href="../showpdf/?file=CHI_paper_FINAL">PDF</a>
