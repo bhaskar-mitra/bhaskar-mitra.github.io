@@ -68,6 +68,11 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</h2>
+    Abeba Birhane, Riccardo Angius, William Agnew, Harshvardhan J. Pandit, Bhaskar Mitra, Roel Dobbe, and Zeerak Talat<br/>
+    In proc. ACM FAccT, 2026<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</h2>
     Anja Thieme, Rita Faia Marques, Martin Grayson, Sidhika Balachandar, Cameron Tyler Cassidy, Madiha Zahrah Choksi, Camilla Longden, Reeda Shimaz Huda, Nicholas Ileve Kalovwe, Christina Mallon, Courtney Mansperger, Daniela Massiceti, Bhaskar Mitra, Ruth Mueni Nzioka, Ioana Tanase, Yuzhe You, and Cecily Morrison<br/>
     In proc. ACM CHI, 2026<br/>
