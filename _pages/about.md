@@ -30,7 +30,7 @@ I received my Ph.D. in Computer Science from University College London under the
 News and updates
 ======
 <div style="font-size:0.85em">
-🔍 I am co-organizing the Tip-of-the-Tongue (ToT) Task at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (Upcoming: December 8-10, 2026)
+🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (Upcoming: December 8-10, 2026)
 <br/>
 🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR</a> (Upcoming: July 24, 2026)
 <br/>
@@ -43,8 +43,6 @@ News and updates
 ✍🏽 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
 🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-fire2026.pptx">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
-<br/>
-🔍 I co-organized the <a href="https://trec.nist.gov/">TREC</a> <a href="https://trec-tot.github.io/guidelines">Tip-of-the-Tongue (ToT)</a> Track (December 11-12, 2025)
 <br/>
 🪑 I served as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (December 7-10, 2025)
 <br/>
