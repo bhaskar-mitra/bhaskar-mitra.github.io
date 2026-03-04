@@ -32,9 +32,9 @@ News and updates
 <div style="font-size:0.85em">
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (Upcoming: December 8-10, 2026)
 <br/>
-🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR</a> (Upcoming: July 24, 2026)
+🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR 2026</a> (Upcoming: July 24, 2026)
 <br/>
-🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for ECIR 2026 (Upcoming: March 29 - April 2, 2026)
+🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (Upcoming: March 29 - April 2, 2026)
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
 <br/>
