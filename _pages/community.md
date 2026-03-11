@@ -82,4 +82,4 @@ Tutorial organization
 
 Other event organization
 ======
-* People's Consultation on AI by Tech Workers Coalition (TWC) Canada and Technologists for Democracy (TfD), Toronto, Canada, March 2026
+* [People's Consultation on AI by Tech Workers Coalition (TWC) Canada and Technologists for Democracy (TfD)](https://luma.com/9b8a404r), Toronto, Canada, March 2026
