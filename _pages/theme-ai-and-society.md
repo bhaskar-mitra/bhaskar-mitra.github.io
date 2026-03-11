@@ -66,7 +66,7 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <br/><br/>
 <h1>Other event organization</h1>
 <hr />
-* People's Consultation on AI by Tech Workers Coalition (TWC) Canada and Technologists for Democracy (TfD), Toronto, Canada, March 2026
+* [People's Consultation on AI by Tech Workers Coalition (TWC) Canada and Technologists for Democracy (TfD)](https://luma.com/9b8a404r), Toronto, Canada, March 2026
 
 <br /><br />
 <h1>Publications</h1>
