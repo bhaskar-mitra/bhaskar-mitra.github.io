@@ -32,6 +32,8 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Information Retrieval & Society</h2>
     <a href="https://irlab.science.uva.nl/about/" style="text-decoration:none;color:inherit">Information Retrieval Lab (IRLab)</a>, <a href="https://www.uva.nl/" style="text-decoration:none;color:inherit">University of Amsterdam (UvA)</a><br/>
     Virtual, March 2026 (upcoming)<br/>
+    <a href="https://www.slideshare.net/slideshow/information-retrieval-and-society-lecture-notes/286458675">SlideShare</a> |
+    <a href="../files/IR-and-Society-UvA.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</h2>
