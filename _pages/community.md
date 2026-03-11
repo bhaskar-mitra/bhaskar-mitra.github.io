@@ -77,3 +77,9 @@ Tutorial organization
 * Neural Networks for Information Retrieval, [WSDM](http://www.wsdm-conference.org/2018/), February 2018
 * NN4IR: The SIGIR 2017 tutorial on Neural Networks for Information Retrieval, [SIGIR](https://sigir.org/sigir2017/), August 2017
 * [The WSDM 2017 Tutorial on Neural Text Embeddings for Information Retrieval](https://www.microsoft.com/en-us/research/event/wsdm-2017-tutorial-neural-text-embeddings-information-retrieval/) ([slides](http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017)), [WSDM](http://www.wsdm-conference.org/2017/), February 2017
+
+<br/>
+
+Other event organization
+======
+* People's Consultation on AI by Tech Workers Coalition (TWC) Canada and Technologists for Democracy (TfD), Toronto, Canada, March 2026
