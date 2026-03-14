@@ -29,7 +29,7 @@ This research theme focuses on the development and application of (large and sma
 <br/><br/>
 <h1>Workshop organization</h1>
 <hr />
-* VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval, [SIGIR](https://sigir2026.org/), July 2026
+* [VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval](https://vulgen-workshop.github.io/SIGIR2026/), [SIGIR](https://sigir2026.org/), July 2026
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2025/), [SIGIR](https://sigir2025.dei.unipd.it/), July 2025
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/WSDM2025/), [WSDM](https://www.wsdm-conference.org/2025/), March 2025
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2024/), [SIGIR](https://sigir.org/sigir2024/), July 2024
