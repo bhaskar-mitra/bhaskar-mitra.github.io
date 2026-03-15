@@ -94,6 +94,12 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Open, to What End? A Capability-Theoretic Perspective on Open Search</h2>
+    Nicola Neophytou and Bhaskar Mitra<br/>
+    Preprint, 2026<br/>
+    <a href="../showpdf/?file=open-to-what-end">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms ✊🏽✊🏾✊🏼</h2>
     Bhaskar Mitra, Nicola Neophytou, and Sireesh Gururaja<br/>
     Preprint, 2026<br/>
