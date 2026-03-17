@@ -48,6 +48,13 @@ This research theme focuses on the design and develoment of new metrics, benchma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Overview of the TREC 2025 Tip-of-the-Tongue Track</h2>
+    Jaime Arguello, Fernando Diaz, Maik Fröebe, To Eun Kim, and Bhaskar Mitra<br/>
+    In proc. Text REtrieval Conference (TREC), 2026<br/>
+    <a href="../showpdf/?file=Overview_tot_2025">PDF</a> |
+    <a href="https://arxiv.org/abs/2601.20671">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
     Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
     Preprint, 2025<br/>
