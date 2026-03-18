@@ -17,6 +17,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
     <a href="https://starlingcentre.ca/" style="text-decoration:none;color:inherit">Starling Centre for Just Technologies and Just Societies</a><br/>
     Virtual, March 2026 (upcoming)<br/>
+    <a href="https://www.slideshare.net/slideshow/information-access-of-the-oppressed-envisioning-emancipatory-information-access-platforms/286569455">SlideShare</a> |
     <a href="../files/Information-Access-of-the-Oppressed.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -27,7 +28,8 @@ Examples of structural oppression in this context include colonialism, racism, p
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
     <a href="https://www.ucl.ac.uk/arts-humanities/information-studies" style="text-decoration:none;color:inherit">Department of Information Studies</a>, <a href="https://www.ucl.ac.uk/" style="text-decoration:none;color:inherit">University College London</a><br/>
-    Virtual, March 2026 (upcoming)<br/>
+    Virtual, March 2026<br/>
+    <a href="https://www.slideshare.net/slideshow/information-access-of-the-oppressed-envisioning-emancipatory-information-access-platforms/286569455">SlideShare</a> |
     <a href="../files/Information-Access-of-the-Oppressed.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
