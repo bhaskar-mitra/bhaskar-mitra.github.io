@@ -82,4 +82,4 @@ Tutorial organization
 
 Other event organization
 ======
-* [People's Consultation on AI](https://luma.com/9b8a404r) by [Tech Workers Coalition (TWC) Canada](https://techworkerscoalition.org/canada/) and [Technologists for Democracy (TfD)](https://techfordemocracy.ca/), ([report](https://bhaskar-mitra.github.io/showpdf/?file=pcai_option2_twcandtfd_20260309)), Toronto, Canada, March 2026
+* [People's Consultation on AI @ 1RG](https://luma.com/9b8a404r) by [Tech Workers Coalition (TWC) Canada](https://techworkerscoalition.org/canada/) and [Technologists for Democracy (TfD)](https://techfordemocracy.ca/), ([report](https://bhaskar-mitra.github.io/showpdf/?file=pcai_option2_twcandtfd_20260309)), Toronto, Canada, March 2026
