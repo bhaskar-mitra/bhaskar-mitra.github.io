@@ -74,7 +74,7 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Submission to the People’s Consultation on AI</h2>
-    <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition Canada</a> & <a href="https://techfordemocracy.ca/">Technologists for Democracy</a><br/>
+    <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy</a><br/>
     People’s Consultation on AI, 2026<br/>
     <a href="../showpdf/?file=pcai_option2_twcandtfd_20260309">PDF</a>
   </article>
