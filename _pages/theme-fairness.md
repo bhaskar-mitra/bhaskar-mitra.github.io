@@ -17,12 +17,15 @@ This research theme focuses on the study and mitigation of allocative and repres
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Retrieval & Society</h2>
     <a href="https://www.ucl.ac.uk/computer-science/" style="text-decoration:none;color:inherit">University College London</a><br/>
-    Virtual, March 2026 (Upcoming)<br/>
+    Virtual, March 2026<br/>
+    <a href="../files/IR-and-Society-UCL.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Retrieval & Society</h2>
     <a href="https://irlab.science.uva.nl/about/" style="text-decoration:none;color:inherit">Information Retrieval Lab (IRLab)</a>, <a href="https://www.uva.nl/" style="text-decoration:none;color:inherit">University of Amsterdam (UvA)</a><br/>
-    Virtual, March 2026 (Upcoming)<br/>
+    Virtual, March 2026<br/>
+    <a href="https://www.slideshare.net/slideshow/information-retrieval-and-society-lecture-notes/286458675">SlideShare</a> |
+    <a href="../files/IR-and-Society-UvA.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Bias and Beyond: On Generative AI and the Future of Search and Society</h2>
