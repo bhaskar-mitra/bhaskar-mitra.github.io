@@ -16,13 +16,14 @@ Examples of structural oppression in this context include colonialism, racism, p
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
     <a href="https://starlingcentre.ca/" style="text-decoration:none;color:inherit">Starling Centre for Just Technologies and Just Societies</a><br/>
-    Virtual, March 2026 (upcoming)<br/>
+    Virtual, March 2026<br/>
     <a href="../files/Information-Access-of-the-Oppressed-20260325.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Retrieval & Society</h2>
     <a href="https://www.ucl.ac.uk/computer-science/" style="text-decoration:none;color:inherit">University College London</a><br/>
-    Virtual, March 2026 (Upcoming)<br/>
+    Virtual, March 2026<br/>
+    <a href="../files/IR-and-Society-UCL.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
