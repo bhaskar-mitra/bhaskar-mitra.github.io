@@ -66,7 +66,7 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <br/><br/>
 <h1>Other event organization</h1>
 <hr />
-* [People's Consultation on AI](https://luma.com/9b8a404r) by [Tech Workers Coalition (TWC) Canada](https://techworkerscoalition.org/canada/) and [Technologists for Democracy (TfD)](https://techfordemocracy.ca/), Toronto, Canada, March 2026
+* [People's Consultation on AI](https://luma.com/9b8a404r) by [Tech Workers Coalition (TWC) Canada](https://techworkerscoalition.org/canada/) and [Technologists for Democracy (TfD)](https://techfordemocracy.ca/), ([report](https://bhaskar-mitra.github.io/showpdf/?file=pcai_option2_twcandtfd_20260309)), Toronto, Canada, March 2026
 
 <br /><br />
 <h1>Publications</h1>
