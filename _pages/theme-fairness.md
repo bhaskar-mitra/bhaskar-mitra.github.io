@@ -18,6 +18,7 @@ This research theme focuses on the study and mitigation of allocative and repres
     <h2>Information Retrieval & Society</h2>
     <a href="https://www.ucl.ac.uk/computer-science/" style="text-decoration:none;color:inherit">University College London</a><br/>
     Virtual, March 2026<br/>
+    <a href="https://www.slideshare.net/slideshow/information-retrieval-society-lecture-notes/286696883">SlideShare</a> |
     <a href="../files/IR-and-Society-UCL2.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
