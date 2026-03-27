@@ -36,7 +36,7 @@ News and updates
 <br/>
 🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (Upcoming: March 29 - April 2, 2026)
 <br/>
-✍🏽 I co-authored a <a href="https://techfordemocracy.ca/2026/03/23/joint-submission-to-the-peoples-consultation-on-ai/">Submission to the People’s Consultation on AI</a> with <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition (TWC) Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy (TfD)</a> for <a href="https://www.peoplesaiconsultation.ca/">People’s Consultation on AI</a> (March 9, 2026)
+✍🏽 I co-authored a <a href="https://www.peoplesaiconsultation.ca/wp-content/uploads/PCAI_Option2_TWCandTFD_20260309.pdf">Submission to the People’s Consultation on AI</a> with <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition (TWC) Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy (TfD)</a> for <a href="https://www.peoplesaiconsultation.ca/">People’s Consultation on AI</a> (March 9, 2026)
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
 <br/>
