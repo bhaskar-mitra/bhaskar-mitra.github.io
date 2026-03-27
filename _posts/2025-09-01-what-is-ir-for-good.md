@@ -8,7 +8,7 @@ tags:
   - Tech for good
 ---
 
-(_This blog post has been jointly co-authored by Maria Heuss and Bhaskar Mitra, co-chairs of [ECIR’26](https://ecir2026.eu/) IR-for-Good Track. Please see the [call for papers](https://ecir2026.eu/calls/call-for-ir-for-good-papers) for more details about the track. **Abstracts are due: October 21** and **papers are due: October 28**._)
+(_This blog post has been jointly co-authored by Bhaskar Mitra and Maria Heuss, co-chairs of [ECIR’26](https://ecir2026.eu/) IR-for-Good Track. Please see the [call for papers](https://ecir2026.eu/calls/call-for-ir-for-good-papers) for more details about the track. **Abstracts are due: October 21** and **papers are due: October 28**._)
 
 <br/>
 _Seriously, what is it?_ When we met this summer as track chairs to plan ahead for next year’s IR-for-Good track, our conversation largely revolved around this question: "_What is IR-for-Good?_".
