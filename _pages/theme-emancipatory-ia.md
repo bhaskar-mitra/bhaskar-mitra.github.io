@@ -120,7 +120,8 @@ Examples of structural oppression in this context include colonialism, racism, p
     In Information Retrieval Research Journal (IRRJ), 2025<br/>
     <a href="https://irrj.org/article/view/24531">Publication</a> |
     <a href="../showpdf/?file=emancipatory-ir">PDF</a> |
-    <a href="https://arxiv.org/abs/2501.19241">ArXiv</a>
+    <a href="https://arxiv.org/abs/2501.19241">ArXiv</a> |
+    <a href="../files/emancipatory-ir-irrj.pptx">PPT</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Search and Society: Reimagining Information Access for Radical Futures</h2>
