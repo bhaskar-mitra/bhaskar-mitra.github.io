@@ -34,15 +34,17 @@ News and updates
 <br/>
 🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR 2026</a> (Upcoming: July 24, 2026)
 <br/>
-🪑 I am serving as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (Upcoming: March 29 - April 2, 2026)
+🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR Conference</a> (July, 2026)
+<br/>
+✍🏽 Paper accepted at FAccT'26: Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity (June 25 - 28, 2026)
+<br/>
+🎙️ I will  be presenting a keynote address on "Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (May 13, 2026)
+<br/>
+🪑 I served as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (March 29 - April 2, 2026)
 <br/>
 ✍🏽 I co-authored a <a href="https://www.peoplesaiconsultation.ca/wp-content/uploads/PCAI_Option2_TWCandTFD_20260309.pdf">Submission to the People’s Consultation on AI</a> with <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition (TWC) Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy (TfD)</a> for <a href="https://www.peoplesaiconsultation.ca/">People’s Consultation on AI</a> (March 9, 2026)
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
-<br/>
-✍🏽 New preprint: <a href="https://arxiv.org/abs/2601.09600">Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms</a> ✊🏽✊🏾✊🏼 (January 14, 2026)
-<br/>
-✍🏽 My single-author paper titled "<a href="https://irrj.org/article/view/24531">Emancipatory Information Retrieval</a>" has been accepted for publication at the Information Retrieval Research Journal (IRRJ) (December 25, 2025)
 <br/>
 🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-fire2026.pptx">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
 <br/>
