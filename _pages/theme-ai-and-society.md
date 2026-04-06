@@ -73,13 +73,6 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Submission to the People’s Consultation on AI</h2>
-    <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy</a><br/>
-    People’s Consultation on AI, 2026<br/>
-    <a href="https://www.peoplesaiconsultation.ca/wp-content/uploads/PCAI_Option2_TWCandTFD_20260309.pdf">Publication</a> |
-    <a href="../showpdf/?file=pcai_option2_twcandtfd_20260309">PDF</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</h2>
     Abeba Birhane, Riccardo Angius, William Agnew, Harshvardhan J. Pandit, Bhaskar Mitra, Roel Dobbe, and Zeerak Talat<br/>
     In proc. ACM FAccT, 2026<br/>
@@ -89,6 +82,13 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
     Anja Thieme, Rita Faia Marques, Martin Grayson, Sidhika Balachandar, Cameron Tyler Cassidy, Madiha Zahrah Choksi, Camilla Longden, Reeda Shimaz Huda, Nicholas Ileve Kalovwe, Christina Mallon, Courtney Mansperger, Daniela Massiceti, Bhaskar Mitra, Ruth Mueni Nzioka, Ioana Tanase, Yuzhe You, and Cecily Morrison<br/>
     In proc. ACM CHI, 2026<br/>
     <a href="../showpdf/?file=CHI_paper_FINAL">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Submission to the People’s Consultation on AI</h2>
+    <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy</a><br/>
+    People’s Consultation on AI, 2026<br/>
+    <a href="https://www.peoplesaiconsultation.ca/wp-content/uploads/PCAI_Option2_TWCandTFD_20260309.pdf">Publication</a> |
+    <a href="../showpdf/?file=pcai_option2_twcandtfd_20260309">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Sociotechnical Implications of Generative Artificial Intelligence for Information Access</h2>
