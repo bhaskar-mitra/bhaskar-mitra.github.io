@@ -48,6 +48,11 @@ This research theme focuses on the design and develoment of new metrics, benchma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Multilingual and Domain-Agnostic Tip-of-the-Tongue Query Generation for Simulated Evaluation</h2>
+    Xuhong He, To Eun Kim, Fernando Diaz, Maik Fröebe, Jaime Arguello, and Bhaskar Mitra<br/>
+    In proc. ACM SIGIR, 2026<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Overview of the TREC 2025 Tip-of-the-Tongue Track</h2>
     Jaime Arguello, Fernando Diaz, Maik Fröebe, To Eun Kim, and Bhaskar Mitra<br/>
     In proc. Text REtrieval Conference (TREC), 2026<br/>
