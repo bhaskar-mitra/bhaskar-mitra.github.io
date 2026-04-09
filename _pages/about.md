@@ -34,11 +34,11 @@ News and updates
 <br/>
 🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR 2026</a> (Upcoming: July 24, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July, 2026)
+🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (Upcoming: July, 2026)
 <br/>
 ✍🏽 Paper accepted at FAccT'26: Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity (June 25 - 28, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (May 13, 2026)
+🎙️ I will  be presenting a keynote address on "Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (Upcoming: May 13, 2026)
 <br/>
 🪑 I served as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (March 29 - April 2, 2026)
 <br/>
