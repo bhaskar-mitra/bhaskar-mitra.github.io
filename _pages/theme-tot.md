@@ -30,6 +30,7 @@ Current IR systems are not well-equipped to address ToT information needs.
     <h2>Overview of the TREC 2025 Tip-of-the-Tongue Track</h2>
     Jaime Arguello, Fernando Diaz, Maik Fröebe, To Eun Kim, and Bhaskar Mitra<br/>
     In proc. Text REtrieval Conference (TREC), 2026<br/>
+    <a href="https://trec.nist.gov/pubs/trec34/papers/Overview_tot.pdf">Publication</a> |
     <a href="../showpdf/?file=Overview_tot_2025">PDF</a> |
     <a href="https://arxiv.org/abs/2601.20671">ArXiv</a>
   </article>
