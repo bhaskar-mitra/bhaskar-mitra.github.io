@@ -70,6 +70,6 @@ In spite of this good news, a lot of work remains to ensure that our research an
 </center>
 <br/><br/>
 
-Annihilate Caste. Smash the Brahminical patriarchy. Jai Bhim.
+**Annihilate Caste. Smash the Brahminical patriarchy. Jai Bhim.**
 
 **Positionality:** I identify as an anti-caste ally. My views on caste are informed by my lived experiences of witnessing caste oppression, as well as experiencing certain caste-related bigotry in my own life.
