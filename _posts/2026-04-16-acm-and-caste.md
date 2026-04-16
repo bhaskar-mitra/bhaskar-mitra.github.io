@@ -46,7 +46,7 @@ And we have some good news! Having noticed the omission of caste in ACM's anti-h
 </div>
 <br/>
 
-In spite of this good news, a lot of work remains to ensure that our research and professional communities remain caste-free spaces which is only possible if we put our anti-casteism into active practice. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and become anti-caste allies. Here are a few books and a documentary to get you started on that journey.
+In spite of this positive news, a lot of work yet remains to ensure that our research and professional communities remain caste-free spaces which is only possible if we put our anti-casteism into active practice. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and become anti-caste allies. Here are pointers to a couple of books and a documentary to get you started on that journey.
 
 <center>
   <table>
@@ -68,7 +68,7 @@ In spite of this good news, a lot of work remains to ensure that our research an
 <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/U05F_-UJKTw?si=n33SMKaBxYIo8R5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
-<br/><br/>
+<br/>
 
 **Annihilate Caste. Smash the Brahminical patriarchy. Jai Bhim.**
 
