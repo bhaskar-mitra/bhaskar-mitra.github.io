@@ -15,10 +15,10 @@ And we have some good news! Having noticed the omission of caste in ACM's anti-h
 
 <div style="align-items:center;text-align:center;font-style:italic">
   <a href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment">
-    <div style="max-width:350px;margin:auto">
+    <div style="margin:auto">
       https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment
     </div>
-    <img src="https://bhaskar-mitra.github.io/images/acm-caste-anti-harassment.png" style="max-width:250px">
+    <img src="https://bhaskar-mitra.github.io/images/acm-caste-anti-harassment.png">
     <br/>
   </a>
 </div>
@@ -26,10 +26,10 @@ And we have some good news! Having noticed the omission of caste in ACM's anti-h
 
 <div style="align-items:center;text-align:center;font-style:italic">
   <a href="https://www.acm.org/diversity-inclusion">
-    <div style="max-width:350px;margin:auto">
+    <div style="margin:auto">
       https://www.acm.org/diversity-inclusion
     </div>
-    <img src="https://bhaskar-mitra.github.io/images/acm-caste-dei-1.png" style="max-width:250px">
+    <img src="https://bhaskar-mitra.github.io/images/acm-caste-dei-1.png">
     <br/>
   </a>
 </div>
@@ -37,28 +37,28 @@ And we have some good news! Having noticed the omission of caste in ACM's anti-h
 
 <div style="align-items:center;text-align:center;font-style:italic">
   <a href="https://www.acm.org/diversity-inclusion/about">
-    <div style="max-width:350px;margin:auto">
+    <div style="margin:auto">
       https://www.acm.org/diversity-inclusion/about
     </div>
-    <img src="https://bhaskar-mitra.github.io/images/acm-caste-dei-2.png" style="max-width:250px">
+    <img src="https://bhaskar-mitra.github.io/images/acm-caste-dei-2.png">
     <br/>
   </a>
 </div>
 <br/>
 
-In spite of this good news, a lot of work remains to ensure that our research and professional communities remain caste-free spaces which is only possible if we put our anti-casteism into active practice. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and become anti-caste allies. Here are couple of books and a documentary to get you started on that journey.
+In spite of this good news, a lot of work remains to ensure that our research and professional communities remain caste-free spaces which is only possible if we put our anti-casteism into active practice. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and become anti-caste allies. Here are a few books and a documentary to get you started on that journey.
 
 <center>
   <table>
     <tr>
       <td>
-        <a href="https://www.penguinrandomhouse.com/books/653196/caste-by-isabel-wilkerson/">
-          <img src="https://bhaskar-mitra.github.io/images/caste-wilkerson.jpg" alt="Caste: The Origins of Our Discontents by Isabel Wilkerson" style="height:300px">
+        <a href="https://www.penguinrandomhouse.com/books/710528/the-trauma-of-caste-by-thenmozhi-soundararajan/">
+          <img src="https://bhaskar-mitra.github.io/images/trauma-of-caste-soundararajan.jpg" alt="The Trauma of Caste: A Dalit Feminist Meditation on Survivorship, Healing, and Abolition by Thenmozhi Soundararajan" style="height:600px">
         </a>
       </td>
       <td>
-        <a href="https://www.penguinrandomhouse.com/books/710528/the-trauma-of-caste-by-thenmozhi-soundararajan/">
-          <img src="https://bhaskar-mitra.github.io/images/trauma-of-caste-soundararajan.jpg" alt="The Trauma of Caste: A Dalit Feminist Meditation on Survivorship, Healing, and Abolition by Thenmozhi Soundararajan" style="height:300px">
+        <a href="https://www.penguinrandomhouse.com/books/653196/caste-by-isabel-wilkerson/">
+          <img src="https://bhaskar-mitra.github.io/images/caste-wilkerson.jpg" alt="Caste: The Origins of Our Discontents by Isabel Wilkerson" style="height:600px">
         </a>
       </td>
     </tr>
@@ -68,6 +68,7 @@ In spite of this good news, a lot of work remains to ensure that our research an
 <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/U05F_-UJKTw?si=n33SMKaBxYIo8R5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+<br/><br/>
 
 Annihilate Caste. Smash the Brahminical patriarchy. Jai Bhim.
 
