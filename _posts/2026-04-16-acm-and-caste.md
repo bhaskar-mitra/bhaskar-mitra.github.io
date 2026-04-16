@@ -72,4 +72,4 @@ In spite of this positive news, a lot of work yet remains to ensure that our res
 
 **Annihilate Caste. Smash the Brahminical patriarchy. Jai Bhim.**
 
-**Positionality:** I identify as an anti-caste ally. My views on caste are informed by my lived experiences of witnessing caste oppression, as well as experiencing certain caste-related bigotry in my own life.
+**Positionality:** I identify as an anti-caste ally. My views on caste are informed by my lived experiences of witnessing caste oppression, as well as experiencing caste-related bigotry in my own life.
