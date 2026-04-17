@@ -53,6 +53,13 @@ In spite of this positive news, a lot of work remains to be done yet to ensure t
     <tr>
       <td>
         <center>
+          <a href="https://www.versobooks.com/en-ca/products/75-annihilation-of-caste">
+            <img src="https://bhaskar-mitra.github.io/images/annihilation-of-caste-ambedkar.webp" alt="Annihilation of Caste by B.R. Ambedkar" style="height:400px">
+          </a>
+        </center>
+      </td>
+      <td>
+        <center>
           <a href="https://www.penguinrandomhouse.com/books/710528/the-trauma-of-caste-by-thenmozhi-soundararajan/">
             <img src="https://bhaskar-mitra.github.io/images/trauma-of-caste-soundararajan.jpg" alt="The Trauma of Caste: A Dalit Feminist Meditation on Survivorship, Healing, and Abolition by Thenmozhi Soundararajan" style="height:400px">
           </a>
