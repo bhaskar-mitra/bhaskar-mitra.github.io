@@ -52,14 +52,18 @@ In spite of this positive news, a lot of work remains to be done yet to ensure t
   <table>
     <tr>
       <td>
-        <a href="https://www.penguinrandomhouse.com/books/710528/the-trauma-of-caste-by-thenmozhi-soundararajan/">
-          <img src="https://bhaskar-mitra.github.io/images/trauma-of-caste-soundararajan.jpg" alt="The Trauma of Caste: A Dalit Feminist Meditation on Survivorship, Healing, and Abolition by Thenmozhi Soundararajan" style="height:400px">
-        </a>
+        <center>
+          <a href="https://www.penguinrandomhouse.com/books/710528/the-trauma-of-caste-by-thenmozhi-soundararajan/">
+            <img src="https://bhaskar-mitra.github.io/images/trauma-of-caste-soundararajan.jpg" alt="The Trauma of Caste: A Dalit Feminist Meditation on Survivorship, Healing, and Abolition by Thenmozhi Soundararajan" style="height:400px">
+          </a>
+        </center>
       </td>
       <td>
-        <a href="https://www.penguinrandomhouse.com/books/653196/caste-by-isabel-wilkerson/">
-          <img src="https://bhaskar-mitra.github.io/images/caste-wilkerson.jpg" alt="Caste: The Origins of Our Discontents by Isabel Wilkerson" style="height:400px">
-        </a>
+        <center>
+          <a href="https://www.penguinrandomhouse.com/books/653196/caste-by-isabel-wilkerson/">
+            <img src="https://bhaskar-mitra.github.io/images/caste-wilkerson.jpg" alt="Caste: The Origins of Our Discontents by Isabel Wilkerson" style="height:400px">
+          </a>
+        </center>
       </td>
     </tr>
   </table>
