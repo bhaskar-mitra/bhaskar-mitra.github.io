@@ -46,7 +46,7 @@ And we have some good news! Having noticed the omission of caste in ACM's anti-h
 </div>
 <br/>
 
-In spite of this positive news, a lot of work yet remains to ensure that our research and professional communities remain anti-casteist spaces which is only possible if we put our anti-casteism into active practice. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and become anti-caste allies. Here are pointers to a couple of books and a documentary to get you started on that journey.
+In spite of this positive news, a lot of work remains yet to be performed to ensure that our research and professional communities remain anti-casteist spaces which is only possible if we put our anti-casteism into active practice. For those of us who identify as anti-caste ally, this is a reminder to stand in solidarity with our caste-oppressed colleagues who face discrimination in our professional spaces and whose contributions to computing are regularly erased. And those who may be less familiar with the history of caste oppression, I invite you to learn more on this topic and in turn become anti-caste allies. Here are pointers to a couple of books and a documentary to get you started on that journey.
 
 <center>
   <table>
