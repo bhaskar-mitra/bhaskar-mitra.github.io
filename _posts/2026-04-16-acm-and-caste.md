@@ -5,6 +5,8 @@ permalink: /posts/2026/04/16/acm-and-caste/
 tags:
   - Association for Computing Machinery
   - Caste discrimination
+  - Diversity, Equity, and Inclusion
+  - DEI
 ---
 
 Over a year ago, I noticed that the [ACM](https://www.acm.org/) [Policy Against Harassment](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment) and their [Diversity, Equity, and Inclusion (DEI) statement](https://www.acm.org/diversity-inclusion/about) prohibited harassment and discrimination based on race, ethnicity, religion, gender, sexual orientation, citizenship, nationality, disability, and age, but it had at least one glaring omission: **Caste**.
