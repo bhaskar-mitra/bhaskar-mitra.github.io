@@ -125,6 +125,13 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="https://arxiv.org/abs/2601.09600">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</h2>
+    Bhaskar Mitra, Dana Mckay, Michael D. Ekstrand, Sanne Vrijenhoek, and Maria Murray<br/>
+    In proc. ACM SIGIR, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3805712.3808651">Publication</a> |
+    <a href="../showpdf/?file=3805712.3808651">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Emancipatory Information Retrieval</h2>
     Bhaskar Mitra<br/>
     In Information Retrieval Research Journal (IRRJ), 2025<br/>
