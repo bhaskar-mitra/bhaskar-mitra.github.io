@@ -87,3 +87,6 @@ In spite of this positive news, a lot of work remains to be done yet to ensure t
 **Annihilate Caste. Smash the Brahminical Patriarchy. Jai Bhim.**
 
 **Positionality:** I identify as an anti-caste ally. My views on caste are informed by my lived experiences of witnessing caste oppression, as well as experiencing caste-related bigotry in my own life.
+
+<br/><br/>
+**_Would you like to comment on or discuss this post?_** You can do so on these social media threads on [Bluesky](https://bsky.app/profile/did:plc:efdy25fga2sl46ig2jkp7qa6/post/3mjwgrenc4s2h), [Mastodon](https://mastodon.social/@bmitra/116436969064939778), and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7451965408254832640/).
