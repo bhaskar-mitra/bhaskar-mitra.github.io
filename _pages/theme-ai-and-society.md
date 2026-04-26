@@ -76,6 +76,8 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
     <h2>Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</h2>
     Abeba Birhane, Riccardo Angius, William Agnew, Harshvardhan J. Pandit, Bhaskar Mitra, Roel Dobbe, and Zeerak Talat<br/>
     In proc. ACM FAccT, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3805689.3806740">Publication</a> |
+    <a href="../showpdf/?file=3805689.3806740">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</h2>
