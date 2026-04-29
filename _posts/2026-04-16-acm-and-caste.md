@@ -6,7 +6,7 @@ tags:
   - Association for Computing Machinery
   - Caste discrimination
   - Dalit History Month
-  - Diversity, Equity, and Inclusion
+  - Diversity Equity and Inclusion
   - DEI
 ---
 
