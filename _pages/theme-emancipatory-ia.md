@@ -14,6 +14,16 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</h2>
+    <a href="https://sigir2026.org/" style="text-decoration:none;color:inherit">ACM SIGIR</a><br/>
+    Naarm / Melbourne, Australia, July 2026<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
+    <a href="https://sites.google.com/view/calcconference/calc2026" style="text-decoration:none;color:inherit">Critical Approaches to Libraries Conference (CALC)</a><br/>
+    Virtual, May 2026<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
     <a href="https://starlingcentre.ca/" style="text-decoration:none;color:inherit">Starling Centre for Just Technologies and Just Societies</a><br/>
     Virtual, March 2026<br/>
@@ -101,6 +111,12 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Towards Critical IR Theories and Practices</h2>
+    Bhaskar Mitra<br/>
+    Preprint, 2026<br/>
+    <a href="../showpdf/?file=critical-ir">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Open, to What End? A Capability-Theoretic Perspective on Open Search</h2>
     Nicola Neophytou and Bhaskar Mitra<br/>
     Preprint, 2026<br/>
@@ -115,12 +131,20 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="https://arxiv.org/abs/2601.09600">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</h2>
+    Bhaskar Mitra, Dana Mckay, Michael D. Ekstrand, Sanne Vrijenhoek, and Maria Murray<br/>
+    In proc. ACM SIGIR, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3805712.3808651">Publication</a> |
+    <a href="../showpdf/?file=3805712.3808651">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Emancipatory Information Retrieval</h2>
     Bhaskar Mitra<br/>
     In Information Retrieval Research Journal (IRRJ), 2025<br/>
     <a href="https://irrj.org/article/view/24531">Publication</a> |
     <a href="../showpdf/?file=emancipatory-ir">PDF</a> |
-    <a href="https://arxiv.org/abs/2501.19241">ArXiv</a>
+    <a href="https://arxiv.org/abs/2501.19241">ArXiv</a> |
+    <a href="../files/emancipatory-ir-irrj.pptx">PPT</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Search and Society: Reimagining Information Access for Radical Futures</h2>
