@@ -39,7 +39,7 @@ This research theme focuses on the development and application of (large and sma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>VulGen:Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
+    <h2>VulGen: Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
     Shuoqi Sun, Sara Allawati, Laura Dietz, Madhurima Khirbat, Bhaskar Mitra, Maarten de Rijke, and Damiano Spina<br/>
     In proc. ACM SIGIR, 2026<br/>
     <a href="https://dl.acm.org/doi/10.1145/3805712.3808654">Publication</a> |
