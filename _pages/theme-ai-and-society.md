@@ -80,6 +80,13 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
     <a href="../showpdf/?file=3805689.3806740">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>VulGen:Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
+    Shuoqi Sun, Sara Allawati, Laura Dietz, Madhurima Khirbat, Bhaskar Mitra, Maarten de Rijke, and Damiano Spina<br/>
+    In proc. ACM SIGIR, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3805712.3808654">Publication</a> |
+    <a href="../showpdf/?file=3805712.3808654">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</h2>
     Anja Thieme, Rita Faia Marques, Martin Grayson, Sidhika Balachandar, Cameron Tyler Cassidy, Madiha Zahrah Choksi, Camilla Longden, Reeda Shimaz Huda, Nicholas Ileve Kalovwe, Christina Mallon, Courtney Mansperger, Daniela Massiceti, Bhaskar Mitra, Ruth Mueni Nzioka, Ioana Tanase, Yuzhe You, and Cecily Morrison<br/>
     In proc. ACM CHI, 2026<br/>
