@@ -39,17 +39,18 @@ This research theme focuses on the development and application of (large and sma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Retrieval-Augmented Generation – The Future of Search? (Dagstuhl Perspectives Workshop 25391)</h2>
+    Matthias Hagen, Josiane Mothe, Smaranda Muresan, Martin Potthast, Min Zhang, Benno Stein, Qinqyao Ai, Mohammad Aliannejadi, Liesbeth Allein, Avishek Anand, Sophia Althammer, Nolwenn Bernard, Arjen P. de Vries, Niklas Deckers, Gianluca Demartini, Laura Dietz, Carsten Eickhoff, Maik Fröbe, Norbert Fuhr, Marcel Gohsen, Michael Granitzer, Faegheh Hasibi, Sebastian Heineking, Djoerd Hiemstra, Adam Jatowt, Abhinav Joshi, Johannes Kiesel, Wojciech Kusa, Sean MacAvaney, Bhaskar Mitra, Jian-Yun Nie, Heather O’Brien, Birte Platow, Mark Sanderson, Harrisen Scells, Damiano Spina, Benno Stein , Johanne Trippas, Stefan Voigt, and Guido Zuccon<br/>
+    Dagstuhl Reports, 2026<br/>
+    <a href="https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.71">Publication</a> |
+    <a href="../showpdf/?file=dagstuhl-report-25391">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
     Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
     Preprint, 2025<br/>
     <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
     <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Retrieval-Augmented Generation – The Future of Search? (Dagstuhl Perspectives Workshop 25391)</h2>
-    Matthias Hagen, Josiane Mothe, Smaranda Muresan, Martin Potthast, Min Zhang, Benno Stein, Qinqyao Ai, Mohammad Aliannejadi, Liesbeth Allein, Avishek Anand, Sophia Althammer, Nolwenn Bernard, Arjen P. de Vries, Niklas Deckers, Gianluca Demartini, Laura Dietz, Carsten Eickhoff, Maik Fröbe, Norbert Fuhr, Marcel Gohsen, Michael Granitzer, Faegheh Hasibi, Sebastian Heineking, Djoerd Hiemstra, Adam Jatowt, Abhinav Joshi, Johannes Kiesel, Wojciech Kusa, Sean MacAvaney, Bhaskar Mitra, Jian-Yun Nie, Heather O’Brien, Birte Platow, Mark Sanderson, Harrisen Scells, Damiano Spina, Benno Stein , Johanne Trippas, Stefan Voigt, and Guido Zuccon<br/>
-    Dagstuhl Reports (to appear), 2025<br/>
-    <a href="../showpdf/?file=dagstuhl-report-25391">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Towards Understanding Bias in Synthetic Data for Evaluation</h2>
