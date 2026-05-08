@@ -32,7 +32,7 @@ News and updates
 <div style="font-size:0.85em">
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (Upcoming: December 8-10, 2026)
 <br/>
-🔍 I am co-organizing <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> at <a href="https://sigir2026.org/">SIGIR 2026</a> (Upcoming: July 24, 2026)
+🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (Upcoming: July 24, 2026)
 <br/>
 🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (Upcoming: July, 2026)
 <br/>
