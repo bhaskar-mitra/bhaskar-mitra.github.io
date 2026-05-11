@@ -38,7 +38,7 @@ News and updates
 <br/>
 ✍🏽 Paper accepted at <a href="https://facctconference.org/2026/index.html">FAccT'26</a>: <a href="https://arxiv.org/abs/2605.06806">Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</a> (June 25 - 28, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (Upcoming: May 13, 2026)
+🎙️ I will  be presenting a keynote address on "<a href="https://bhaskar-mitra.github.io/files/Information-Access-of-the-Oppressed-CALC2026.pptx">Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</a>" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (Upcoming: May 13, 2026)
 <br/>
 🪑 I served as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (March 29 - April 2, 2026)
 <br/>
