@@ -77,7 +77,8 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
     Abeba Birhane, Riccardo Angius, William Agnew, Harshvardhan J. Pandit, Bhaskar Mitra, Roel Dobbe, and Zeerak Talat<br/>
     In proc. ACM FAccT, 2026<br/>
     <a href="https://dl.acm.org/doi/10.1145/3805689.3806740">Publication</a> |
-    <a href="../showpdf/?file=3805689.3806740">PDF</a>
+    <a href="../showpdf/?file=3805689.3806740">PDF</a> |
+    <a href="https://arxiv.org/abs/2605.06806">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>VulGen: Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
