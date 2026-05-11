@@ -34,7 +34,7 @@ Instead, we must explicitly study and critique the systemic impact of informatio
 
 But first, we must articulate what we mean by societal good.
 These conversations are already happening in different parts of the IR community, including in forums like [SWIRL 2025](https://sites.google.com/view/swirl2025/) (see Section 7 of the [SWIRL’25 report](https://bhaskar-mitra.github.io/showpdf/?file=SWIRL-2025-Preprint)).
-We reviewed some of this literature and then decided to adopt the following operative definition of IR-for-Good:.
+We reviewed some of this literature and then decided to adopt the following operative definition of IR-for-Good:
 
 <center>
   <blockquote style="max-width:700px">
