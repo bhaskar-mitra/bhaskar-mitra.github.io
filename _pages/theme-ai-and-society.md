@@ -73,11 +73,19 @@ This research theme focuses on the inter-disciplinary study of the sociotechnica
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>VulGen: Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
+    Shuoqi Sun, Sara Allawati, Laura Dietz, Madhurima Khirbat, Bhaskar Mitra, Maarten de Rijke, and Damiano Spina<br/>
+    In proc. ACM SIGIR, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3805712.3808654">Publication</a> |
+    <a href="../showpdf/?file=3805712.3808654">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</h2>
     Abeba Birhane, Riccardo Angius, William Agnew, Harshvardhan J. Pandit, Bhaskar Mitra, Roel Dobbe, and Zeerak Talat<br/>
     In proc. ACM FAccT, 2026<br/>
     <a href="https://dl.acm.org/doi/10.1145/3805689.3806740">Publication</a> |
-    <a href="../showpdf/?file=3805689.3806740">PDF</a>
+    <a href="../showpdf/?file=3805689.3806740">PDF</a> |
+    <a href="https://arxiv.org/abs/2605.06806">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</h2>
