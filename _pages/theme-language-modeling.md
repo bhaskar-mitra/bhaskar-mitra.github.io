@@ -46,7 +46,7 @@ This research theme focuses on the development and application of (large and sma
     <a href="../showpdf/?file=3805712.3808654">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Retrieval-Augmented Generation – The Future of Search? (Dagstuhl Perspectives Workshop 25391)</h2>
+    <h2>Retrieval-Augmented Generation – The Future of Search? (Dagstuhl Seminar 25391)</h2>
     Matthias Hagen, Josiane Mothe, Smaranda Muresan, Martin Potthast, Min Zhang, Benno Stein, Qinqyao Ai, Mohammad Aliannejadi, Liesbeth Allein, Avishek Anand, Sophia Althammer, Nolwenn Bernard, Arjen P. de Vries, Niklas Deckers, Gianluca Demartini, Laura Dietz, Carsten Eickhoff, Maik Fröbe, Norbert Fuhr, Marcel Gohsen, Michael Granitzer, Faegheh Hasibi, Sebastian Heineking, Djoerd Hiemstra, Adam Jatowt, Abhinav Joshi, Johannes Kiesel, Wojciech Kusa, Sean MacAvaney, Bhaskar Mitra, Jian-Yun Nie, Heather O’Brien, Birte Platow, Mark Sanderson, Harrisen Scells, Damiano Spina, Benno Stein , Johanne Trippas, Stefan Voigt, and Guido Zuccon<br/>
     Dagstuhl Reports, 2026<br/>
     <a href="https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.71">Publication</a> |
