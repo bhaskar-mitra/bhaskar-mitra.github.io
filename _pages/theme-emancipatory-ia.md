@@ -125,7 +125,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Information Access of the Oppressed: A Problem-Posing Framework for Envisioning Emancipatory Information Access Platforms ✊🏽✊🏾✊🏼</h2>
+    <h2>Information Access of the Oppressed: Freirean Design for Emancipatory Information Access</h2>
     Bhaskar Mitra, Nicola Neophytou, and Sireesh Gururaja<br/>
     Preprint, 2026<br/>
     <a href="../showpdf/?file=information-access-of-the-oppressed">PDF</a> |
