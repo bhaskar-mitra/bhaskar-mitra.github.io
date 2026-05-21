@@ -22,7 +22,8 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
     <a href="https://sites.google.com/view/calcconference/calc2026" style="text-decoration:none;color:inherit">Critical Approaches to Libraries Conference (CALC)</a><br/>
     Virtual, May 2026<br/>
-    <a href="../files/Information-Access-of-the-Oppressed-CALC2026.pptx">PPT</a><br/>
+    <a href="../files/Information-Access-of-the-Oppressed-CALC2026.pptx">PPT</a> |
+    <a href="../files/calc26-sketchnote.pdf">Sketchnote</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
