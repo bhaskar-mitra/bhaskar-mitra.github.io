@@ -34,11 +34,15 @@ News and updates
 <br/>
 🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July, 2026)
+✍🏽 Paper accepted at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a>: <a href="https://arxiv.org/abs/2602.11453">From Noise to Order: Learning to Rank via Denoising Diffusion</a> (July 25, 2026)
 <br/>
-✍🏽 Paper accepted at <a href="https://facctconference.org/2026/index.html">FAccT'26</a>: <a href="https://arxiv.org/abs/2605.06806">Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</a> (June 25 - 28, 2026)
+🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
+<br/>
+✍🏽 Paper accepted at <a href="https://facctconference.org/2026/">FAccT'26</a>: <a href="https://arxiv.org/abs/2605.06806">Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</a> (June 25 - 28, 2026)
 <br/>
 🎙️ I presented a keynote address on "<a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</a>" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (May 13, 2026)
+<br/>
+✍🏽 Paper accepted at <a href="https://chi2026.acm.org/">CHI'26</a>: <a href="https://dl.acm.org/doi/10.1145/3772318.3790768">Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</a> (April 13 - 17, 2026)
 <br/>
 🪑 I served as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (March 29 - April 2, 2026)
 <br/>
