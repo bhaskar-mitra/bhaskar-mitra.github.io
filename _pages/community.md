@@ -19,7 +19,7 @@ Community leadership
 Conference chairing
 ======
 * **Responsible Web Track Chair**, WebConf, 2026
-* **IR for Good Track Chair**, [ECIR](https://ecir2026.eu/97-organization), 2026 ([opening presentation](https://bhaskar-mitra.github.io/files/ECIR2026-IR4Good.pptx))
+* **IR-for-Good Track Chair**, [ECIR](https://ecir2026.eu/97-organization), 2026 ([opening presentation](https://bhaskar-mitra.github.io/files/ECIR2026-IR4Good.pptx))
 * **Program Chair**, [SIGIR-AP](https://www.sigir-ap.org/sigir-ap-2025/organizers/), 2025
 * **Best Paper Chair**, [SIGIR-AP](https://www.sigir-ap.org/sigir-ap-2024/organizers/), 2024
 * **Resource & Reproducibility Chair**, [SIGIR](https://sigir-2024.github.io/organizers.html), 2024
