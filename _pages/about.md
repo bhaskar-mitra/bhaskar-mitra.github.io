@@ -33,8 +33,8 @@ News and updates
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
 <br/>
 ✍🏽 Paper accepted at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a>: <a href="https://arxiv.org/abs/2602.11453">From Noise to Order: Learning to Rank via Denoising Diffusion</a> (July 25, 2026)
-🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
 <br/>
+🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
 <br/>
 🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
 <br/>
