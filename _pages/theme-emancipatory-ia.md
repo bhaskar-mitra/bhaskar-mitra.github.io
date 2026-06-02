@@ -106,6 +106,8 @@ Examples of structural oppression in this context include colonialism, racism, p
 <br/><br/>
 <h1>Workshop organization</h1>
 <hr />
+* [Justice, Emancipation, Democracy, and Information Access (JEDI) Workshop](https://jedi.inertial.science/asist2026/), [ASIS&T](https://www.asist.org/am2026/am26/), November 2026
+* [Justice, Emancipation, Democracy, and Information Access (JEDI) Social](https://jedi.inertial.science/facct2026/), [FAccT](https://facctconference.org/2026/), June 2026
 * [Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms](https://jedi.inertial.science/sigir2026/), [SIGIR](https://sigir2026.org/), July 2026
 
 <br /><br />
