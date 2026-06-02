@@ -54,6 +54,7 @@ Shared task organization
 
 Workshop organization
 ======
+* [Justice, Emancipation, Democracy, and Information Access (JEDI) Workshop](https://jedi.inertial.science/asist2026/), [ASIS&T](https://www.asist.org/am2026/am26/), November 2026
 * [Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms](https://jedi.inertial.science/sigir2026/), [SIGIR](https://sigir2026.org/), July 2026
 * [VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval](https://vulgen-workshop.github.io/SIGIR2026/), [SIGIR](https://sigir2026.org/), July 2026
 * [LLM4Eval: Large Language Model for Evaluation in IR](https://llm4eval.github.io/SIGIR2025/), [SIGIR](https://sigir2025.dei.unipd.it/), July 2025
@@ -82,4 +83,5 @@ Tutorial organization
 
 Other event organization
 ======
+* [Justice, Emancipation, Democracy, and Information Access (JEDI) Social](https://jedi.inertial.science/facct2026/), [FAccT](https://facctconference.org/2026/), June 2026
 * [People's Consultation on AI @ 1RG](https://luma.com/9b8a404r) by [Tech Workers Coalition (TWC) Canada](https://techworkerscoalition.org/canada/) and [Technologists for Democracy (TfD)](https://techfordemocracy.ca/), ([report](https://bhaskar-mitra.github.io/showpdf/?file=pcai_option2_twcandtfd_20260309)), Toronto, Canada, March 2026
