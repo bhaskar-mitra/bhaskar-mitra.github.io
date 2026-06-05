@@ -23,6 +23,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="https://sites.google.com/view/calcconference/calc2026" style="text-decoration:none;color:inherit">Critical Approaches to Libraries Conference (CALC)</a><br/>
     Virtual, May 2026<br/>
     <a href="../files/Information-Access-of-the-Oppressed-CALC2026.pptx">PPT</a> |
+    <a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">Recording</a> |
     <a href="../files/calc26-sketchnote.pdf">Sketchnote</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
