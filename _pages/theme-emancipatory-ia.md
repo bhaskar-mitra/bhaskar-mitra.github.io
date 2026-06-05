@@ -125,18 +125,18 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="../showpdf/?file=critical-ir">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Open, to What End? A Capability-Theoretic Perspective on Open Search</h2>
-    Nicola Neophytou and Bhaskar Mitra<br/>
-    Preprint, 2026<br/>
-    <a href="../showpdf/?file=open-to-what-end">PDF</a> |
-    <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Freirean Design for Emancipatory Information Access</h2>
     Bhaskar Mitra, Nicola Neophytou, and Sireesh Gururaja<br/>
     Preprint, 2026<br/>
     <a href="../showpdf/?file=information-access-of-the-oppressed">PDF</a> |
     <a href="https://arxiv.org/abs/2601.09600">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Open, to What End? A Capability-Theoretic Perspective on Open Search</h2>
+    Nicola Neophytou and Bhaskar Mitra<br/>
+    In proc. Open Search Symposium, 2026<br/>
+    <a href="../showpdf/?file=open-to-what-end">PDF</a> |
+    <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</h2>
