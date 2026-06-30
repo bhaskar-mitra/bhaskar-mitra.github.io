@@ -120,12 +120,6 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Towards Critical IR Theories and Practices</h2>
-    Bhaskar Mitra<br/>
-    Preprint, 2026<br/>
-    <a href="../showpdf/?file=critical-ir">PDF</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Freirean Design for Emancipatory Information Access</h2>
     Bhaskar Mitra, Nicola Neophytou, and Sireesh Gururaja<br/>
     Preprint, 2026<br/>
@@ -138,6 +132,12 @@ Examples of structural oppression in this context include colonialism, racism, p
     In proc. Open Search Symposium, 2026<br/>
     <a href="../showpdf/?file=open-to-what-end">PDF</a> |
     <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Towards Critical IR Theories and Practices</h2>
+    Bhaskar Mitra<br/>
+    In ACM SIGIR Forum, 2026<br/>
+    <a href="../showpdf/?file=critical-ir">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</h2>
