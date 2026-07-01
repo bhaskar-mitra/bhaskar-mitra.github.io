@@ -137,7 +137,8 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Towards Critical IR Theories and Practices</h2>
     Bhaskar Mitra<br/>
     In ACM SIGIR Forum, 2026<br/>
-    <a href="../showpdf/?file=critical-ir">PDF</a>
+    <a href="../showpdf/?file=critical-ir">PDF</a> |
+    <a href="https://arxiv.org/abs/2606.30984">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</h2>
