@@ -135,6 +135,12 @@ Examples of structural oppression in this context include colonialism, racism, p
     <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Emancipatory IR: Towards Critical Theories and Practices</h2>
+    Bhaskar Mitra<br/>
+    In proc. Search Engines and Society Network (SEASON), 2026<br/>
+    <a href="../showpdf/?file=emancipatory-ir-season2026">PDF</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Towards Critical IR Theories and Practices</h2>
     Bhaskar Mitra<br/>
     In ACM SIGIR Forum, 2026<br/>
