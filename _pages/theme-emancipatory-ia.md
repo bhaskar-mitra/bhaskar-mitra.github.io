@@ -17,6 +17,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</h2>
     <a href="https://sigir2026.org/" style="text-decoration:none;color:inherit">ACM SIGIR</a><br/>
     Naarm / Melbourne, Australia, July 2026<br/>
+    <a href="../files/emancipatory-ir-sigir2026-keynote.pptx">PPT</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</h2>
