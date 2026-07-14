@@ -38,7 +38,7 @@ News and updates
 <br/>
 ✍🏽 Paper accepted at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a>: <a href="https://arxiv.org/abs/2602.11453">From Noise to Order: Learning to Rank via Denoising Diffusion</a> (July 25, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
+🎙️ I will  be presenting a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</a>" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
 <br/>
 🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
 <br/>
