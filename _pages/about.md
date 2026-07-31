@@ -32,33 +32,19 @@ However, in 2025, I made the decision to [leave Big Tech and the broader for-pro
 News and updates
 ======
 <div style="font-size:0.85em">
-🎙️ I will be presenting a keynote address at <a href="https://chiir2027.github.io/">ACM CHIIR</a> (March 7 - 11, 2027)
-🎙️ I will be presenting a keynote address at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
+🎙️ Recent and upcoming keynote addresses: <a href="https://fire.irsi.org.in/fire/2025/">FIRE 2025</a> (<a href="https://www.youtube.com/watch?v=yY4ricuzSlw&t=1335s">recording</a>), <a href="https://sites.google.com/view/calcconference/calc2026">CALC 2026</a> (<a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">recording</a>), <a href="https://sigir2026.org/">SIGIR 2026</a> (<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slides</a>), <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR 2026</a>, and <a href="https://chiir2027.github.io/">CHIIR 2027</a>
+<br/>
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
 <br/>
-🔍 I am co-organizing a <a href="https://jedi.inertial.science/asist2026/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> workshop at <a href="https://www.asist.org/am2026/am26/">ASIS&T 2026</a> (November 6 - 10, 2026)
+🔍 I am co-organizing multiple <a href="https://jedi.inertial.science/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> events: <a href="https://jedi.inertial.science/facct2026/">social</a> at <a href="https://facctconference.org/2026/">FAccT 2026</a>,<a href="https://jedi.inertial.science/sigir2026/">workshop</a> at <a href="https://sigir2026.org/">SIGIR 2026</a>, and <a href="https://jedi.inertial.science/asist2026/">workshop</a> at <a href="https://www.asist.org/am2026/am26/">ASIS&T 2026</a>
 <br/>
-✍🏽 Paper accepted at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a>: <a href="https://arxiv.org/abs/2602.11453">From Noise to Order: Learning to Rank via Denoising Diffusion</a> (July 25, 2026)
-<br/>
-🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</a>" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
-<br/>
-🔍 I co-organized two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
-<br/>
-🔍 I co-organized a <a href="https://jedi.inertial.science/facct2026/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> social at <a href="https://facctconference.org/2026/">FAccT 2026</a> (June, 2026)
-<br/>
-✍🏽 Paper accepted at <a href="https://facctconference.org/2026/">FAccT'26</a>: <a href="https://arxiv.org/abs/2605.06806">Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</a> (June 25 - 28, 2026)
-<br/>
-🎙️ I presented a keynote address on "<a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">Information Access of the Oppressed: Envisioning Emancipatory Information Access Platforms</a>" at <a href="https://sites.google.com/view/calcconference/calc2026">Critical Approaches to Libraries Conference (CALC)</a> (May 13, 2026)
-<br/>
-✍🏽 Paper accepted at <a href="https://chi2026.acm.org/">CHI'26</a>: <a href="https://dl.acm.org/doi/10.1145/3772318.3790768">Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation</a> (April 13 - 17, 2026)
+✍🏽 Recent papers accepted at <a href="https://chi2026.acm.org/">CHI'26</a> (<a href="https://dl.acm.org/doi/10.1145/3772318.3790768">paper</a>), <a href="https://facctconference.org/2026/">FAccT'26</a> (<a href="https://dl.acm.org/doi/10.1145/3805689.3806740">paper</a>), <a href="https://sigir2026.org/">SIGIR'26</a> (<a href="https://dl.acm.org/doi/10.1145/3805712.3808626">paper</a>), <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a> (<a href="https://dl.acm.org/doi/10.1145/3805713.3820437">paper</a>), and <a href="https://opensearchfoundation.org/events-osf/ossym2026/">Open Search Symposium</a> (<a href="https://arxiv.org/abs/2603.14584">preprint</a>
 <br/>
 🪑 I served as the <a href="https://ecir2026.eu/calls/call-for-ir-for-good-papers">IR-for-Good</a> Track Co-Chair for <a href="https://ecir2026.eu/">ECIR 2026</a> (March 29 - April 2, 2026)
 <br/>
 ✍🏽 I co-authored a <a href="https://www.peoplesaiconsultation.ca/wp-content/uploads/PCAI_Option2_TWCandTFD_20260309.pdf">Submission to the People’s Consultation on AI</a> with <a href="https://techworkerscoalition.org/canada/">Tech Workers Coalition (TWC) Canada</a> and <a href="https://techfordemocracy.ca/">Technologists for Democracy (TfD)</a> for <a href="https://www.peoplesaiconsultation.ca/">People’s Consultation on AI</a> (March 9, 2026)
 <br/>
 ✍🏽 My <a href="https://disjunctionsmag.com/articles/why-leaving-big-tech/">"breakup letter" to Big Tech</a> has been published in the inaugural issue of the <a href="https://disjunctionsmag.com/">Disjunctions magazine</a> (January 20, 2026)
-<br/>
-🎙️ I presented a keynote address on "<a href="https://www.youtube.com/watch?v=yY4ricuzSlw&t=1335s">Emancipatory Information Retrieval: Radically Reorienting Information Retrieval Research to Resist Corporate and Authoritarian Capture of our Information Ecosystems</a>" at <a href="https://fire.irsi.org.in/fire/2025/">Forum for Information Retrieval Evaluation (FIRE)</a> (December 18, 2025)
 <br/>
 🪑 I served as the Program Committee Co-Chair for <a href="https://www.sigir-ap.org/sigir-ap-2025/call-for-papers">SIGIR-AP 2025</a> (December 7-10, 2025)
 <br/>
