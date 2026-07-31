@@ -32,17 +32,19 @@ However, in 2025, I made the decision to [leave Big Tech and the broader for-pro
 News and updates
 ======
 <div style="font-size:0.85em">
+🎙️ I will be presenting a keynote address at <a href="https://chiir2027.github.io/">ACM CHIIR</a> (March 7 - 11, 2027)
+🎙️ I will be presenting a keynote address at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
 <br/>
 🔍 I am co-organizing a <a href="https://jedi.inertial.science/asist2026/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> workshop at <a href="https://www.asist.org/am2026/am26/">ASIS&T 2026</a> (November 6 - 10, 2026)
 <br/>
 ✍🏽 Paper accepted at <a href="https://sigir-ictir.github.io/ictir2026/">ICTIR'26</a>: <a href="https://arxiv.org/abs/2602.11453">From Noise to Order: Learning to Rank via Denoising Diffusion</a> (July 25, 2026)
 <br/>
-🎙️ I will  be presenting a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</a>" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
+🎙️ I presented a keynote address on "<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</a>" at <a href="https://sigir2026.org/">ACM SIGIR</a> (July 21, 2026)
 <br/>
-🔍 I am co-organizing two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
+🔍 I co-organized two workshops at <a href="https://sigir2026.org/">SIGIR 2026</a>: <a href="https://jedi.inertial.science/sigir2026/">Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms</a> and <a href="https://vulgen-workshop.github.io/SIGIR2026/">VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval</a> (July 24, 2026)
 <br/>
-🔍 I am co-organizing a <a href="https://jedi.inertial.science/facct2026/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> social at <a href="https://facctconference.org/2026/">FAccT 2026</a> (June, 2026)
+🔍 I co-organized a <a href="https://jedi.inertial.science/facct2026/">Justice, Emancipation, Democracy, and Information Access (JEDI)</a> social at <a href="https://facctconference.org/2026/">FAccT 2026</a> (June, 2026)
 <br/>
 ✍🏽 Paper accepted at <a href="https://facctconference.org/2026/">FAccT'26</a>: <a href="https://arxiv.org/abs/2605.06806">Big AI’s Regulatory Capture: Mapping Industry Interference and Government Complicity</a> (June 25 - 28, 2026)
 <br/>
