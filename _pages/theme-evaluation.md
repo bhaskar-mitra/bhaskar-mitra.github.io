@@ -48,6 +48,13 @@ This research theme focuses on the design and develoment of new metrics, benchma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
+    Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
+    In proc. ACM CIKM, 2026<br/>
+    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
+    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Multilingual and Domain-Agnostic Tip-of-the-Tongue Query Generation for Simulated Evaluation</h2>
     Xuhong He, To Eun Kim, Fernando Diaz, Maik Fröebe, Jaime Arguello, and Bhaskar Mitra<br/>
     In proc. ACM SIGIR, 2026<br/>
@@ -62,13 +69,6 @@ This research theme focuses on the design and develoment of new metrics, benchma
     <a href="https://trec.nist.gov/pubs/trec34/papers/Overview_tot.pdf">Publication</a> |
     <a href="../showpdf/?file=Overview_tot_2025">PDF</a> |
     <a href="https://arxiv.org/abs/2601.20671">ArXiv</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
-    Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
-    Preprint, 2025<br/>
-    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
-    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Towards Understanding Bias in Synthetic Data for Evaluation</h2>
