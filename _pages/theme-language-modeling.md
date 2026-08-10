@@ -39,6 +39,13 @@ This research theme focuses on the development and application of (large and sma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
+    Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
+    In proc. ACM CIKM, 2026<br/>
+    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
+    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>VulGen: Workshop on Vulnerabilities in Generative Systems for Information Retrieval</h2>
     Shuoqi Sun, Sara Allawati, Laura Dietz, Madhurima Khirbat, Bhaskar Mitra, Maarten de Rijke, and Damiano Spina<br/>
     In proc. ACM SIGIR, 2026<br/>
@@ -51,13 +58,6 @@ This research theme focuses on the development and application of (large and sma
     Dagstuhl Reports, 2026<br/>
     <a href="https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.9.71">Publication</a> |
     <a href="../showpdf/?file=dagstuhl-report-25391">PDF</a>
-  </article>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
-    Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
-    Preprint, 2025<br/>
-    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
-    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Towards Understanding Bias in Synthetic Data for Evaluation</h2>
