@@ -14,6 +14,16 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Title TBD</h2>
+    <a href="https://chiir2027.github.io/" style="text-decoration:none;color:inherit">ACM CHIIR</a><br/>
+    Berlin, Germany, March 2027<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Title TBD</h2>
+    <a href="https://research.nii.ac.jp/ntcir/ntcir-19/" style="text-decoration:none;color:inherit">NTCIR</a><br/>
+    Tokyo, Japan, December 2026<br/>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</h2>
     <a href="https://sigir2026.org/" style="text-decoration:none;color:inherit">ACM SIGIR</a><br/>
     Naarm / Melbourne, Australia, July 2026<br/>
