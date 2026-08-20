@@ -32,7 +32,7 @@ However, in 2025, I made the decision to [leave Big Tech and the broader for-pro
 News and updates
 ======
 <div style="font-size:0.85em">
-🎙️ My recent and upcoming keynote addresses: <a href="https://fire.irsi.org.in/fire/2025/">FIRE 2025</a> (<a href="https://www.youtube.com/watch?v=yY4ricuzSlw&t=1335s">recording</a>), <a href="https://sites.google.com/view/calcconference/calc2026">CALC 2026</a> (<a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">recording</a>), <a href="https://sigir2026.org/">SIGIR 2026</a> (<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slides</a>), <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR 2026</a>, and <a href="https://chiir2027.github.io/">CHIIR 2027</a>
+🎙️ My recent and upcoming keynote addresses: <a href="https://fire.irsi.org.in/fire/2025/">FIRE 2025</a> (<a href="https://www.youtube.com/watch?v=yY4ricuzSlw&t=1335s">recording</a>), <a href="https://sites.google.com/view/calcconference/calc2026">CALC 2026</a> (<a href="https://www.youtube.com/watch?v=lW8LNlYcdpQ">recording</a>), <a href="https://sigir2026.org/">SIGIR 2026</a> (<a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slides</a>), <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR 2026</a> (upcoming), and <a href="https://chiir2027.github.io/">CHIIR 2027</a> (upcoming)
 <br/>
 🔍 I am co-organizing the <a href="https://ntcir-tot.github.io/">Tip-of-the-Tongue (ToT) Shared Task</a> at <a href="https://research.nii.ac.jp/ntcir/ntcir-19/">NTCIR-19</a> (December 8-10, 2026)
 <br/>
