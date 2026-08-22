@@ -75,6 +75,7 @@ Remember the [infamous example](https://www.bbc.com/news/newsbeat-32332603) of G
 I wouldn't be surprised if a decade later Google/Bing's results for that query are still being highly editorialized.
 Editorially fixing LLM outputs are harder, so suppressing AI Overview results for the query becomes the next logical "solution".
 However, obviously neither of these interventions addresses the underlying systemic problem that this example surfaces.
+It's just playing a continuous game of whac-a-mole with queries that people are most mad about.
 
 So, let's talk about the underlying structural issue here.
 In my opinion, it is important that we develop a shared understanding of the core issue here that is adequately nuanced and critical.
