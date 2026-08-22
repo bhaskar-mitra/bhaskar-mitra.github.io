@@ -58,8 +58,8 @@ Then, yesterday, when I tried the same query, it looked like Google had patched 
 </center>
 <br/>
 
-Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview entirely for the query, even though their AI Overview shows up for other queries of the format "am alone with a ...".
-Instead, for the "am alone with a muslim" query, you now see results pointing to social media posts from people reporting and discussing this issue.
+Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview for the query entirely, even though their AI Overview shows up for other queries of the format "am alone with a ...".
+For the "am alone with a muslim" query, you now instead see results pointing to social media posts from people reporting and discussing this issue.
 
 <center>
   <div style="align-items:center;text-align:center;font-style:italic;width:50%">
