@@ -42,10 +42,11 @@ Similar queries replacing "muslim" with "christian" or "hindu" did not seem to p
   </table>
 </center>
 
-However, other users on the web have reported similar harmful responses for other religions.
-The results clearly differed by location / time / user of the query, as often is the case for web search.
+However, other users on the web have reported similar harmful responses for other religions and identities.
+The results almost certainly differ by location / time / user of the query—as often is the case for web search—which is why different people are getting different results.
+It is also possible that Google is sampling possible responses from the LLM output instead of just picking the most likely answer which leads to stochastic (nondeterministic) behavior. 
 
-I posted about this on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496386517041418241/), and a couple of other social media platforms.
+Anyways, I posted about this on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496386517041418241/), and a couple of other social media platforms.
 Over the last few days, many other folks posted similar examples over social media.
 
 Then, yesterday, when I tried the same query, it looked like Google had patched this up in response to the public backlash.
