@@ -17,6 +17,7 @@ I was able to reproduce it myself (screenshot below).
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim.jpg">
   </div>
 </center>
+<br/>
 
 Similar queries replacing "muslim" with "christian" or "hindu" did not seem to produce the same harmful output.
 
@@ -54,6 +55,7 @@ Then, yesterday, when I tried the same query, it looked like Google had patched 
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-2.jpg">
   </div>
 </center>
+<br/>
 
 Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview entirely for the query, even though their AI Overview shows up for other queries of the format "am alone with a ...".
 Instead, for the "am alone with a muslim" query, you now see results pointing to social media posts from people reporting and discussing this issue.
@@ -63,6 +65,7 @@ Instead, for the "am alone with a muslim" query, you now see results pointing to
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-3.jpg">
   </div>
 </center>
+<br/>
 
 The patch up and the subsequent suppression of AI Overview for this query is unsurprising.
 Systemic fixes for such problems are hard.
