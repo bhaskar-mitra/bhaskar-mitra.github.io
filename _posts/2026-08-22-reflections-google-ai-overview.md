@@ -12,7 +12,7 @@ tags:
 On Thursday night, I came across an [Instagram post](https://www.instagram.com/p/DcR--UytT4z/?igsi=amNrNHZkYTUwMHhh) raising awareness of Google's horribly Islamophobic AI Overview response for the query "am alone with a muslim".
 I was able to reproduce it myself (screenshot below).
 
-<div style="align-items:center;text-align:center;font-style:italic">
+<div style="align-items:center;text-align:center;font-style:italic;width:50%">
     <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim.jpg">
 </div>
 <br/>
