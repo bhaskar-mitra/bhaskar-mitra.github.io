@@ -9,7 +9,7 @@ tags:
   - Critical IR
 ---
 
-On Thursday night, I came across an [Instagram post](https://www.instagram.com/p/DcR--UytT4z/?igsi=amNrNHZkYTUwMHhh) raising awareness of Google's horribly Islamophobic AI Overview response for the query "am alone with a muslim".
+Last Thursday night, I came across an [Instagram post](https://www.instagram.com/p/DcR--UytT4z/?igsi=amNrNHZkYTUwMHhh) raising awareness of Google's horribly Islamophobic AI Overview response for the query "am alone with a muslim".
 I was able to reproduce it myself (screenshot below).
 
 <center>
@@ -88,8 +88,14 @@ _However..._ I would argue that viewing this problem _exclusively_ through the l
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
-I want to be upfront that while algorithmic bias is an incredibly important problem.
+I want to be upfront that algorithmic bias is an incredibly important problem.
 But I also believe that this framing is over-used in responsible tech / AI discourse.
 Part of the reason is that bias or harmful stereotype is how _we_ experience the harm here, even though there might be other structural issues at the root of this on the technology side.
 The other part of reason is likely to do with the simplicity of the construct of bias.
-All of us instinctively understand bias as a problem, and it points to an equally intuitive solution—de-biasing or fairness interventions.
+All of us instinctively understand bias as a problem, and it points to an equally intuitive solution—debiasing or fairness interventions.
+If debiasing was the ideal solution, then it follows that we should all just scream at Google to invest more on bias mitigation.
+Right?
+Well... I am going to argue that it's not so straightforward.
+To be clear, Google and other tech companies are absolutely the ones to be held accountable here.
+What I am arguing is that the missing piece is not just about inadequate investments in bias and fairness research and operationalizing corresponding intervention mechanisms.
+
