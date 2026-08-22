@@ -17,7 +17,6 @@ I was able to reproduce it myself (screenshot below).
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim.jpg">
   </div>
 </center>
-<br/>
 
 Similar queries replacing "muslim" with "christian" or "hindu" did not seem to produce the same harmful output.
 
@@ -41,7 +40,6 @@ Similar queries replacing "muslim" with "christian" or "hindu" did not seem to p
     </tr>
   </table>
 </center>
-<br/>
 
 However, other users on the web have reported similar harmful responses for other religions.
 The results clearly differed by location / time / user of the query, as often is the case for web search.
@@ -56,14 +54,14 @@ Then, yesterday, when I tried the same query, it looked like Google had patched 
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-2.jpg">
   </div>
 </center>
-<br/>
 
 Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview entirely for the query, even though their AI Overview shows up for other queries of the format "am alone with a ...".
+Instead, for the "am alone with a muslim" query, you now see results pointing to social media posts from people reporting and discussing this issue.
 
 <center>
   <div style="align-items:center;text-align:center;font-style:italic;width:50%">
       <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-3.jpg">
   </div>
 </center>
-<br/>
+
 In this post, I want to share a longer reflection on this as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
