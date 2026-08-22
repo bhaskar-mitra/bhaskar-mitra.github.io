@@ -81,11 +81,14 @@ In my opinion, it is important that we develop a shared understanding of the cor
 Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
 
 **It's not _just_ about bias**  &nbsp;
-An obvious technocentric framing of the problem would be through the lens of _bias and fairness_, i.e., Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
+An obvious technocentric framing of the problem would be to see this as a problem of _bias_, i.e., Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
 This is likely what is happening here and is absolutely _an_ important concern that deserves our serious attention.
-_However..._ I would argue that viewing this problem _exclusively_ through a bias and fairness lens is inadequately narrow and potentially distracts us from a bigger critical discourse.
+_However..._ I would argue that viewing this problem _exclusively_ through the lens of bias is inadequately narrow and potentially distracts us from a broader critical discourse.
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
-In this post, I want to briefly demonstrate what I mean in the context of our current example.
+In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
-While algorithmic bias is an incredibly important problem, I also believe that this framing is over-used in responsible tech / AI discourse.
-Part of the reason is that 
+I want to be upfront that while algorithmic bias is an incredibly important problem.
+But I also believe that this framing is over-used in responsible tech / AI discourse.
+Part of the reason is that bias or harmful stereotype is how _we_ experience the harm here, even though there might be other structural issues at the root of this on the technology side.
+The other part of reason is likely to do with the simplicity of the construct of bias.
+All of us instinctively understand bias as a problem, and it points to an equally intuitive solution—de-biasing or fairness interventions.
