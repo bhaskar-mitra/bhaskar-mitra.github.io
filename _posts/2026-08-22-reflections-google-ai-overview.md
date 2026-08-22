@@ -77,8 +77,8 @@ Editorially fixing LLM outputs are harder, so suppressing AI Overview results fo
 However, obviously neither of these interventions addresses the underlying systemic problem that this example surfaces.
 
 So, let's talk about the underlying structural issue here.
-In my opinion, this needs to be a nuanced conversation for us to collectively make real sense of the situation.
-Towards that goal, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
+In my opinion, it is important that we develop a shared understanding of the core issue here that is adequately nuanced and critical.
+Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
 
 **It's not _just_ about bias**  &nbsp;
 An obvious technocentric framing of the problem would be through the lens of _bias and fairness_, i.e., Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
