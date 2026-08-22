@@ -51,16 +51,19 @@ Over the last few days, many other folks posted similar examples over social med
 
 Then, yesterday, when I tried the same query, it looked like Google had patched this up in response to the public backlash.
 
-<div style="align-items:center;text-align:center;font-style:italic">
-    <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-2.jpg">
-</div>
+<center>
+  <div style="align-items:center;text-align:center;font-style:italic;width:50%">
+      <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-2.jpg">
+  </div>
+</center>
 <br/>
 
 Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview entirely for the query, even though their AI Overview shows up for other queries of the format "am alone with a ...".
 
-<div style="align-items:center;text-align:center;font-style:italic">
-    <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-3.jpg">
-</div>
+<center>
+  <div style="align-items:center;text-align:center;font-style:italic;width:50%">
+      <img src="https://bhaskar-mitra.github.io/images/am-alone-with-a-muslim-3.jpg">
+  </div>
+</center>
 <br/>
-
 In this post, I want to share a longer reflection on this as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
