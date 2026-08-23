@@ -114,7 +114,7 @@ My point here is that the necessary mitigation here is not some naive notion of 
 And it is this determination that requires social (not just algorithmic) intervention.
 
 **This is really about power**  &nbsp;
-A typical technocentric response to problematic LLM responses is to emphasize the need for [alignment of AI models](https://en.wikipedia.org/wiki/AI_alignment) towards some "shared human values".
+A typical technocentric response to problematic LLM responses—like the ones we are discussing in this post—is to emphasize the need for [alignment of AI models](https://en.wikipedia.org/wiki/AI_alignment) towards some "shared human values".
 But _who_ gets to decide these so-called shared human values?
 _Who_ gets to decide that the angst of being alone with one group of people is morally justified while the same in the context of another group of people is likely rooted in historical bigotry and dehumanization?
 Concentrating the power to make such critical determination in the hands of corporate owners of our information access platforms poses serious societal risks.
