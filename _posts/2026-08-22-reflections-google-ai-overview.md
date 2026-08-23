@@ -91,7 +91,7 @@ In this post, I want to briefly demonstrate what I mean by that in the context o
 
 One of the reasons why we instinctively reach for the "bias" frame is because it is how we _experience_ such harms, even though there might be other structural issues at the root of this on the technology side.
 The other reason is likely to do with the simplicity of the bias construct.
-All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing or fairness interventions.
+All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing (or fairness interventions).
 I want to be upfront that I believe algorithmic bias is an incredibly important problem and is the correct diagnosis for Google's Islamophobic AI Overview responses that we are talking about in this post.
 But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse, especially popular notions of what constitutes "debiasing".
 
