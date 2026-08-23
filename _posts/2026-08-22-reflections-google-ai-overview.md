@@ -79,7 +79,7 @@ It's just playing a continuous game of whac-a-mole with queries that people are 
 
 So, let's talk about the underlying structural issues here.
 In my opinion, it is important that we develop a shared understanding of the core issues that is both adequately nuanced and critical.
-Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
+Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search among other areas.
 
 **It's not _just_ about bias**  &nbsp;
 An obvious technocentric framing of the problem would be to see this as a problem of _algorithmic bias_, _i.e._, Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
