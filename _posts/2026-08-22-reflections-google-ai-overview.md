@@ -81,7 +81,7 @@ So, let's talk about the underlying structural issues here.
 In my opinion, it is important that we develop a shared understanding of the core issues that is both adequately nuanced and critical.
 Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search among other areas.
 
-**It's not _just_ about bias**  &nbsp;
+**It's not _just_ about algorithmic bias**  &nbsp;
 An obvious technocentric framing of the problem would be to see this as a problem of _algorithmic bias_, _i.e._, Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
 There exists many studies at this point that demonstrate harmful racial ([example](https://www.nature.com/articles/s41586-024-07856-5)), gendered ([example](https://dl.acm.org/doi/10.1145/3582269.3615599)), and religious ([example](https://dl.acm.org/doi/10.1145/3461702.3462624)) biases in LLMs.
 This is likely what is happening here and is absolutely _an_ important concern that deserves our serious attention.
@@ -111,7 +111,7 @@ Is a humanizing and assuring response from Google's AI Overview still appropriat
 Absolutely not!
 
 My point here is that the necessary mitigation here is not some naive notion of debiasing that either presents the safety tips or alternatively the humanizing response uniformly to all groups of people, but rather the correct determination of when the safety tips are appropriate and when the humanizing response is appropriate.
-And it is this determination that requires social (not algorithmic) intervention.
+And it is this determination that requires social (not just algorithmic) intervention.
 
 **This is really about power**  &nbsp;
 A typical technocentric response to problematic LLM responses is to emphasize the need for [alignment of AI models](https://en.wikipedia.org/wiki/AI_alignment) towards some "shared human values".
