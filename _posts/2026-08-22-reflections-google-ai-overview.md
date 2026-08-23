@@ -96,7 +96,22 @@ I want to be upfront that I believe algorithmic bias is an incredibly important 
 But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse, especially popular notions of what constitutes "debiasing".
 
 Let's try a couple of thought experiments.
-Firstly, let's assume Google's AI Overview started showing the same problematic response ("If you are in a private space or feel unsafe ...") for all queries of the form "am alone with a ...".
+First, let's assume Google's AI Overview started showing the same problematic response ("If you are in a private space or feel unsafe ...") for all queries of the form "am alone with a ...".
 That would still disproportionately harm marginalized groups because we do not exist in a vacuum but rather in a society that has historically been shaped by racism, patriarchy, casteism, ableism, Islamophobia, antisemitism, and other forms of dehumanization and oppression.
 So, the harmful impact that results from Google's AI Overview responding with problematic safety tips for the query "am alone with a muslim" is simply not the same as displaying the same response for the query "am alone with a white man".
 This is because not only is it more likely that someone does the former query given the prevalence of present-day Islamophobia, but also because the problematic AI response for the former would reinforce existing harmful stereotypes while there are no such stereotypes to reinforce in the case of the latter.
+
+Second, let's assume Google's AI Overview started showing the same humanizing response ("Being along with a ... person is completely normal, safe, and no different than alone with anyone else...") for all queries of the form "am alone with a ...".
+Is that necessarily good?
+What if the query is "am alone with an islamophobe"?
+Or, "am alone with a white supremacist"?
+Or, "am alone with a misogynist"?
+Or, "am alone with a transphobe"?
+Is a humanizing and assuring response from Google's AI Overview still appropriate?
+Absolutely not!
+
+My point here is that the necessary mitigation here is not some naive notion of debiasing that either presents the safety tips or alternatively the humanizing response uniformly to all groups of people, but rather the correct determination of when the safety tips are appropriate and when the humanizing response is appropriate.
+And it is this determination that requires social (not algorithmic) intervention.
+
+**This is really about power**  &nbsp;
+A typical technocentric response to problematic LLM responses is to emphasize the need for [alignment of AI models](https://en.wikipedia.org/wiki/AI_alignment) towards some "shared human values".
