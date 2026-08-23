@@ -89,7 +89,7 @@ _However..._ I would argue that viewing this problem _exclusively_ through the l
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
-One of the reasons why we instinctively reach for the "bias" frame is because bias is how we _experience_ such harms, even though there might be other structural issues at the root of this on the technology side.
+One of the reasons why we instinctively reach for the "bias" frame is because it is how we _experience_ such harms, even though there might be other structural issues at the root of this on the technology side.
 The other reason is likely to do with the simplicity of the bias construct.
 All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing or fairness interventions.
 I want to be upfront that I believe algorithmic bias is an incredibly important problem (and is the correct diagnosis for Google's Islamophobic AI Overview response).
