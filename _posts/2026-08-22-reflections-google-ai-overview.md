@@ -120,10 +120,12 @@ _Who_ gets to decide that the angst of being alone with one group of people is m
 Concentrating the power to make such critical determination in the hands of corporate owners of our information access platforms poses serious societal risks.
 These risks are particularly serious in light of the increasing alliance between the tech industry and authoritarian actors across the globe.
 
-<div style="align-items:center;text-align:center;font-style:italic;width:90%">
-  <img src="https://bhaskar-mitra.github.io/images/tech-authoritarianism.png"/>
-  <br/>Screenshot of a <a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slide</a> from my recent SIGIR 2026 keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices".
-</div>
+<center>
+  <div style="align-items:center;text-align:center;font-style:italic;width:90%">
+    <img src="https://bhaskar-mitra.github.io/images/tech-authoritarianism.png"/>
+    <br/>Screenshot of a <a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slide</a> from my recent SIGIR 2026 keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices".
+  </div>
+</center>
 <br/>
 
 These risks are not hypothetical.
@@ -131,4 +133,12 @@ These risks are not hypothetical.
 Such acts of ideological imposition are not limited only to state actors.
 In May 2025, [xAI’s chatbot Grok promoted conspiracy theories about “white genocide” in South Africa](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide) after [said conspiracy theories were mainstreamed by xAI’s owner Elon Musk](https://apnews.com/article/trump-musk-whites-south-africa-us-fdef8e9d4d2186227f75b817d8e1d7eb).
 On another occasion the same year, [Grok responded to users with antisemitic and pro-Nazi content](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb), which followed only a few months after Musk himself was embroiled in a [controversy](https://www.zeit.de/kultur/2025-01/elon-musk-hitlergruss-amtseinfuehrung-donald-trump) for making hand gestures at Trump’s presidential inauguration event that appeared to be Nazi salutes.
+
+<center>
+  <div style="align-items:center;text-align:center;font-style:italic;width:50%">
+      <img src="https://bhaskar-mitra.github.io/images/disalignment.png">
+  </div>
+</center>
+<br/>
+
 These instances of attempted ideological influence of public beliefs fit a growing trend of [digital authoritarianism](https://www.tandfonline.com/doi/full/10.1080/02681102.2024.2425352).
