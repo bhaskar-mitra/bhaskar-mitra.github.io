@@ -111,7 +111,7 @@ Or, "am alone with a transphobe"?
 Is a humanizing and assuring response from Google's AI Overview still appropriate?
 Absolutely not!
 
-My point here is that the necessary mitigation here is not some naive notion of debiasing that either presents the safety tips or alternatively the humanizing response uniformly to all groups of people, but rather the correct determination of when the safety tips are appropriate and when the humanizing response is appropriate.
+My point here is that the necessary mitigation here is not some naive notion of debiasing that either presents the safety tips or alternatively the humanizing response uniformly with respect to all groups of people, but rather the correct determination of when the safety tips are appropriate and when the humanizing response is appropriate.
 And it is this determination that requires social (not just algorithmic) intervention.
 
 **This is really about power**  &nbsp;
