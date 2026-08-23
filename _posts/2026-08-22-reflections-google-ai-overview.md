@@ -89,8 +89,8 @@ As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
 I want to be upfront that algorithmic bias is an incredibly important problem.
-But I also believe that this framing is over-used in responsible tech / AI discourse.
-Part of the reason is that bias or harmful stereotype is how _we_ experience the harm here, even though there might be other structural issues at the root of this on the technology side.
+But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse.
+Part of the reason is that bias or harmful stereotype is how _we_ experience such harms, even though there might be other structural issues at the root of this on the technology side.
 The other part of reason is likely to do with the simplicity of the construct of bias.
 All of us instinctively understand bias as a problem, and it points to an equally intuitive solution—debiasing or fairness interventions.
 If debiasing was the ideal solution, then it follows that we should all just scream at Google to invest more on bias mitigation.
