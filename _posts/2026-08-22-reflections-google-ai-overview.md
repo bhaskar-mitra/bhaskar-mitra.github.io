@@ -145,4 +145,4 @@ These instances of attempted ideological influence of public beliefs fit a growi
 It is in the context of this current sociopolitical reality of the tech industry that we must realize the need to simultaneously hold Google accountable for their Islamophobic AI Overview response for the query "am alone with a muslim" AND push against the concentration of power to determine what LLM outputs are societally harmful / appropriate in the hands of few powerful corporate actors.
 In other words, we should be careful that our call for Google to mitigate such biases should not in turn give further credence to Google's (or any other corporate actor's) entrenched hegemonic power over our information ecosystems.
 
-**The call to action**  &nbsp;
+**An alternative path forward**  &nbsp;
