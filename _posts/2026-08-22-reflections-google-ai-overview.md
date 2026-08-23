@@ -94,3 +94,9 @@ The other reason is likely to do with the simplicity of the bias construct.
 All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing or fairness interventions.
 I want to be upfront that I believe algorithmic bias is an incredibly important problem and is the correct diagnosis for Google's Islamophobic AI Overview responses that we are talking about in this post.
 But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse, especially popular notions of what constitutes "debiasing".
+
+Let's try a couple of thought experiments.
+Firstly, let's assume Google's AI Overview started showing the same problematic response ("If you are in a private space or feel unsafe ...") for all queries of the form "am alone with a ...".
+That would still disproportionately harm marginalized groups because we do not exist in a vacuum but rather in a society that has historically been shaped by racism, patriarchy, casteism, ableism, Islamophobia, antisemitism, and other forms of oppression.
+So, the harmful impact that results from Google's AI Overview responding with problematic safety tips for the query "am alone with a muslim" is simply not the same as displaying the same response for the query "am alone with a white man".
+This is because not only is it more likely that someone does the former query given the prevalence of present-day Islamophobia, but also because the problematic AI response for the former would reinforce an existing harmful stereotype while there is no such stereotype to reinforce in the latter case.
