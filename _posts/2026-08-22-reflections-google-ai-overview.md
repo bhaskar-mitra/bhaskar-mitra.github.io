@@ -49,7 +49,7 @@ It is also possible that Google is sampling possible responses from the LLM outp
 Anyways, I posted about this on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496386517041418241/), and a couple of other social media platforms.
 Over the last few days, many other folks posted similar examples over social media.
 
-Then, yesterday, when I tried the same query, it looked like Google had patched this up in response to the public backlash.
+Then, on Friday morning when I tried the same query, it looked like Google had patched this up in response to the public backlash.
 
 <center>
   <div style="align-items:center;text-align:center;font-style:italic;width:50%">
@@ -58,7 +58,7 @@ Then, yesterday, when I tried the same query, it looked like Google had patched 
 </center>
 <br/>
 
-Interestingly, this morning when I tried the same query I noticed Google is now suppressing their AI Overview for the query entirely, even though their AI Overview shows up for other queries of the format "am alone with a ...".
+Interestingly, on Saturday morning when I tried the same query I noticed Google is now suppressing their AI Overview for the query entirely, even though their AI Overview shows up for other queries of the format "am alone with a ...".
 For the "am alone with a muslim" query, you now instead see results pointing to social media posts from people reporting and discussing this issue.
 
 <center>
