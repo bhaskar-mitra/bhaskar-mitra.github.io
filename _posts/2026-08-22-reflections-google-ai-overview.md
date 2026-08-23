@@ -77,7 +77,7 @@ Editorially fixing LLM outputs are harder, so suppressing AI Overview results fo
 However, obviously neither of these interventions addresses the underlying systemic problem that this example surfaces.
 It's just playing a continuous game of whac-a-mole with queries that people are most mad about.
 
-So, let's talk about the underlying structural issue here.
+So, let's talk about the underlying structural issues here.
 In my opinion, it is important that we develop a shared understanding of the core issue that is both adequately nuanced and critical.
 Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
 
