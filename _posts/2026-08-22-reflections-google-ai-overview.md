@@ -135,7 +135,7 @@ In May 2025, [xAI’s chatbot Grok promoted conspiracy theories about “white g
 On another occasion the same year, [Grok responded to users with antisemitic and pro-Nazi content](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb), which followed only a few months after Musk himself was embroiled in a [controversy](https://www.zeit.de/kultur/2025-01/elon-musk-hitlergruss-amtseinfuehrung-donald-trump) for making hand gestures at Trump’s presidential inauguration event that appeared to be Nazi salutes.
 
 <center>
-  <div style="align-items:center;text-align:center;font-style:italic;width:50%">
+  <div style="align-items:center;text-align:center;font-style:italic;width:70%">
       <img src="https://bhaskar-mitra.github.io/images/disalignment.png">
   </div>
 </center>
