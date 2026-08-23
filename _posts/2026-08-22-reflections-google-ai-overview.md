@@ -84,7 +84,7 @@ Therefore, in this post, I will share a longer reflection on this topic as an in
 **It's not _just_ about bias**  &nbsp;
 An obvious technocentric framing of the problem would be to see this as a problem of _bias_, i.e., Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
 This is likely what is happening here and is absolutely _an_ important concern that deserves our serious attention.
-_However..._ I would argue that viewing this problem _exclusively_ through the lens of bias is inadequately narrow and potentially distracts us from a broader critical discourse.
+_However..._ I would argue that viewing this problem _exclusively_ through the lens of bias is inadequate and potentially distracts us from a more nuanced discourse.
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
