@@ -157,5 +157,5 @@ By the way, we should note that this proposal makes sense only in the context of
 For, as long as platforms are centrally controlled (by corporations or authoritarian state actors) no true power will be afforded to the public.
 So, while the central concern of this blog post is the harmful bias in Google's AI Overviews, it would be judicious for us to recognize that the real structural solution to this problem lies in the realization of public information access platforms that make space for meaningful public participation.
 
-These are incredibly challenging (and exciting) research problems that may hold the key to addressing today's critical societal concerns around information access.
+These are incredibly challenging (and exciting) problems for information access technology research and development that may hold the key to addressing critical contemporary societal concerns around information access.
 I am personally very interested in this area (_e.g._,see [recent work](https://arxiv.org/abs/2601.09600)) and I hope you, the reader, find this personal reflection useful.
