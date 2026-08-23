@@ -143,6 +143,6 @@ On another occasion the same year, [Grok responded to users with antisemitic and
 
 These instances of attempted ideological influence of public beliefs fit a growing trend of [digital authoritarianism](https://www.tandfonline.com/doi/full/10.1080/02681102.2024.2425352).
 It is in the context of this current sociopolitical reality of the tech industry that we must realize the need to simultaneously hold Google accountable for their Islamophobic AI Overview response for the query "am alone with a muslim" AND push against the concentration of power to determine what LLM outputs are societally harmful / appropriate in the hands of few powerful corporate actors.
-In other words, our call for Google to mitigate such biases should not in turn further entrench Google's (or any other corporate actor's) hegemony over our information ecosystems.
+In other words, we should be careful that our call for Google to mitigate such biases should not in turn give further credence to Google's (or any other corporate actor's) entrenched hegemonic power over our information ecosystems.
 
 **The call to action**  &nbsp;
