@@ -148,7 +148,7 @@ In other words, we should be careful that our call for Google to mitigate such b
 
 **An alternative path forward**  &nbsp;
 At the root of this issue are certain philosophically [positivist](https://en.wikipedia.org/wiki/Positivism) assumptions about information and information access that form the basis of research in fields like information retrieval (IR).
-These assumptions devalue the role of complex social processes and negotiations in sense-making and knowledge production, and in turn the need for social participation within information access pipelines.
+These assumptions devalue the role of complex social processes and negotiations in sense-making and knowledge production, and in turn the need for social participation within information access.
 To address this we need to codify equitable spaces for social deliberation and negotiation _within_ our information access platforms.
 In other words, _search is social_—and we need to fundamentally rethink the design of our information access systems so as to empower the public to meaningfully participate in these societally-critical decision-making.
 This is a radical departure from how IR today thinks about the systems it designs, but also an opportunity for the field to bridge with adjacent communities such as library and information sciences, science and technology studies, and critical theory among others that have long wrestled with questions at the intersection of information and power.
