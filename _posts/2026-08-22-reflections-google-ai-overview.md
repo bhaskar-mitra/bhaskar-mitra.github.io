@@ -115,3 +115,20 @@ And it is this determination that requires social (not algorithmic) intervention
 
 **This is really about power**  &nbsp;
 A typical technocentric response to problematic LLM responses is to emphasize the need for [alignment of AI models](https://en.wikipedia.org/wiki/AI_alignment) towards some "shared human values".
+But _who_ gets to decide these so-called shared human values?
+_Who_ gets to decide that the angst of being alone with one group of people is morally justified while the same in the context of another group of people is likely rooted in historical bigotry and dehumanization?
+Concentrating the power to make such critical determination in the hands of corporate owners of our information access platforms poses serious societal risks.
+These risks are particularly serious in light of the increasing alliance between the tech industry and authoritarian actors across the globe.
+
+<div style="align-items:center;text-align:center;font-style:italic;width:90%">
+  <img src="https://bhaskar-mitra.github.io/images/tech-authoritarianism.png"/>
+  <br/>Screenshot of a <a href="https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx">slide</a> from my recent SIGIR 2026 keynote address on "Emancipatory Information Retrieval: Towards Critical IR Theories and Practices".
+</div>
+<br/>
+
+These risks are not hypothetical.
+[U.S. president Donald J. Trump's executive order titled "Preventing Woke AI in the Federal Government"](https://www.eff.org/deeplinks/2025/08/president-trumps-war-woke-ai-civil-liberties-nightmare) and [Chinese AI chatbot DeepSeek's refusal to answer questions on certain political topics](https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan) (like Tiananmen Square and Taiwanese independence) are concrete examples of harmful ideological imposition by authoritarian state actors on our information access platforms.
+Such acts of ideological imposition are not limited only to state actors.
+In May 2025, [xAI’s chatbot Grok promoted conspiracy theories about “white genocide” in South Africa](https://www.theguardian.com/technology/2025/may/14/elon-musk-grok-white-genocide) after [said conspiracy theories were mainstreamed by xAI’s owner Elon Musk](https://apnews.com/article/trump-musk-whites-south-africa-us-fdef8e9d4d2186227f75b817d8e1d7eb).
+On another occasion the same year, [Grok responded to users with antisemitic and pro-Nazi content](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb), which followed only a few months after Musk himself was embroiled in a [controversy](https://www.zeit.de/kultur/2025-01/elon-musk-hitlergruss-amtseinfuehrung-donald-trump) for making hand gestures at Trump’s presidential inauguration event that appeared to be Nazi salutes.
+These instances of attempted ideological influence of public beliefs fit a growing trend of [digital authoritarianism](https://www.tandfonline.com/doi/full/10.1080/02681102.2024.2425352).
