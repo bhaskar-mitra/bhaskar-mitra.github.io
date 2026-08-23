@@ -44,7 +44,7 @@ Similar queries replacing "muslim" with "christian" or "hindu" did not seem to p
 
 However, other users on the web _have_ reported similar harmful responses for other religions and identities.
 The results almost certainly differ by location / time / user of the query—as often is the case for web search—which is why different people are getting different results.
-It is also possible that Google is sampling possible responses from the LLM output instead of just picking the most likely answer which leads to stochastic (nondeterministic) behavior. 
+It is also possible that Google is sampling possible responses from the large language model (LLM) output instead of just picking the most likely answer which leads to stochastic (nondeterministic) behavior. 
 
 Anyways, I posted about this on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496386517041418241/), and a couple of other social media platforms.
 Over the last few days, many other folks posted similar examples over social media.
@@ -82,20 +82,15 @@ In my opinion, it is important that we develop a shared understanding of the cor
 Therefore, in this post, I will share a longer reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search.
 
 **It's not _just_ about bias**  &nbsp;
-An obvious technocentric framing of the problem would be to see this as a problem of _bias_, i.e., Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
+An obvious technocentric framing of the problem would be to see this as a problem of _algorithmic bias_, _i.e._, Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
+There exists many studies at this point that demonstrate harmful racial ([example](https://www.nature.com/articles/s41586-024-07856-5)), gendered ([example](https://dl.acm.org/doi/10.1145/3582269.3615599)), and religious ([example](https://dl.acm.org/doi/10.1145/3461702.3462624)) biases in LLMs.
 This is likely what is happening here and is absolutely _an_ important concern that deserves our serious attention.
-_However..._ I would argue that viewing this problem _exclusively_ through the lens of bias is inadequate and potentially distracts us from a more nuanced discourse.
+_However..._ I would argue that viewing this problem _exclusively_ through the lens of algorithmic bias is inadequate and potentially constraints the necessary discourse.
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
-I want to be upfront that algorithmic bias is an incredibly important problem.
-But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse.
-Part of the reason is that bias or harmful stereotype is how _we_ experience such harms, even though there might be other structural issues at the root of this on the technology side.
-The other part of reason is likely to do with the simplicity of the construct of bias.
-All of us instinctively understand bias as a problem, and it points to an equally intuitive solution—debiasing or fairness interventions.
-If debiasing was the ideal solution, then it follows that we should all just scream at Google to invest more on bias mitigation.
-Right?
-Well... I am going to argue that it's not so straightforward.
-To be clear, Google and other tech companies are absolutely the ones to be held accountable here.
-What I am arguing is that the missing piece is not just about inadequate investments in bias and fairness research and operationalizing corresponding intervention mechanisms.
-
+One of the reasons why we instinctively reach for the "bias" frame is because bias is how we _experience_ such harms, even though there might be other structural issues at the root of this on the technology side.
+The other reason is likely to do with the simplicity of the bias construct.
+All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing or fairness interventions.
+I want to be upfront that I believe algorithmic bias is an incredibly important problem (and is the correct diagnosis for Google's Islamophobic AI Overview response).
+But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse, especially popular notions of what should constitute "debiasing".
