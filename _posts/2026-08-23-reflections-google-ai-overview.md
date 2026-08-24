@@ -165,3 +165,6 @@ If this is interesting to you, get in touch.
 
 Thank for reading.
 I hope you, the reader, find this personal reflection useful.
+
+<br/><br/>
+**_Would you like to comment on or discuss this post?_** You can do so on these social media threads on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7497608089408274432/), [Bluesky](https://bsky.app/profile/bmitra.bsky.social/post/3mtt5kexk222a), and [Mastodon](https://mastodon.social/@bmitra/117150127148262998).
