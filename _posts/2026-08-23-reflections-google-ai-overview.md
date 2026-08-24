@@ -81,18 +81,18 @@ So, let's talk about the underlying structural issues here.
 In my opinion, it is important that we develop a shared understanding of the core issues that is both adequately nuanced and critical.
 Therefore, in this post, I will share a bit of a reflection on this topic as an information retrieval researcher and as someone who previously spent nearly two decades in Big Tech working on web search among other areas.
 
-**It's not _just_ about algorithmic bias**  &nbsp;
-An obvious technocentric framing of the problem would be to see this as a problem of _algorithmic bias_, _i.e._, Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
+**It's not _just_ about model bias**  &nbsp;
+An obvious technocentric framing of the problem would be to see this as a problem of _model bias_, _i.e._, Google's LLM is reproducing in its output the hateful stereotypes reflected in its training data.
 There exists many studies at this point that demonstrate harmful racial ([example](https://www.nature.com/articles/s41586-024-07856-5)), gendered ([example](https://dl.acm.org/doi/10.1145/3582269.3615599)), and religious ([example](https://dl.acm.org/doi/10.1145/3461702.3462624)) biases in LLMs.
 This is likely what is happening here and is absolutely _an_ important concern that deserves our serious attention.
-_However..._ I would argue that viewing this problem _exclusively_ through the lens of algorithmic bias is inadequate and potentially constraints the necessary discourse.
+_However..._ I would argue that viewing this problem _exclusively_ through the lens of model bias is inadequate and potentially constraints the necessary discourse.
 As it happens, I recently [wrote](https://sigir.org/wp-content/uploads/2026/07/p13.pdf) and [talked](https://bhaskar-mitra.github.io/files/emancipatory-ir-sigir2026-keynote.pptx) about the need for us to look at such issues through a critical (and not just liberal) lens.
 In this post, I want to briefly demonstrate what I mean by that in the context of our current example.
 
 One of the reasons why we instinctively reach for the "bias" frame is because it is how we _experience_ such harms, even though there might be other structural issues at the root of this on the technology side.
 The other reason is likely to do with the simplicity of the bias construct.
 All of us instinctively understand bias as a problem, and it points to a potentially tractable solution that is situated exclusively within the technological realm—_i.e._, debiasing (or fairness interventions).
-I want to be upfront that I believe algorithmic bias is an incredibly important problem and is the correct diagnosis for Google's Islamophobic AI Overview responses that I am focusing on in this post.
+I want to be upfront that I believe model bias is an incredibly important problem and is the correct diagnosis for Google's Islamophobic AI Overview responses that I am focusing on in this post.
 But I also believe that the concerns of bias are often reduced to an over-simplified strawman in the responsible tech / AI discourse, especially popular notions of what constitutes "debiasing".
 
 Let's try a couple of thought experiments.
