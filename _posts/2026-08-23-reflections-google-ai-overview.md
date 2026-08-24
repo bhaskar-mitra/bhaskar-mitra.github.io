@@ -149,13 +149,19 @@ In other words, we should be careful that our call for Google to mitigate such b
 **An alternative path forward**  &nbsp;
 At the root of this issue are certain philosophically [positivist](https://en.wikipedia.org/wiki/Positivism) assumptions about information and information access that form the basis of research in fields like information retrieval (IR).
 These assumptions devalue the role of complex social processes and negotiations in sense-making and knowledge production, and in turn the need for social participation within information access.
-To address this, we need to codify equitable spaces for social deliberation and negotiation _within_ our information access platforms.
+Instead, we need to make room for social deliberation and negotiation _within_ our information access platforms.
 In other words, _search is social_—and we need to fundamentally rethink the design of our information access systems so as to empower the public to meaningfully participate in these societally-critical decision-making.
 This is a radical departure from how IR today thinks about the systems it designs, but also an opportunity for the field to bridge with adjacent communities such as library and information sciences, science and technology studies, and critical theory among others that have long wrestled with questions at the intersections of information and power.
 
-By the way, we should note that this proposal makes sense only in the context of public information access platforms.
+We should note that this proposal makes sense only in the context of public information access platforms.
 For, as long as platforms are centrally controlled (by corporations or authoritarian state actors) no true power will be afforded to the public.
 So, while the central concern of this blog post is the harmful bias in Google's AI Overviews, it would be judicious for us to recognize that the real structural solution to this problem lies in the realization of public information access platforms that make space for meaningful public participation.
 
+What is the right way to do this?
+Honestly, we don't know yet.
 These are incredibly challenging (and exciting) problems for information access technology research and development that may hold the key to addressing critical contemporary societal concerns around information access.
-I am personally very interested in this area (_e.g._,see [recent work](https://arxiv.org/abs/2601.09600)) and I hope you, the reader, find this personal reflection useful.
+I am very interested in this area—_e.g._, ongoing work on [Freirean Design](https://arxiv.org/abs/2601.09600) and more broadly on [emancipatory information access](https://bhaskar-mitra.github.io/theme-emancipatory-ia/)—and have been trying to pull together a [community of interdisciplinary researchers](https://jedi.inertial.science/) interested in realizing information access as a force for justice, emancipation, and democracy, and safeguarding our information ecosystems from authoritarian and corporate capture.
+If this is interesting to you, get in touch.
+
+Thank for reading.
+I hope you, the reader, find this personal reflection useful.
