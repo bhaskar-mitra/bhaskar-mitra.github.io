@@ -51,6 +51,7 @@ This research theme focuses on the design and develoment of new metrics, benchma
     <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
     Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
     In proc. ACM CIKM, 2026<br/>
+    <a href="https://dl.acm.org/doi/10.1145/3799682.3840214">Publication</a> |
     <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
     <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
   </article>
