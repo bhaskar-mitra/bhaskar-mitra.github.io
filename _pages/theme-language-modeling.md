@@ -61,6 +61,13 @@ This research theme focuses on the development and application of (large and sma
     <a href="../showpdf/?file=dagstuhl-report-25391">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
+    Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
+    Preprint, 2025<br/>
+    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
+    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
+  </article>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Towards Understanding Bias in Synthetic Data for Evaluation</h2>
     Hossein A. Rahmani, Varsha Ramineni, Nick Craswell, Bhaskar Mitra, and Emine Yilmaz<br/>
     In proc. ACM CIKM, 2025<br/>
