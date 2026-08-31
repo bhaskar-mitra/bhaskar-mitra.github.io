@@ -48,12 +48,11 @@ This research theme focuses on the design and develoment of new metrics, benchma
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Judging the Judges: A Collection of LLM-Generated Relevance Judgements</h2>
+    <h2>LLMJudge: Meta-Evaluating Automatic Relevance Judgments</h2>
     Hossein A. Rahmani, Clemencia Siro, Mohammad Aliannejadi, Nick Craswell, Charles L. A. Clarke, Guglielmo Faggioli, Bhaskar Mitra, Paul Thomas, and Emine Yilmaz<br/>
     In proc. ACM CIKM, 2026<br/>
     <a href="https://dl.acm.org/doi/10.1145/3799682.3840214">Publication</a> |
-    <a href="../showpdf/?file=judging-the-Judges">PDF</a> |
-    <a href="https://arxiv.org/abs/2502.13908">ArXiv</a>
+    <a href="../showpdf/?file=3799682.3840214">PDF</a>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Multilingual and Domain-Agnostic Tip-of-the-Tongue Query Generation for Simulated Evaluation</h2>
