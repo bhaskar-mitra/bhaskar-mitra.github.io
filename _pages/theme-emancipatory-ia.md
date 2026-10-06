@@ -141,6 +141,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Open, to What End? A Capability-Theoretic Perspective on Open Search</h2>
     Nicola Neophytou and Bhaskar Mitra<br/>
     In proc. Open Search Symposium, 2026<br/>
+    <a href="https://e-publishing.cern.ch/index.php/OSSYM/issue/view/ossym2026/OSSYM-2026-Proceedings">Publication</a> (Page 39) |
     <a href="../showpdf/?file=open-to-what-end">PDF</a> |
     <a href="https://arxiv.org/abs/2603.14584">ArXiv</a>
   </article>
