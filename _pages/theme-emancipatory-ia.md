@@ -14,7 +14,7 @@ Examples of structural oppression in this context include colonialism, racism, p
 <hr />
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2>Title TBD</h2>
+    <h2>Information Access, for What? Critical Reflections on the Goals, Values, and Imaginaries of Our Research Communities</h2>
     <a href="https://chiir2027.github.io/" style="text-decoration:none;color:inherit">ACM CHIIR</a><br/>
     Berlin, Germany, March 2027<br/>
   </article>
@@ -22,6 +22,7 @@ Examples of structural oppression in this context include colonialism, racism, p
     <h2>Seize the Means of Retrieval: Safeguarding Our Information Platforms from Corporate and Authoritarian Capture</h2>
     <a href="https://research.nii.ac.jp/ntcir/ntcir-19/" style="text-decoration:none;color:inherit">NTCIR</a><br/>
     Tokyo, Japan, December 2026<br/>
+    <a href="../files/emancipatory-ir-ntcir2026-keynote.pptx">PPT</a><br/>
   </article>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h2>Emancipatory Information Retrieval: Towards Critical IR Theories and Practices</h2>
