@@ -15,6 +15,7 @@ I co-founded several community benchmarking efforts including the MS MARCO ranki
 I have co-authored one book ("An Introduction to Neural Information Retrieval" with Emerald Publishing) and one book chapter ("Sociotechnical Implications of Generative Artificial Intelligence for Information Access" with Springer Publishing).
 I am currently serving as the [ACM SIGIR Secretary](https://sigir.org/general-information/officers-and-volunteers) and as an [Associate Editor](https://dl.acm.org/journal/tois/editorial-board) for the ACM Transactions on Information System (TOIS) journal.
 I previously served as the ACM SIGIR Community Relations Coordinator (2022-2025).
+I am a member of [The Coalition for Independent Technology Research (CITR)](https://independenttechresearch.org/) and [the Canadian chapter of the Tech Workers Coalition (TWC)](https://techworkerscoalition.org/canada/).
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
 
 I previously worked at Microsoft for nearly two decades, first at Bing and then at Microsoft Research.
