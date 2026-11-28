@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an information retrieval researcher based in Tiohtià:ke / Mooniyang / Montréal, Canada.
+I am an information access researcher based in Tiohtià:ke / Mooniyang / Montréal, Canada.
 My research focuses on the intersection of online information access, machine learning / AI, and concerns of social justice and emancipation.
 I am currently serving as the [ACM SIGIR Secretary](https://sigir.org/general-information/officers-and-volunteers) and as an [Associate Editor](https://dl.acm.org/journal/tois/editorial-board) for the ACM Transactions on Information System (TOIS) journal.
 I previously served as the ACM SIGIR Community Relations Coordinator (2022-2025).
