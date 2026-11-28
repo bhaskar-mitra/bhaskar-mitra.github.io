@@ -9,10 +9,13 @@ redirect_from:
 
 I am an information access researcher based in Tiohtià:ke / Mooniyang / Montréal, Canada.
 My research focuses on the intersection of online information access, machine learning / AI, and concerns of social justice and emancipation.
+I have two decades of industry experience and currently working as an independent researcher.
+I have received several awards for my research, including two [ACM SIGIR Early Career Researcher Awards](https://sigir.org/awards/sigir-ecr-awards/) (2024) for excellence in research and in community engagement.
+I co-founded several community benchmarking efforts including the MS MARCO ranking leaderboards, two TREC Tracks co-sponsored by the US National Institute of Standards and Technology (NIST): the Deep Learning Track (2019-2023) and the Tip-of-the-Tongue Track (2023-2025), and the NTCIR Tip-of-the-Tongue Task (2026-).
 I am currently serving as the [ACM SIGIR Secretary](https://sigir.org/general-information/officers-and-volunteers) and as an [Associate Editor](https://dl.acm.org/journal/tois/editorial-board) for the ACM Transactions on Information System (TOIS) journal.
 I previously served as the ACM SIGIR Community Relations Coordinator (2022-2025).
-I have received several awards for my research, including two [ACM SIGIR Early Career Researcher Awards](https://sigir.org/awards/sigir-ecr-awards/) (2024) for excellence in research and in community engagement.
 I received my Ph.D. in Computer Science from University College London under the supervision of [Dr. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
+
 I previously worked at Microsoft for nearly two decades, first at Bing and then at Microsoft Research.
 However, in 2025, I made the decision to [leave Big Tech and the broader for-profit tech industry](https://disjunctionsmag.com/articles/why-leaving-big-tech/) in objection to their devastating impact on society.
 <br/><br/>
